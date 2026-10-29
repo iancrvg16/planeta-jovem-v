@@ -1,10 +1,6 @@
 {
   "version": 1,
-  "statuses": [
-    "aprovado-com-evidencia",
-    "pendente",
-    "restrito"
-  ],
+  "statuses": ["aprovado-com-evidencia", "pendente", "restrito"],
   "materials": [
     {
       "materialId": "media-751e916e61015e07",
