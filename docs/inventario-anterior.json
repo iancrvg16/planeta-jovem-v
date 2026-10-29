@@ -1,0 +1,242 @@
+[
+  {
+    "arquivo": "src/App.css",
+    "bytes": 2891,
+    "sha256": "6e25a776d3e8102da5bacb3cb99f4a5fc662a2e01e6143140671a556d28c3d5c"
+  },
+  {
+    "arquivo": "src/App.tsx",
+    "bytes": 2636,
+    "sha256": "efb7ec174dfb98e76495493e9c464aa64880b10cdb2e0bfee5aa5529bfc889df"
+  },
+  {
+    "arquivo": "src/index.css",
+    "bytes": 54661,
+    "sha256": "d0bb2b59126925622feb244eca9432186273fbf73a9fb53d8bf0c7f83998c70d"
+  },
+  {
+    "arquivo": "src/main.tsx",
+    "bytes": 230,
+    "sha256": "6e9e5807fcbd48b75a96db5cbef36c996262196be42e6d4760dc86babbe61ad2"
+  },
+  {
+    "arquivo": "src/assets/hero.png",
+    "bytes": 13057,
+    "sha256": "881ffbcaafc212e49addad08846a5b82761355fa20624253af3477ba33262c5c"
+  },
+  {
+    "arquivo": "src/assets/react.svg",
+    "bytes": 4126,
+    "sha256": "35ef61ed53b323ae94a16a8ec659b3d0af3880698791133f23b084085ab1c2e5"
+  },
+  {
+    "arquivo": "src/assets/vite.svg",
+    "bytes": 8709,
+    "sha256": "5be21acd42eb7b896e517f4e0f0f11eb5c5d9e54fbbcebe9453f033008fcca6f"
+  },
+  {
+    "arquivo": "src/data/types.ts",
+    "bytes": 1262,
+    "sha256": "57129a99aa69ecee9cbdb7932d17b54dd4d6998f009faca359538c20be3f2a39"
+  },
+  {
+    "arquivo": "src/data/site.ts",
+    "bytes": 526,
+    "sha256": "b115852bcd1f50a5aa783cace6d6bcc19c33d5294d10e2e7011a120a57f26954"
+  },
+  {
+    "arquivo": "src/data/countries.ts",
+    "bytes": 1867,
+    "sha256": "d2316408cea61c962ff000aaf3871b0ca1db63e24b5d91a1c0806aec3f8394f0"
+  },
+  {
+    "arquivo": "src/data/news.ts",
+    "bytes": 7122,
+    "sha256": "5444344375e045dc3f194af4aedd9800ba345f21aa62f4cee6043bb2feff43f1"
+  },
+  {
+    "arquivo": "src/data/editions.ts",
+    "bytes": 1861,
+    "sha256": "1fdb43779695d07ca5a42c1eecee899103bf4c788402afaff58f690614f2d638"
+  },
+  {
+    "arquivo": "src/data/journey.ts",
+    "bytes": 3878,
+    "sha256": "2470ffd77b828194ff553c02581f829f422eb0c27df4f9894838bdc9263d12fd"
+  },
+  {
+    "arquivo": "src/components/Icon.tsx",
+    "bytes": 3025,
+    "sha256": "5e9edf247df1c07ca53f326de2644dc4ac09dd33821f8db2ac2e7fa23344effe"
+  },
+  {
+    "arquivo": "src/components/ui.tsx",
+    "bytes": 5687,
+    "sha256": "5eaf1081c80e4a700f4180bc4187d50d2ed394cce1d14dd959512a2e430bc563"
+  },
+  {
+    "arquivo": "src/components/Layout.tsx",
+    "bytes": 5553,
+    "sha256": "4edce2b6bbfbdc35cca613ea59c704dfb0b282a19c36773cd43dbbd03cc0ffff"
+  },
+  {
+    "arquivo": "src/components/Repository.tsx",
+    "bytes": 8027,
+    "sha256": "534f1d35a72186cebe23f5dca6aad7ca98fb2acb5b855a2ad4f07eaf1d08b29e"
+  },
+  {
+    "arquivo": "src/components/Journey.tsx",
+    "bytes": 2578,
+    "sha256": "43c356c14bc342aec68af581d657febce8b224a59955ac059adad5371c398ae8"
+  },
+  {
+    "arquivo": "src/components/AssetImage.tsx",
+    "bytes": 580,
+    "sha256": "90ace7e1ebe31697c382214d6f21f7a93cf2453204c7edd06e8f9020fb483f39"
+  },
+  {
+    "arquivo": "src/pages/Home.tsx",
+    "bytes": 7454,
+    "sha256": "6a0e503620acde8af4d2971d34bead123dc8d6b161e6760119988f2e20b0cf08"
+  },
+  {
+    "arquivo": "src/pages/Countries.tsx",
+    "bytes": 9594,
+    "sha256": "ccb7a540a72bce5a48c6a0a6daf6150c4805d3043b566b7f17a281dcb4cf5461"
+  },
+  {
+    "arquivo": "src/pages/News.tsx",
+    "bytes": 7854,
+    "sha256": "5b42f427e82e1c84925acf098456c07d5425e051ee9da60598d20ce3c14bf00f"
+  },
+  {
+    "arquivo": "src/pages/Documents.tsx",
+    "bytes": 4102,
+    "sha256": "ea920817318bae2be75b3d4ad83c0261722e871ed0abc8db79c59cadd5664aa6"
+  },
+  {
+    "arquivo": "src/pages/About.tsx",
+    "bytes": 6156,
+    "sha256": "7e8869fc0cc0314994f39a4fd9d82a7edb565fa7a11c8529542f76f83989cb63"
+  },
+  {
+    "arquivo": "src/pages/NotFound.tsx",
+    "bytes": 696,
+    "sha256": "cb0f24213734ae2f469f13045b61ac24324199ec19b4de859126cd25a521f07c"
+  },
+  {
+    "arquivo": "src/lib/media.ts",
+    "bytes": 1064,
+    "sha256": "0bb77dc7430a7fdd9e308143a7ffcdf419a6a591423d595d269dbebf7c436967"
+  },
+  {
+    "arquivo": "src/lib/usePageMeta.ts",
+    "bytes": 602,
+    "sha256": "1f8ea968127e3a44645381ae6c6bc1c1c681ebe4706fa80208499c4cc602a6d6"
+  },
+  {
+    "arquivo": "public/favicon.svg",
+    "bytes": 9522,
+    "sha256": "61bc9a161de58248288e6905425d7180f0624c2865007b97d763fdac12043a66"
+  },
+  {
+    "arquivo": "public/icons.svg",
+    "bytes": 5031,
+    "sha256": "b45fa506195cfcdef406ba9f0c77b36ddc1a7c224040926ec70abc2fdea7b93a"
+  },
+  {
+    "arquivo": "public/robots.txt",
+    "bytes": 23,
+    "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+  },
+  {
+    "arquivo": "public/assets/planeta-jovem-oficial.png",
+    "bytes": 5144,
+    "sha256": "bc36d17be2792b09031caafaae8cc5e3d40bb90114a037c5089fe368b8421168"
+  },
+  {
+    "arquivo": "public/assets/favicon.svg",
+    "bytes": 284,
+    "sha256": "a11cbe16504acf1dc1c4d2702c948338a8b4a5f1bed7666499d138c342052908"
+  },
+  {
+    "arquivo": "public/documents/Manual_do_Tripulante_Intergalactico.pdf",
+    "bytes": 301985,
+    "sha256": "3dc3bfb8e7b3a60884eb91df075440fa98072b80ec642aa737d5398e5d84ce86"
+  },
+  {
+    "arquivo": "public/assets/fonts/overpass-latin.woff2",
+    "bytes": 39380,
+    "sha256": "29217ef8adef5f6c059feb461bdb029348205fc233dc9b6ca8604b0d068ac086"
+  },
+  {
+    "arquivo": "public/assets/fonts/OFL.txt",
+    "bytes": 4392,
+    "sha256": "86e5ff25c701ec446d20b1a85b02ee6d36de8503a7288a4c948f5459809af1f0"
+  },
+  {
+    "arquivo": "public/assets/flags/jakkar.svg",
+    "bytes": 459,
+    "sha256": "04ad85b0faa2d7ab6d68d0d682761d8bfd0733a311f233eda6f361c9e8a426e5"
+  },
+  {
+    "arquivo": "public/assets/flags/galixandria.svg",
+    "bytes": 452,
+    "sha256": "f52fde2aadc67bcb71f4eb0ffd87f0109daf740f7d946f1522db85447c462b61"
+  },
+  {
+    "arquivo": "public/assets/flags/midoria.svg",
+    "bytes": 452,
+    "sha256": "5618de203078f4b9edc7ab67462ecd2d9bbaf3f090d96defc9c2d4846761de3a"
+  },
+  {
+    "arquivo": "public/assets/flags/lervuria.svg",
+    "bytes": 452,
+    "sha256": "ce225f950c569cad0c1a21925068fddd3961b6dbf43b09459952258e6d87eecd"
+  },
+  {
+    "arquivo": "public/assets/flags/astalania.svg",
+    "bytes": 459,
+    "sha256": "d8ba4683bd2436f7bd9075c30aef1911e7852eaa1b53c7686e9815dfde7119fc"
+  },
+  {
+    "arquivo": "public/assets/flags/dolminn.svg",
+    "bytes": 452,
+    "sha256": "85876b252b8fb3db1f46e8bc58f71102b87d85a12038b5e0880d23b107dfb098"
+  },
+  {
+    "arquivo": "public/assets/flags/jambor.svg",
+    "bytes": 452,
+    "sha256": "15d9c5809a79b689e39ea14dd709d0b19a53fb2940e25c8edfd3ce50184b2e9a"
+  },
+  {
+    "arquivo": "public/assets/flags/olimpia.svg",
+    "bytes": 452,
+    "sha256": "94247e3c5d1910f8e1d8725d677bc625e851d57815ca335ac7f1e70d0e93cbb0"
+  },
+  {
+    "arquivo": "public/assets/illustrations/planet.svg",
+    "bytes": 2687,
+    "sha256": "81d741f20a85e23fbf2c31316a850e4b4ed0aedb7896792be40d32489d112631"
+  },
+  {
+    "arquivo": "public/assets/illustrations/manual.svg",
+    "bytes": 2085,
+    "sha256": "fd9629c177f96f4928286193d20d299a921cc3669894f9618f36b0f86f1e9877"
+  },
+  {
+    "arquivo": "public/assets/illustrations/olimpo.svg",
+    "bytes": 672,
+    "sha256": "9783b80190e9e9d092e5e69b78bec0e90a0f23dba81dfbd02506bc03c532ab40"
+  },
+  {
+    "arquivo": "public/assets/illustrations/transmission.svg",
+    "bytes": 608,
+    "sha256": "3c2c5d5a638063bd5cdcaa02831904df2ef311d5d7601dbe777da07e76642578"
+  },
+  {
+    "arquivo": "public/assets/illustrations/future.svg",
+    "bytes": 669,
+    "sha256": "59b2e274ed5612697d77169b70d732ec88a78e8100722494811f343b51897aa9"
+  }
+]

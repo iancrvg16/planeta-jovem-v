@@ -1,0 +1,1365 @@
+{
+  "version": 1,
+  "statuses": [
+    "aprovado-com-evidencia",
+    "pendente",
+    "restrito"
+  ],
+  "materials": [
+    {
+      "materialId": "media-751e916e61015e07",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "38b6972fe0198d60b15e9834e3aebed23b027363f000399a99976b96275c4a18",
+        "487d21232242616d77fb53e29406caa875685123eeb8f3cf00ad10fe806084eb"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-b5ae53fb9f47619f",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "7885e01fe332ce25c3db31d3727be01920fb903631b5ba4d2206007df24c811b",
+        "1134f89bf353495abc774ac945c63696eb3bfbe16e60b635b2a39fdf52470e81"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-d7c7d4b1c3d57a5b",
+      "type": "video",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "db0bb508a5345bf515f81693cebd7258e27ca762d3b41f0d560244332755d331",
+        "7429f38c22a057b192156922b3e7aef553fb998f371e3188e0ad183ceac23250",
+        "2d3709baeb7fc4da96133aa7d8660e470c70c2af5ec104d96fdced99b546ce79",
+        "36a337c4f0da51d453cd05aa1a882fcb28e19198a832959127db5b46d1bf5338"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-cfb740e812803602",
+      "type": "video",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "7c99fe6e83ae8a308978dec57873bc1932d8f936aaef65133876dbc903c281f5",
+        "252ab7b745c83c76f0051bc2307389a274c2b59110a83de10ddf37fc9ad6962a",
+        "d893c057b7af54b067317a9cf259d37df045dcf0f77f81c068fd5f93dc291483",
+        "0ef7acd28aac4a25321d8ad46f3a7eb55ce9526c8128b8cd0d58846adb738404"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-7cdf37f54996d7f4",
+      "type": "video",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "23c54398a0a6763c4bf3da26a13113399f67111242c07f29e708944031e1ad6b",
+        "0017ac967aea038e526fdb08038bd57a5205081d2b2a16d9c1a8512de6538eff",
+        "4a49ee560763a842bf23a635c15dc92c2934033f7657266feb9e34b002405a64"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-d8f321b47bfe1dc1",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "68dc1b70fd03a72a5d913a07608a5a74f425585c6baaf6f7a8daeb43ecdb79e2",
+        "c0da785d05746705d9bc7f2ca241d7a3af23a970afbec0f5680ff2d97249b265",
+        "794c8e7da9d59d52e118b07900accda24d9878459635d7485cd91e3174ee62d0"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-3ac41c3f9f9c6f4e",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "836a808d519755eceb68fb28eb25b1f2945fe55b6599b3e7846b61da4d7637a8",
+        "c4ec3974c61784225141d10e451cddf19eee7b2dcca9a4e8b820e0b9bf79218e",
+        "ccf09054c5e4bb657a63356e20178653a9b585eb626740f20c6097bee8c784e9"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-80b3145ce4dc504f",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "91d7728bdb4ef2f2fc0f462551318a9ec248da47e2826b859a38f05587189caa",
+        "f9c44ed6474a8c13edddcb021ca799b9a1dccbfb3ef1ad57b3dce0ecd6eda7ac",
+        "10980f67f06cbfb04837cf3b6383d011a26fc583fbf97e1b9e36e91f1ddb25d0"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-85d7340247ef3618",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "15c37bb948f6e464f2f24d19767954f561f7f1fb6cf64b4515b1cb0c2cf898c5",
+        "403e3e9e4616637a7c92f87690c711bf597ddc568f0347371b40405335524020",
+        "ce1ba57f889f14ec3736230ab6c7e54cbefc46b9df9268469276b364dfed54d4"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-249bc10343cd5ac4",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "4de83e1de2864d9e4acb59bde06f6b8ab69150cd13029d835aba073afd754dea",
+        "e85d0d13531137ecd7e1375260f471d3e1c25ccb80a372f95201d0e14ec4d87f",
+        "69cf54522813759723b92de904cfe041a237b384548009f48931778adad7f636"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-33ffd33f4bb9d66d",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "e960a89f3fab493fa20d89d8404d1fbf3c7282719c452eb0be6159d6e82e5a41",
+        "bf1626f84dd84a5959ccb37a64f028648e6693c9a5d01ced7181863f9f91c72f",
+        "41c596325e0d4b03691dd5b858f574db1dc591c981ef7f6518d72e81c66c1e1b",
+        "3676978314b45e843c90e07bb813aed17b92d28f8491c66b06b80b1dc2390185"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-1d0f9c976aaf26cc",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "96f07f59930129dc9d522fcd3e8c50d1d0bbf6002917ba46d557c6c8f89358ea",
+        "78a892de24d5baca11a87810c615cf5bece79364bbf093969f3d284b6f850a2f",
+        "3d9718614c7daaad64f0c59670d431c94e3bb7709402ed298b13baa24a464181"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-fb0833845a48080c",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "db6023e9237465d7cb9717347b526ba136b0b06a5a592b3bb8e92a4451b94a45",
+        "461989aae0f2307a3c2b16b7927ca915a53655919ec497e05a60612a97da8fa0",
+        "a9c433497fb627f17130adde8b9925f3204201e07da80fac6fd405c78351e933"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-6c05a1611c742445",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "a91833e44f264942ef23a30d3cd72f1f22d4d1b07c2f37cde5eca5159e5a0c22",
+        "2cf9bf8ab172f2edaa83b6f58700c7404440c1a86a3e812290b2be1a8273eca9",
+        "5d27357fad0933429228b055538603faeab29c5c3d052e791d202b84a7287339"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-1877f51e25c7ae95",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "f165ad67a28491eab9a188d933f060541b12fe44fd7ca6d004ac9e20f7f10d53"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-9f5b9b069ecceeb0",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "a3e37120321ddb02ecb81840726ed02e0c9681d69d3ab6a7e3cfcaf542e0f4c9"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-9c484e39216e4aef",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "70ce0d9811dc04155e05cf6009cb62e7d137036d62aca62619bb5cb10b542308"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-ff2e3436ce07e884",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "b50d65c392feb4582f31671668338acb2957383c62106118acfe6da0b7e63b5e",
+        "5e8e8dbc8cb404b64af36050bb781fe00abf82bdede316fe93164b3f826ea856",
+        "63c333a96232945eeb38f3f553955feaa4f26b78055711a69c22afdcb682577f"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-51f8a9fb63479852",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "20bfd78eb113711b9ed55133fb5a2c36538e7ffa91fa7bdd21d6e5573b5869bd",
+        "912ac6109204e6e4521f809ffc65808035538668d410f3a8d407e58201177eaf",
+        "fde36e294aa9e1ead983dc8861d5db723f564f363ed90442c016d094ca2ac62f"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-fe96fdbf00ca8ecb",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "e1c13ee8397fe6963a813038238d8431a2fb92695e3dbd7833ec47a1c6984ef7"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-acbaa1b6b8367215",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "3071bc7959781ec88298f7a3d7ca787dfd553cdd3958bbd1eaaaff7cafd5e95a",
+        "eb447708783d42b7306d46bdbaf962e877f7d8a26399063ee7a8f5c25c654028",
+        "0fe51a14b9f44a11a61c30267d6563434b7555db5e19cafb93160772ab7f1763",
+        "9c43ab630cb8bf7cab743d2ab1b7c338dee858e6898fee12a1f559b6a04df760"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-7f27fb599ae46e73",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "bab89418d15be3e281d959a5a976859076f3e4af6debc4e64e754cb13b1408f7",
+        "920faa8097a330429a555922e062d29cebc33cc137b69708c65350b769a9c9ae",
+        "89c76faf88a29db3fdb564fd451645d04364836397a75f1bdfe8d658c0e6d29e"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-3cb0969bc9bfc65a",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "aa5242da7f304ba0e28c21f366d50ca8aa5b0dc6b732c0b46554243c19c98daf",
+        "280b7575f61da219a5cc0d5b52e1071438caf11d3560f480f2dcf2a2f5d80507",
+        "18f68cbb5d8eb6035c7117f973522a0861ff827c2fe309ecd22a0ec644d8ef30"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-5e6e05becff23940",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "d339e200198a2d67fd29fecdd4760bc3c53a0a4af3790b5637c869f73b687559",
+        "3a7541c96c666ecd1e44683d384728591323c9fada3e2fca72948f4cb6d57223",
+        "2ebeab02e42b6332df501d7b860ebfd46afffe67cc9ba293a441cf6d065b9fd2"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-67d113fe2ab02a9b",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "d8528cd7a957a00efccda66c1bf1d64a226f02b19c27da0dc1dfcd9c9025c8e5",
+        "cff343e52b70214c999d904c0e3bafc76e915617f9490552d26299429e980943",
+        "766340eac168872993d129f94b6e1d34216fd0332b1d0381677c8a89a2295455"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-bb9f53e4079ee76c",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "50dede9f4736c86ac21c8b6edac24ab2b1022e9d1587634aae05a0b9c7ff175e",
+        "4e9802e737172f15830059976e61c5e3613b562801296100c08c4cc90fc327d0",
+        "a844df69c086a0d64b61de5d653041e303a551e04ce52c0a6bb1d05eb8da468e"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-2a0db27e82cb53ea",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "e7ec654f3a91cfba2d676a31021a72f46689d1946ff396da63fe430a8f12eb1b",
+        "5144c237dedacda89357e5c048778016c5242e695329551d94cd75d6a69f8802",
+        "bdb2a2798db6eee5f090173e8d7b88a9c95ca5798de57956d538623cf2e1e93a"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-258b938b76b53158",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "afbe9f063c075a71fdf3ef4e206c52bc357e5dc8edfe24fce9c70882e782f92b",
+        "4861b2eae25e4a959c45fa00b222093d6448ba392d11ecc96f52060863cd62c9",
+        "a165d44d436219f12d2a22af4e7b4e9445cabd3aeec4c709fbb67eee3e8021f5"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-bc673cf054aceae1",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "5aa596d292cb167fc05413e0e88d916b6c772d98699383d4f5a7ecc4b444f0b9",
+        "a27f4c3102ef905d5862b6eca0cbd0be4cc88af04e3b1f1f42ea1e84becbf877",
+        "eebb30a73688f47f8cf5964138561eedf58e22a3f5571fb4f3239f344da40029"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-f4783cc7998e4ade",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "05354a43573f93ff7ef7c509749b54bc854c40c4ccee31831cd8b8d42e358b93",
+        "ccfd4fc6977e605d93f42984ba94d20fe1d2188074be2a593af06726a5ad83aa",
+        "ee43dc754a65dc61536c33a628bc01556cf91927d5d01797db9b161057136518"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-2faa34e3ea74a87d",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "a3738c6747774bee5158441c0cd166c9f02299eb1c530d2fa6073ac8f366c719",
+        "12a4e6d6ac601b70d18518fb740f6d0961fa197197a74164a5ba95e28db6f067",
+        "7c5091dff998a1f289a8eef76cdfcb7e7cfa4d88439a8a5fbf71e49e2c19051c"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-1ceab2aad3f3e042",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "13eb139602f1585a346de497c9b2d48a99482e65d08ae764f1636cc5d40a3a8a",
+        "d9d4abff34c300dfee12b962761ef728233a4a7e01f4b397d40480be3c8f2619",
+        "0a9d04aed887473439db1a542978e602672e1e64dedd7f2d315d147ee8aa3a88"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-b19d9ad2f953b933",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "b48266b7c63e322dffeb5015abb5547a934f2d0bbc8ef9d23a23399376c99fb5",
+        "f0e3e9918a8a828ac4896043679431cb3f9c7ab0905f59124680dc0712378233",
+        "b4387a5e2df6694481a8f09bb8c8b649c36786ce1e5c42f41cbdb7d04cc92098"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-2ed26ce2c7e01521",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "cf1d3f3699df542e4646bf764732db3080b197adc72881d528db08af4e7660f6",
+        "79f7db23d9f885017ed0a1330d45c76d28fee0cef9470088684f07baf6f503ec",
+        "8cb212806b92d15e2fae38dd522f9d35b1b222c166885daf0fd8a8acb9b224cc"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-60054f099957e305",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "a885d9653f280a955efca66ea07e24ff741278ff496ffc27da51d9451e228bf8",
+        "b4b1e73fddc684ded83107ca851a2065c546bd01cdbb75ae912fbf86bd01070f",
+        "ffb76ea7ba71db9fc17e0e4ca656b2e83f0a8c7803017e23efb2d66e28030e63"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-9b5abd3e0c538c5d",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "554197cdd0858ce82d53ae104be66b4374e58f7d00a0e94278d7b1c41c65d501",
+        "1ee96846b17e0327042b18d26ab2c40e130d50b0dca58e81963c43cf90970901",
+        "795e60abb13bdb21adac8214c4d5f8b919fe1d56b5100f5c626c375cc38dbbba"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-cbbf63636752b631",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "686d5ecbfb68a1006ebf1f423a00888b6c0e89ebef66ff5daf1a779a807c2eba",
+        "0dba1a8e69181f4adb3ec94d788164fc25f867f4486744761b735fe06a6a2f05",
+        "8790af59eddb779c93cb39efe340f60bcdec7ec47a5963a0d5a2615093b23e73"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-812149945970871c",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "f343268d8980b72e7bcab0a5c0d90580aeacca0adb4e8485a5c0e5a975e0dc44",
+        "3d3429ad4a814c5e78416ebee16356f2a202041d84614ff2fa669ef4ab51084a"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-d50739f5f4882de7",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "625ccdb1165207255f4c4147f62874af641e9f73cfd525a372399b45808fce6e"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-c9565bd61a37c97b",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "cd3ecb8cb620f356caf6f884c1b7e1ed2b23dd763d2e5e56ac3fc59e34b13129",
+        "555199cfc72d169c0fe1329ef74b718fa3db506570d9f0f68a86affbd0977861",
+        "8bb00a0784c84e1d9ebe8de252eac98146f4abdf701a169d3dfbb6d8537b233a"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-a30f1eb3e484a418",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "7809d8aae8154396341295e3347b7e72eb9d75706892a94fcb7344d71b9fd624",
+        "8f28773932c1db12803b25bd490f18755d430108ca642339baeeeabbe3d1ebef"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-dfa621be1aaaf984",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "f608e16b2e6192ada9af234ad337e08deaa8f6511073cd2d0430d265923406f2",
+        "98c0ad3b240fa1191f31b30095ba7aef144b78519b635708c7c85ba07120dcd2",
+        "1ca125f2d0be37d82922cf59e4d5f9f97daf6e1979944cd63f5048d55fc12cb8"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-6b39ed0bd09cdf86",
+      "type": "source",
+      "status": "restrito",
+      "publicFilesSHA256": [],
+      "evidenceRef": null
+    },
+    {
+      "materialId": "media-68d448cdff787cf1",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "9fda435b9d55df631d90bd86287029829a9d89cd50d3f3fb056964e5d17bb9a6",
+        "5f5e0a94d080c1691638bc7c8cd6dfcf64c59e1cf49f3c2ddba6a0e88be6efa6",
+        "beaf048044226e2fe26343e2723e18bf75efd95a9788dfcc57fb094d51895369",
+        "01156602751f8291db0b088702f5a58b4a14526f8c5b8a04ce124435907e40fc"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-d30e3f6dcc6f896b",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "dfbb0b1c0da55486a0131f44af086c4a0c446010ff9d2cd6ec64bfacaacf2645",
+        "bd38d001f4082494a7b5ddb147ea3982a80a853a94e279a05adcf9bc9998ff9c",
+        "8523d8ad300438e7447b4e1f76e613dc50d14023c6425202f18884fc440ff3ce"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-8b775a001474f60b",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "b6900561efa8d88fc5fb5d0dede0ab593c13b6438186b56e88b6a23acfde34e1",
+        "6c4841a03c47c378b0a286a487f657388e3aae6db4da88271a803f5b8d8fd72f",
+        "7f10aa822c1813e142eab1270c1c54c244117975bcf3212c8ff1a8a83a459ea4"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-1754a956c23a41f0",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "c4c950c7f805b2904dc89f59489e24edacdc10623ecb8a90742b05d143b8ff47",
+        "8012a25e7249f21df633d8feedabc0b2a17ea5a1f2c8a713a7a068fa471a9ce3",
+        "b2943f53a37e2f3b387f8f390ea1e34122ffb95cbbc0b854230fa57f0d7033f4"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-6231eaf930f66fef",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "39520c4c66df922db3a64e153d40bbdb57e8151c23b77efd4fb6061d98fd6a54",
+        "15da76525473ee25090ce20ccd24af3eaf318f2dd19834eb43ca6e38bfe2b34b",
+        "0ba626280416ce5927d550b86f8f3df5ccd0f49a89bc060b095916b4d292525c"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-60b97075ea299bea",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "651b535016497c0f58c398c3c89fa8443e01b52620ca72e9b06a7ade3f33cc24",
+        "d2368a41ca0e3615462e9642e99fa23f46bc9178bcfb5479494ec823982542bf",
+        "b31f0722777ee4f59f3b1235728031810417d20102dd1e292cbcabdaf1ccb2fd"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-a311a4b43cbaa47b",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "558847eb5a5c1026ec2f8d0af1020ed2abe328cf529b7bede09a25c62e9a4d62",
+        "f0ad6d00c4f6d3c1b7b84dacbf612841035f7382da1db5595a2f7804ffc1af50",
+        "6d40cb50c2bf6b7a56186780ada5f3b7747df01159e0bee65a5908aacc51904d"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-bfacd0decf903815",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "fa37b21121cb6a57467e6eed539fbb464aea0d6923dc96f079df622adba1cf10",
+        "56347f5e821df04136af6ff05d284fd41f2a890a5d68487f65e343eb3549408f",
+        "1b830c3572faf5fae59949cd98c4d61c361309b1f84db1e7413830a077217caf"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-015821b0489241a7",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "5951d175a91909c6893c6c1943043e56187008da0904f09c254ac09d7ceeffe2",
+        "34fd0b930bf910576dd73b77cacf2b53eab6859e66b34b7141a2ebc1e98930b5",
+        "ec18a7ec98ce185740b9e4499bde0ef9f12112f748f04c137bc54527ff695236"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-32301b4ecc87f76f",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "e376cc6945ef547ffac070112e93ae147691adf2398f4e545941dc650dd7e517",
+        "50fbb392ae3ab9df2434137f79e537155c75b92ad66eba3c4890445e4c5a628e",
+        "3051ae41dca19480345512e06fbca491ba52365c7b89f452f0ccb96c41214230"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-9d28b5aa49d9f11f",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "6885ddfd515360b6bf37587403b44207ee7a1a4ec894b0b00e25e231465a96aa",
+        "0e3c92a1e659e57980786158acde9c14a4245cac1277ac7004622e121bcd35d7",
+        "d99ebe1176be35e03969296f72b9f4700e0933dff33312133cbfd26b5268f730"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-dcdc0b1c36552035",
+      "type": "briefing",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "11961d46c8eea39d449a68553d99cf50a48a380634affb2788cdac6d98f7ab49"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-2218dec275d0662f",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "c1321a738a90f9b64d9be645cfc5b0515ffd54ab710ced975a5c39d5433532d9",
+        "c12f70bc7fd809ebccea9290cd09b68675614feace8fc85dee688fb136569930",
+        "898e1c7efb4ce3e243c1244712491aec165d1b832ec8b0a7942533318e3d55c1"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-cd4f3937d6ff6b7f",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "9aa87ec243cb5472e64c85c9cef064cc26474be90f47d99c80a736ba07867db5",
+        "fe1595487d85b34b7a8921ec3fe16394f12d87769d2e8148172b8b09af1594fa",
+        "d0cfe89b9c683098c338c9b485f4558c0e1b38f98c81484ebb7ae83bb900cc3d"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-61f34e7e17b6f0d7",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "9597303a7eca1d01799f1f1974ccb227ce4b165a55842495798f12210a1d5380",
+        "d4329c7a37963539e46d2d4948f9f952ccafd1f2f87bff548026591f6c8d4a94",
+        "f202a59f159b67e51bec8b08584376b1291e6a01cb807ce3fdd7c87190c43ff5"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-fe09bc2df5bd6b7c",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "9c7723f3bc7db27f7644d12b30d14d14a15f7fd99f3d78299093f30bbbd5ebc2"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-229fecfab913a948",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "6cdb0e3a0f4dfbbf5ae16f8cc08385c53102e4ed5a57984c3c917554f9a26e0c"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-d60a9072283aa3ad",
+      "type": "source",
+      "status": "restrito",
+      "publicFilesSHA256": [],
+      "evidenceRef": null
+    },
+    {
+      "materialId": "media-29d1ebe64507698b",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "5f95351af01115169b1431750ad260c13de2c41f8f64a714e7f5f27e503dc4e9"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-fe181093559a06a4",
+      "type": "video",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "517e1c59979162ba0949e894277c48c49cf7a8df6dbf16678b61c7280b079299",
+        "2e97c5156386b5ac045e194f4931cfe678d59a939b8b224bedd6cad38d1c17c4",
+        "93c8c6f607ad8403fa33f52cb4bde072086238e717a47bd744a0f2259d7d372e",
+        "8c96bea5f147131f72204d774b02c790cb25b5320504cf0af2fe8c4819d946aa"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-0632deb484c02d06",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "faa2c02f88fef4bc623237b6b53a4e7dee2dfdff35ecfef0d3679e526a9d8b66"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-23220203581ba088",
+      "type": "source",
+      "status": "restrito",
+      "publicFilesSHA256": [],
+      "evidenceRef": null
+    },
+    {
+      "materialId": "media-1948769e4763ee22",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "0008c911cbf6cb88314a6eece559e8ed31587ddaa8235677d7d8595d01b255c3"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-a4ca190317846bbd",
+      "type": "video",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "53dde0868e4e159ba262a95b1b4ae1cc55f2d2991b37bd004b99b7e4d2bcd622",
+        "72d389ccd7a3dcc4cf172f1fd05d10fa99a11ca318f653d4eb6388e0ac5ff08f",
+        "9762ab7c00fc8b934c12ab2cb7fc17b3de6ebe61e673e8699edd1cffca88e6f6",
+        "25b7baacc43b52816d530c5555dd3d3c616ab6cb384bba5a083d87be8eb0d1c1"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-11a92839ae5ca47b",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "9c378cbf1eb98e3042d30ec8e3f0dc159556f84a9c706890193c390d27cb2a79"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-9b3a95fbf2adbbd7",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "0326a0913c61f6b1da39af886589e1c34e887c311e4da92b19a3e304181a3041"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-38cfc19f146cc5a9",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "accc74be2212c483ee84a56ac889acd61f027218551377548aa9f7d31e9010c1"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-ac10bbf5ccac0545",
+      "type": "video",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "b99adf59d81fa34810d3fe7afd903d652e3710496cbf73cfd9adfb917d136896",
+        "1037bccf63c484b68dd518a2cd1bd24d6635da22b7b9f59e3035980933c69d9f",
+        "209882789c2d78f53d1290fd26cfa8dabb78c541a0dd6b16b0098ed9f0b13f98",
+        "936c3a05a291ebc833c16de142710aef7398f657d316e77994d0635b94b042be"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-de852a0dca422937",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "388714519434bc479a8c1bf96f7dfa9ef2b790cf7dc91a3af5787886b230fe98",
+        "cd3f12cc6c8e6f0bc6b81e994e259b439cf61146591bf0f91c5fe85f821541aa",
+        "ec038480495941ecc2070eb130f3ff747e00b191411b2d62eaa277e387c0c461",
+        "7cb258a015de7a9b4bfcdab657a93ddf81501c0179d74c8dd8effa25b6ae76db"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-d3b2daa0b52ccee7",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "8b856ae4b32b83c078e9b0710eaf3ac45df0ca364aef4a3e8fbfdffc1d5f0287",
+        "6027e04de2d6358a5e5661072b5477f486f05a4eebce29f5a109b70d341d585b",
+        "65b9467be844925e6d020e0b2b4cb95d2b2679ca5bd4b4737915e8d57d3cd79d"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-a4a496c4dbb8e37e",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "174ae6901a243b559098c80aa7f8a5acde57e2134ba1e28a74380ad81729e6a1"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-302466c32772d7e7",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "64d9caf23c113431d1195e02d9841c1bc3239c78d708c789d2321a7373b64766",
+        "da1cca344ef9358d8bf01be447b8daf6dcd9b380c55e5b9afcfcd31b4950dd43",
+        "a9612aa9f570bbcae980aa3eecd3e2220db78fbc20b5ff002b676a27d88e81c9"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-8bb309842c899770",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "c2b0eb74405f42ebb9296397af627b84d5c4795719718515a051105f1df5493f",
+        "6aa2652041b495443c416c27c6275356fb5426f2c1bc93d729658fa0cd54b274",
+        "4e79a507cef467bd817d36e6395f7776e62eacaafdef1587e87c21b9e736a3e1"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-48b4e3ae7546b127",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "6531e6b68ec0ffe76886cbd7f5316bebad099168f39eb2d3827dfd87dab56f17",
+        "ed8dbcae73995c17d99e0cd7fe2d7aff9ea9bd05a83d07b5b30f5c482c25f7c0",
+        "bda3f95389127f226628e2f627fb13683813bfe499ac187f6bd85016255167c7"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-96c0118221ff92f0",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "77ea489325268f1e7a4ed165d6e36e247d9733a77857c5f74aeb61dac8f51e0e",
+        "d88a198fe9e239c6c3b5eb420521540b005a78f51edd54e8a2e857c8445c888a",
+        "c8add4b5e34b0f7a33747bc05f678697174e86abe5b253420c9ba30d1ff63470"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-1c9bfac8ce0d7aa4",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "204e2fcb5b59f61b4f29b031a4ce28627e5f171b98e545671611aeaf74ef47ac",
+        "3f0664af48cbb80b0e49fc3e7676245f0e64f508b63f5f491206fbbc0a52dda4",
+        "3c60d6e0afb28f3fe3b7ed0a816140264455f35516b25ba6f70c90dc51d550f3"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-59c788de67317ab6",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "c0d430bcdce8a54586aab72825f35bfd84a805e7b168c581baa7a6ea26318000",
+        "4539d8addf208061ee1b110b900840f91c26f90c0c8c2915a4ada0998aa581f2",
+        "3921e2a324a50070b7bc9d5dc0ab3509ace0c01b481dfeaf0dd4f50dc7d4ea1c"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-2c0dcd196032af1e",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "a4667149c548b0207cfc3c9214318dd5f1f6dd8e029a4d721b2f17c1d22e2fb0",
+        "6bc915ae549d111544a19b9425c9d7e54e597d051515f9b3e130f92ab87fdc86",
+        "c3300ffd2e0840d2f481d932d3a1561c42e15ed7cd1ebabe125b83fa1618dfba"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-a94a9e1a1b0a30b8",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "145e461d9882c4c874392d70984c6553d16049a71d25293f9d47eadd262e3ba9",
+        "890adea88e7fa5c77add2b4979ec462d30e577584e20c869994a22998d62818d",
+        "4a52a46c28f38c6ebfccd343a9b87cb3e269a1697b8c8fec46275d4955cc41cb"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-d5212e93f599a18c",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "542664b962a6a6d79305513c06be87a57a73cd84b644592a50b98c38edfdd160",
+        "3cf11e922172cfee16769acaed064a8b4ca34728b439aab2c109752218580b74",
+        "e93efa007fd505786ec81b719b3ae1b32de5f0d78d43d4d5d22e8ff9a27fe14d"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-988e07244f74b678",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "f68e2b37458dd7f2b21e7aebc6f26d35b6ce58905ea0fd418f0145d78e721587",
+        "255e43018de0c874834fa52c0633dc15a0b40a6ffbdaa9386ad8dd4b5ce73d83",
+        "cb5176445615deca5a0291c248197ca00876ea9a036b01bb1e61304d45e8e0e3"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-0b9e3556b9c91541",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "7ed8e33773d82e7cfd488d2c47d2164570dd0536b2c4e65f28597cf3a8b56107",
+        "ffa49881a7e81f80f6e8de565bf4dd7c9bd04cf842830542f750b77d4a2cf0d0",
+        "e3a32a2a6f699f63b4d0686ee313344f718137811c534099f13e225acc41752d"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-dcef9f6d874d42b1",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "a6fb4f03879830f4df21e50f3fce172b018e95b72350524d1b32c6a2a04259a4",
+        "6e1bcf238ac38cb1e497a7b6413bf97b05bda36ab404abfafc1b22990ce95a92",
+        "c699f5d1332746ea0cf75fba346c87935a56b53e8947921869a4dc9502502814"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-593cba95a89dcc17",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "cadae2718aa5ba1e04c2aa3d6a7750ec44d2f7a8446c02cd14732b80dedbb12d",
+        "e3bca44b610a2ccf1aba27e12213592260e3dab7b0b83e1f791398a3aeb6d5b0",
+        "88baa6f40185b0804061e4ce3cd019496a4577ab0b0e41748e5015e8e988a9b3"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-5dd6a58aa07a7643",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "05e462c4c95473f306cdc4b9aaf06a52254d0c17f91e09b295ed51f9485448fb",
+        "deb1c6b5ff7207ef4b715876135562ce81a326e60c64d90bc39baf4bc0ced372",
+        "c271efe2b0989c40de2d52722ec69253e946bdaa7c15235ebb759df3100be084"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-9531121714f6a416",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "ecd7c088440e3c929174b13d67777107ceb7e26e24127f389e25fec8eed73d7c",
+        "eaee3294bdbcb32ea2225c4e66561ae05d3e30cf7435f4dcdd0c8bd2179dafc7",
+        "0244058bf46cfc87bd8326a564401363656194c1a5f09fc5a9214e63ee26650e"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-03245c9b607ddc16",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "d2b94704b76cda714acce9bd681ac94b89c1d78ddd0b04e9b4821a103e8e8529",
+        "76aebc61ce65d43a468e77895750cb00183be670fedc7801527a8039f0648a1c",
+        "306754e644a04af894f820940d8adde39d4d81ac28577ec436fbf3257c13bf31"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-972d354554d4af56",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "e0ee81ed6f5cba3790ea0f4d83f8b0398f507bc83ec0ea582509e3fa100b04c0",
+        "d40e7dd1504021b23a2c9a7a4a20fde594b554a1402435d8edb9ba09cc44ccd3",
+        "66df9b243bd2097eb579f971ca5d70ef68dac9d7f1b1122a90d906d09687bfe2"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-1022a5203181ae48",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "364707f65205befbf054e9bcc32e054d8a41e458aac313daaef440133693ad55",
+        "271805d9d7ed93291390c5033d7493759b29215700380a81a0a9221b01250d8a",
+        "fe8f99fa05879963b1112dd48597faa5fa26ed95bc8657beccf06f9b8140bf1b"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-d846277d238309ce",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "84f3d11fd05ea2d313a0d556a26e4a5a9d9c50ad03a8fa36b3f96e983fde6ba5",
+        "a30861ec1744928b8ceaa035b97783ad831e84d6fee467a6fd3fa5c354707b20",
+        "f53d5c44b43522e8273641142e8cbfba7dd6d1786727652bf5aac30746684986"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-8d31a89e5c8a03e9",
+      "type": "image",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "459edca6cb15409e5fb1b4d2ea42af6645831403841f9abd5c351ccdae1ee7ca",
+        "f7bdee2acdcdbeb28254aa04a0fbfb02aa6b4fdcabe88ffce16803a04ddf01bf",
+        "8dbef7f88d6396510ea402a708a8abc90f26ec923969405df1a2ac96571935c9"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-6b6a0ccbf123eb15",
+      "type": "document",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "eda0b761b886faebdceb1cd7603e7d11157c3d171aabeaaaadd63afd464fadc3"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "media-9c05dd28594f065e",
+      "type": "source",
+      "status": "restrito",
+      "publicFilesSHA256": [],
+      "evidenceRef": null
+    },
+    {
+      "materialId": "asset-047e4ed032549c36",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "047e4ed032549c3652280ae7135e283ad5ac2a0d377e5d2fd65550c65ea7d32f"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-ca33e133d0c13e36",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "ca33e133d0c13e369a9258abb2da782b1d7c3ede1b2992e713b5bdd31de380b9"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-a11cbe16504acf1d",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "a11cbe16504acf1dc1c4d2702c948338a8b4a5f1bed7666499d138c342052908"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-d8ba4683bd2436f7",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "d8ba4683bd2436f7bd9075c30aef1911e7852eaa1b53c7686e9815dfde7119fc"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-85876b252b8fb3db",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "85876b252b8fb3db1f46e8bc58f71102b87d85a12038b5e0880d23b107dfb098"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-f52fde2aadc67bcb",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "f52fde2aadc67bcb71f4eb0ffd87f0109daf740f7d946f1522db85447c462b61"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-04ad85b0faa2d7ab",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "04ad85b0faa2d7ab6d68d0d682761d8bfd0733a311f233eda6f361c9e8a426e5"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-15d9c5809a79b689",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "15d9c5809a79b689e39ea14dd709d0b19a53fb2940e25c8edfd3ce50184b2e9a"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-ce225f950c569cad",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "ce225f950c569cad0c1a21925068fddd3961b6dbf43b09459952258e6d87eecd"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-5618de203078f4b9",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "5618de203078f4b9edc7ab67462ecd2d9bbaf3f090d96defc9c2d4846761de3a"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-94247e3c5d1910f8",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "94247e3c5d1910f8e1d8725d677bc625e851d57815ca335ac7f1e70d0e93cbb0"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-86e5ff25c701ec44",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "86e5ff25c701ec446d20b1a85b02ee6d36de8503a7288a4c948f5459809af1f0"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-0e5fcef5d93bfcae",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "0e5fcef5d93bfcae273c11c00f0bb453d3b5491860e1ac8b658767b7577c938f"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-5d5e3734089a7470",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "5d5e3734089a74707292ce8a3e186def34cd63e33879f9ac3689a8d8da9d0706"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-29217ef8adef5f6c",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "29217ef8adef5f6c059feb461bdb029348205fc233dc9b6ca8604b0d068ac086"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-59b2e274ed561269",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "59b2e274ed5612697d77169b70d732ec88a78e8100722494811f343b51897aa9"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-fd9629c177f96f49",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "fd9629c177f96f4928286193d20d299a921cc3669894f9618f36b0f86f1e9877"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-9783b80190e9e9d0",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "9783b80190e9e9d092e5e69b78bec0e90a0f23dba81dfbd02506bc03c532ab40"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-81d741f20a85e23f",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "81d741f20a85e23fbf2c31316a850e4b4ed0aedb7896792be40d32489d112631"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-3c2c5d5a638063bd",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "3c2c5d5a638063bd5cdcaa02831904df2ef311d5d7601dbe777da07e76642578"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-cebb98b2327a97dd",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "cebb98b2327a97ddf30de679e1b685004e8ef7e6bd54cf215afc765a8c027c61"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-bc36d17be2792b09",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "bc36d17be2792b09031caafaae8cc5e3d40bb90114a037c5089fe368b8421168"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-3c4821d1f3107da5",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "3c4821d1f3107da5c3ac3c5380b75121c483cfa99995a76e17ff038e569a4376"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-3dc3bfb8e7b3a608",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "3dc3bfb8e7b3a60884eb91df075440fa98072b80ec642aa737d5398e5d84ce86"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-eb4949be23f350a0",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "eb4949be23f350a02eaf2447c342296ebee2902a5535525b53424b72bc8f7f13"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-61bc9a161de58248",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "61bc9a161de58248288e6905425d7180f0624c2865007b97d763fdac12043a66"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-b45fa506195cfcde",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "b45fa506195cfcdef406ba9f0c77b36ddc1a7c224040926ec70abc2fdea7b93a"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-739b1deab5353dc3",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "739b1deab5353dc364125853fe8cebe292cdfc3a9147d40fb09f92b0e950c917"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-38b6972fe0198d60",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "38b6972fe0198d60b15e9834e3aebed23b027363f000399a99976b96275c4a18"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-d980096e2ddaa4f2",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "d980096e2ddaa4f274c3c001d03f3a5ae1fd8c6cbfbc19200a9b8a0a342a42fe"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-487d21232242616d",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "487d21232242616d77fb53e29406caa875685123eeb8f3cf00ad10fe806084eb"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-1e38d76072149084",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "1e38d76072149084d83c28f64315acf215d1b1c1bf7967e04fa4b943ff8978aa"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-e83fcdc6d1dbb4ed",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "e83fcdc6d1dbb4ed54351f3dd6b437f19f0da56ea22557745d1b0b99630a3c7b"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-8a53c4b1415d6694",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "8a53c4b1415d669403f6cc4ea4a298c21af0c0a47be447753e4f45836abe717b"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-e3cb375e58a71976",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "e3cb375e58a7197659088b09a965f83a04a10ac6bc6506d0f871c8c97b6f1526"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-97a5c91e2b8ccbc0",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "97a5c91e2b8ccbc04bf85216a1f8d229be5dfddd4d7ec78810730f2e6477fb09"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-306323bed5800863",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "306323bed58008639ea0e8ce5c14ac85e2e69faffcaa67466c5a3ed522d250fd"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    },
+    {
+      "materialId": "asset-16ceb5ee3e0dc13a",
+      "type": "public-asset",
+      "status": "aprovado-com-evidencia",
+      "publicFilesSHA256": [
+        "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+      ],
+      "evidenceRef": "autorizacao-responsavel-2026-10-29"
+    }
+  ]
+}

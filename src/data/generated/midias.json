@@ -1,0 +1,2770 @@
+[
+  {
+    "id": "galixandria-1000396039-129b0628",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000396039.jpg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000396039.jpg",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000396039.jpg"
+    ],
+    "sha256": "129b0628b655b7b658c5d1834046089d46092a56a820ac96fafb83fdcd02dc3b",
+    "originalBytes": 80086,
+    "type": "image",
+    "src": "/midia/galixandria/1000396039-129b0628-913.webp",
+    "srcSet": "/midia/galixandria/1000396039-129b0628-480.webp 480w, /midia/galixandria/1000396039-129b0628-913.webp 913w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1000396039-129b0628-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1000396039-129b0628-913.webp",
+        "width": 913
+      }
+    ],
+    "width": 913,
+    "height": 627,
+    "color": "#66656a",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAsAA8BgJQBOgBItgAAA/p7WC6zejksYn7PgiuYJiNGxJUedDVYYAAA="
+  },
+  {
+    "id": "galixandria-1000396066-abb621ed",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000396066.jpg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000396066.jpg",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000396066.jpg"
+    ],
+    "sha256": "abb621ed21cf09799ee644b65d61c55e19719e261c1a62fffb81149a4046319d",
+    "originalBytes": 107985,
+    "type": "image",
+    "src": "/midia/galixandria/1000396066-abb621ed-933.webp",
+    "srcSet": "/midia/galixandria/1000396066-abb621ed-480.webp 480w, /midia/galixandria/1000396066-abb621ed-933.webp 933w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1000396066-abb621ed-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1000396066-abb621ed-933.webp",
+        "width": 933
+      }
+    ],
+    "width": 933,
+    "height": 643,
+    "color": "#83827a",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAAsAA8BgJYwCdADdGbqb/AD+gI7kPU24mJtqaZVVeRa8kAA="
+  },
+  {
+    "id": "galixandria-1000396178-20731d3c",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000396178.mp4",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000396178.mp4",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000396178.mp4"
+    ],
+    "sha256": "20731d3cc6b4058656d12b69d87aecf21892b03a80d48c5275745e1c70d7ac0f",
+    "originalBytes": 12005908,
+    "type": "video",
+    "src": "/midia/galixandria/1000396178.mp4",
+    "poster": "/midia/galixandria/1000396178-poster-1048.webp",
+    "posterSrcSet": "/midia/galixandria/1000396178-poster-480.webp 480w, /midia/galixandria/1000396178-poster-960.webp 960w, /midia/galixandria/1000396178-poster-1048.webp 1048w",
+    "duration": 29.3,
+    "width": 1048,
+    "height": 720,
+    "bytes": 3655511
+  },
+  {
+    "id": "galixandria-1000401158-3d988ebd",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000401158.mp4",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000401158.mp4",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000401158.mp4"
+    ],
+    "sha256": "3d988ebd38d746ccf0fa498dce0dbb78a0caae8a180721c5fccb87110c7cf1e5",
+    "originalBytes": 33964051,
+    "type": "video",
+    "src": "/midia/galixandria/1000401158.mp4",
+    "poster": "/midia/galixandria/1000401158-poster-1048.webp",
+    "posterSrcSet": "/midia/galixandria/1000401158-poster-480.webp 480w, /midia/galixandria/1000401158-poster-960.webp 960w, /midia/galixandria/1000401158-poster-1048.webp 1048w",
+    "duration": 166.9,
+    "width": 1048,
+    "height": 720,
+    "bytes": 3211264
+  },
+  {
+    "id": "galixandria-1000403940-7e5cc7ae",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000403940.mp4",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000403940.mp4",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000403940.mp4"
+    ],
+    "sha256": "7e5cc7ae943f3f089485ad107b2f0c461f4e40f18f6fbb9246d6a9bdf5f91650",
+    "originalBytes": 10005247,
+    "type": "video",
+    "src": "/midia/galixandria/1000403940.mp4",
+    "poster": "/midia/galixandria/1000403940-poster-720.webp",
+    "posterSrcSet": "/midia/galixandria/1000403940-poster-480.webp 480w, /midia/galixandria/1000403940-poster-720.webp 720w",
+    "duration": 10.8,
+    "width": 720,
+    "height": 720,
+    "bytes": 1109641
+  },
+  {
+    "id": "galixandria-1000411174-7b1b49f4",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000411174.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000411174.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000411174.png"
+    ],
+    "sha256": "7b1b49f42d87398e240596527e0f263892dd2f125193c5848b59d3063c43f17c",
+    "originalBytes": 6144132,
+    "type": "image",
+    "src": "/midia/galixandria/1000411174-7b1b49f4-1600.webp",
+    "srcSet": "/midia/galixandria/1000411174-7b1b49f4-480.webp 480w, /midia/galixandria/1000411174-7b1b49f4-960.webp 960w, /midia/galixandria/1000411174-7b1b49f4-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1000411174-7b1b49f4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1000411174-7b1b49f4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1000411174-7b1b49f4-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1728,
+    "height": 2304,
+    "color": "#867661",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoMABAAA8BgJYgCdADya4t57gAA+5Iky3DbWEq7XxvMcPzIppE4zPzgAAA="
+  },
+  {
+    "id": "galixandria-1000462977-e12a70ef",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000462977.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000462977.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000462977.png"
+    ],
+    "sha256": "e12a70ef41237b3a71d5468f57b2bec0fcd8b64704210aeb2dab0d4697234365",
+    "originalBytes": 2757111,
+    "type": "image",
+    "src": "/midia/galixandria/1000462977-e12a70ef-1086.webp",
+    "srcSet": "/midia/galixandria/1000462977-e12a70ef-480.webp 480w, /midia/galixandria/1000462977-e12a70ef-960.webp 960w, /midia/galixandria/1000462977-e12a70ef-1086.webp 1086w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1000462977-e12a70ef-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1000462977-e12a70ef-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1000462977-e12a70ef-1086.webp",
+        "width": 1086
+      }
+    ],
+    "width": 1086,
+    "height": 1448,
+    "color": "#81715c",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoMABAAA8BgJYgCdADcH1T3gEAA/ZfIjWZbRX80B1II2XwjmtNGAAAA"
+  },
+  {
+    "id": "galixandria-1000466966-c2bfd2f1",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000466966.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000466966.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000466966.png"
+    ],
+    "sha256": "c2bfd2f17a8c8f83400bb933871d0b6780bf7383b1fdf2fdf63a88209e82fc4e",
+    "originalBytes": 2672220,
+    "type": "image",
+    "src": "/midia/galixandria/1000466966-c2bfd2f1-1254.webp",
+    "srcSet": "/midia/galixandria/1000466966-c2bfd2f1-480.webp 480w, /midia/galixandria/1000466966-c2bfd2f1-960.webp 960w, /midia/galixandria/1000466966-c2bfd2f1-1254.webp 1254w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1000466966-c2bfd2f1-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1000466966-c2bfd2f1-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1000466966-c2bfd2f1-1254.webp",
+        "width": 1254
+      }
+    ],
+    "width": 1254,
+    "height": 1254,
+    "color": "#726e68",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQABAAA8BgJYgCdACxnPfAAP65RbtkasUfLlCibLftOAquzCn6SxgA"
+  },
+  {
+    "id": "galixandria-1000466976-ad2e4785",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000466976.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000466976.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000466976.png"
+    ],
+    "sha256": "ad2e47853f862b3a75b889eb4b17556880faa71b0204fd87872eb1a3b1f6f579",
+    "originalBytes": 2788090,
+    "type": "image",
+    "src": "/midia/galixandria/1000466976-ad2e4785-1254.webp",
+    "srcSet": "/midia/galixandria/1000466976-ad2e4785-480.webp 480w, /midia/galixandria/1000466976-ad2e4785-960.webp 960w, /midia/galixandria/1000466976-ad2e4785-1254.webp 1254w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1000466976-ad2e4785-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1000466976-ad2e4785-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1000466976-ad2e4785-1254.webp",
+        "width": 1254
+      }
+    ],
+    "width": 1254,
+    "height": 1254,
+    "color": "#6a675d",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQABAAA8BgJYwCdACWZnAA/uy2fZbtoAcElGVuz+a1LHTJm16SOLOIAAA="
+  },
+  {
+    "id": "galixandria-1000472764-94d00b14",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1000472764.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1000472764.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/1000472764.png"
+    ],
+    "sha256": "94d00b145693d9f6a68cf66e19e81654e7d80295e29c75e4b5f21a0056acd519",
+    "originalBytes": 3209185,
+    "type": "image",
+    "src": "/midia/galixandria/1000472764-94d00b14-1536.webp",
+    "srcSet": "/midia/galixandria/1000472764-94d00b14-480.webp 480w, /midia/galixandria/1000472764-94d00b14-960.webp 960w, /midia/galixandria/1000472764-94d00b14-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1000472764-94d00b14-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1000472764-94d00b14-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1000472764-94d00b14-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1024,
+    "color": "#746a5e",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAsAA8BgJYgCdADzmWAAAP49j9TFyh1z8CVSKSwmeuDFT6iQAA=="
+  },
+  {
+    "id": "galixandria-1789400638988-e55d8ac8",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1789400638988.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1789400638988.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/1789400638988.png"
+    ],
+    "sha256": "e55d8ac872519675d49429f10c47f63ca1b7ef3dec241290e1929ea12bc5ae25",
+    "originalBytes": 1896295,
+    "type": "image",
+    "src": "/midia/galixandria/1789400638988-e55d8ac8-1408.webp",
+    "srcSet": "/midia/galixandria/1789400638988-e55d8ac8-128.webp 128w, /midia/galixandria/1789400638988-e55d8ac8-480.webp 480w, /midia/galixandria/1789400638988-e55d8ac8-960.webp 960w, /midia/galixandria/1789400638988-e55d8ac8-1408.webp 1408w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1789400638988-e55d8ac8-128.webp",
+        "width": 128
+      },
+      {
+        "src": "/midia/galixandria/1789400638988-e55d8ac8-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1789400638988-e55d8ac8-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1789400638988-e55d8ac8-1408.webp",
+        "width": 1408
+      }
+    ],
+    "width": 1408,
+    "height": 768,
+    "color": "#66857f",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkAA8BgJZACdACRpijAAPxwbBGDwWuqQYiFMZammKt12XohAAAA"
+  },
+  {
+    "id": "galixandria-1789772212078-cacc12fc",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1789772212078.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1789772212078.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/1789772212078.png"
+    ],
+    "sha256": "cacc12fcd31a997b1994be7589c2c4e6fbcf57a6fdc1d7aa8d9e405b795e4f8f",
+    "originalBytes": 1697199,
+    "type": "image",
+    "src": "/midia/galixandria/1789772212078-cacc12fc-1024.webp",
+    "srcSet": "/midia/galixandria/1789772212078-cacc12fc-480.webp 480w, /midia/galixandria/1789772212078-cacc12fc-960.webp 960w, /midia/galixandria/1789772212078-cacc12fc-1024.webp 1024w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1789772212078-cacc12fc-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1789772212078-cacc12fc-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1789772212078-cacc12fc-1024.webp",
+        "width": 1024
+      }
+    ],
+    "width": 1024,
+    "height": 936,
+    "color": "#a48f69",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAA8AA8BgJYgCdACPNKAAzRLutufTIMZR0NdZkwBZ1VTzYlCb6FgAAAA="
+  },
+  {
+    "id": "galixandria-1790245177520-80d1d360",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1790245177520.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1790245177520.png"
+    ],
+    "sha256": "80d1d360150147077946f59883d17cbacc29b9d63f8510aa6cbbb734c037da06",
+    "originalBytes": 7530496,
+    "type": "image",
+    "src": "/midia/galixandria/1790245177520-80d1d360-1600.webp",
+    "srcSet": "/midia/galixandria/1790245177520-80d1d360-480.webp 480w, /midia/galixandria/1790245177520-80d1d360-960.webp 960w, /midia/galixandria/1790245177520-80d1d360-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1790245177520-80d1d360-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1790245177520-80d1d360-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1790245177520-80d1d360-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2176,
+    "height": 1824,
+    "color": "#82877e",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAA0AA8BgJQBOgB3h6ZHoAP2KaK6RNIC046zQ+DXCTi0UAAA="
+  },
+  {
+    "id": "galixandria-1790276532522-06f90942",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "1790276532522.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/1790276532522.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/1790276532522.png"
+    ],
+    "sha256": "06f9094220968ded46e21d43eb5efa645e9805e1c72818e6473d11617a08d88d",
+    "originalBytes": 936993,
+    "type": "image",
+    "src": "/midia/galixandria/1790276532522-06f90942-1024.webp",
+    "srcSet": "/midia/galixandria/1790276532522-06f90942-480.webp 480w, /midia/galixandria/1790276532522-06f90942-960.webp 960w, /midia/galixandria/1790276532522-06f90942-1024.webp 1024w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/1790276532522-06f90942-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/1790276532522-06f90942-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/1790276532522-06f90942-1024.webp",
+        "width": 1024
+      }
+    ],
+    "width": 1024,
+    "height": 572,
+    "color": "#507781",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoQAAkAA8BgJZACdABSgADx1o72xqexeZbthNLfFVUUUf9cLZXQAAAA"
+  },
+  {
+    "id": "galixandria-dossie-completo-galixandria-atualizado-1-1-f165ad67",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Dossie_Completo_Galixandria_Atualizado-1-1.pdf",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/Dossie_Completo_Galixandria_Atualizado-1-1.pdf",
+      "FASE 1 - Entregas Básicas/País Galixandria/Dossie_Completo_Galixandria_Atualizado-1-1.pdf"
+    ],
+    "sha256": "f165ad67a28491eab9a188d933f060541b12fe44fd7ca6d004ac9e20f7f10d53",
+    "originalBytes": 3771775,
+    "type": "document",
+    "src": "/documentos/galixandria/dossie-completo-galixandria-atualizado-1-1.pdf",
+    "pages": 9,
+    "bytes": 3771775
+  },
+  {
+    "id": "galixandria-galixandria-terra-mar-uniao-1-a3e37120",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Galixandria_Terra_Mar_Uniao-1.pdf",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/Galixandria_Terra_Mar_Uniao-1.pdf",
+      "FASE 1 - Entregas Básicas/País Galixandria/Galixandria_Terra_Mar_Uniao-1.pdf"
+    ],
+    "sha256": "a3e37120321ddb02ecb81840726ed02e0c9681d69d3ab6a7e3cfcaf542e0f4c9",
+    "originalBytes": 3583036,
+    "type": "document",
+    "src": "/documentos/galixandria/galixandria-terra-mar-uniao-1.pdf",
+    "pages": 33,
+    "bytes": 3583036
+  },
+  {
+    "id": "galixandria-modelo-de-governo-e-sociedade-galixandria-pdf-20260923-170148-0000-70ce0d98",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Modelo de Governo e Sociedade_Galixandria.pdf_20260923_170148_0000.pdf",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/Modelo de Governo e Sociedade_Galixandria.pdf_20260923_170148_0000.pdf",
+      "FASE 1 - Entregas Básicas/País Galixandria/Modelo de Governo e Sociedade_Galixandria.pdf_20260923_170148_0000.pdf"
+    ],
+    "sha256": "70ce0d9811dc04155e05cf6009cb62e7d137036d62aca62619bb5cb10b542308",
+    "originalBytes": 3898904,
+    "type": "document",
+    "src": "/documentos/galixandria/modelo-de-governo-e-sociedade-galixandria-pdf-20260923-170148-0000.pdf",
+    "pages": 14,
+    "bytes": 3898904
+  },
+  {
+    "id": "galixandria-file-000000003604820e899b144c5a2208d3-552ac9ce",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "file_000000003604820e899b144c5a2208d3.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/file_000000003604820e899b144c5a2208d3.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/file_000000003604820e899b144c5a2208d3.png"
+    ],
+    "sha256": "552ac9ce5d5e123242596bea74aa1f2ffdf0696a99263cde70ea1fbb7fbec220",
+    "originalBytes": 2533632,
+    "type": "image",
+    "src": "/midia/galixandria/file-000000003604820e899b144c5a2208d3-552ac9ce-1214.webp",
+    "srcSet": "/midia/galixandria/file-000000003604820e899b144c5a2208d3-552ac9ce-480.webp 480w, /midia/galixandria/file-000000003604820e899b144c5a2208d3-552ac9ce-960.webp 960w, /midia/galixandria/file-000000003604820e899b144c5a2208d3-552ac9ce-1214.webp 1214w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/file-000000003604820e899b144c5a2208d3-552ac9ce-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/file-000000003604820e899b144c5a2208d3-552ac9ce-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/file-000000003604820e899b144c5a2208d3-552ac9ce-1214.webp",
+        "width": 1214
+      }
+    ],
+    "width": 1214,
+    "height": 1295,
+    "color": "#71908e",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoPABAAA8BgJQBWAB58AsdQAAD9Nb8fpRXr9Gu6rpAJTlMyqtOw0aeZAAA="
+  },
+  {
+    "id": "galixandria-file-00000000e048820ebaadc74ef7ae2bed-9a355823",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "file_00000000e048820ebaadc74ef7ae2bed.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/Atividade 1/file_00000000e048820ebaadc74ef7ae2bed.png",
+      "FASE 1 - Entregas Básicas/País Galixandria/file_00000000e048820ebaadc74ef7ae2bed.png"
+    ],
+    "sha256": "9a355823dee6ce30172dfafd215f76b63507e060a84fa1d0fb0b174a80ef8989",
+    "originalBytes": 2669817,
+    "type": "image",
+    "src": "/midia/galixandria/file-00000000e048820ebaadc74ef7ae2bed-9a355823-1024.webp",
+    "srcSet": "/midia/galixandria/file-00000000e048820ebaadc74ef7ae2bed-9a355823-480.webp 480w, /midia/galixandria/file-00000000e048820ebaadc74ef7ae2bed-9a355823-960.webp 960w, /midia/galixandria/file-00000000e048820ebaadc74ef7ae2bed-9a355823-1024.webp 1024w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/file-00000000e048820ebaadc74ef7ae2bed-9a355823-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/file-00000000e048820ebaadc74ef7ae2bed-9a355823-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/file-00000000e048820ebaadc74ef7ae2bed-9a355823-1024.webp",
+        "width": 1024
+      }
+    ],
+    "width": 1024,
+    "height": 1536,
+    "color": "#8ca6a0",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoLABAAA8BgJQBdgB6TKPQmAAD7gMVCHyy29KiadG1wTYV5bgqAAA=="
+  },
+  {
+    "id": "jakkar-contribuicoes-jakkar-052a5f94",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Contribuicoes Jakkar.pdf",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Contribuicoes Jakkar.pdf"
+    ],
+    "sha256": "052a5f947f6edbe5fa2d98a4060abcb9e93b1b61b689ef6122d46d93e24cb1d8",
+    "originalBytes": 45148483,
+    "type": "document",
+    "src": "/documentos/jakkar/contribuicoes-jakkar.pdf",
+    "pages": 11,
+    "bytes": 913498
+  },
+  {
+    "id": "jakkar-bandeira-de-jakkar-2f1b0232",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Bandeira de Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Bandeira de Jakkar.png"
+    ],
+    "sha256": "2f1b023263482c65fb28a5c158c2e77f9193ca0f8c427253f8160f5af111a961",
+    "originalBytes": 1545585,
+    "type": "image",
+    "src": "/midia/jakkar/bandeira-de-jakkar-2f1b0232-1408.webp",
+    "srcSet": "/midia/jakkar/bandeira-de-jakkar-2f1b0232-128.webp 128w, /midia/jakkar/bandeira-de-jakkar-2f1b0232-480.webp 480w, /midia/jakkar/bandeira-de-jakkar-2f1b0232-960.webp 960w, /midia/jakkar/bandeira-de-jakkar-2f1b0232-1408.webp 1408w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/bandeira-de-jakkar-2f1b0232-128.webp",
+        "width": 128
+      },
+      {
+        "src": "/midia/jakkar/bandeira-de-jakkar-2f1b0232-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/bandeira-de-jakkar-2f1b0232-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/bandeira-de-jakkar-2f1b0232-1408.webp",
+        "width": 1408
+      }
+    ],
+    "width": 1408,
+    "height": 768,
+    "color": "#496582",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAkAA8BgJYgCdADOaNQAAPrd30KRbCR8PL0uFz901hOIUJOAAA=="
+  },
+  {
+    "id": "jakkar-conselho-nacional-dos-vales-de-jakkar-546682af",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Conselho nacional dos Vales de Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Conselho nacional dos Vales de Jakkar.png"
+    ],
+    "sha256": "546682af94f28a50633ed33dd3473e7c27f2c91a6751dade6ef189c6bef11987",
+    "originalBytes": 3131881,
+    "type": "image",
+    "src": "/midia/jakkar/conselho-nacional-dos-vales-de-jakkar-546682af-1122.webp",
+    "srcSet": "/midia/jakkar/conselho-nacional-dos-vales-de-jakkar-546682af-480.webp 480w, /midia/jakkar/conselho-nacional-dos-vales-de-jakkar-546682af-960.webp 960w, /midia/jakkar/conselho-nacional-dos-vales-de-jakkar-546682af-1122.webp 1122w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/conselho-nacional-dos-vales-de-jakkar-546682af-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/conselho-nacional-dos-vales-de-jakkar-546682af-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/conselho-nacional-dos-vales-de-jakkar-546682af-1122.webp",
+        "width": 1122
+      }
+    ],
+    "width": 1122,
+    "height": 1402,
+    "color": "#6d5b54",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoNABAAA8BgJQBOgCFk3rbOAP53ABIPaNIL3fRhEn0GEcTFhIAAAA=="
+  },
+  {
+    "id": "jakkar-educacao-de-jakkar-1-1c52851d",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Educação de Jakkar(1).png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Educação de Jakkar(1).png"
+    ],
+    "sha256": "1c52851d8a83c7f0bc8abd182179951d761319413f870494bbbfe94b24e20c04",
+    "originalBytes": 3339060,
+    "type": "image",
+    "src": "/midia/jakkar/educacao-de-jakkar-1-1c52851d-1122.webp",
+    "srcSet": "/midia/jakkar/educacao-de-jakkar-1-1c52851d-480.webp 480w, /midia/jakkar/educacao-de-jakkar-1-1c52851d-960.webp 960w, /midia/jakkar/educacao-de-jakkar-1-1c52851d-1122.webp 1122w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/educacao-de-jakkar-1-1c52851d-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/educacao-de-jakkar-1-1c52851d-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/educacao-de-jakkar-1-1c52851d-1122.webp",
+        "width": 1122
+      }
+    ],
+    "width": 1122,
+    "height": 1402,
+    "color": "#695d5b",
+    "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoNABAAA8BgJYwCdAERBH+l4ADJxxlT9Cnj2y14+tCIMAAA"
+  },
+  {
+    "id": "jakkar-educacao-de-jakkar-cce32399",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Educação de Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Educação de Jakkar.png"
+    ],
+    "sha256": "cce32399e9c8a66692594ef1662a8a3ce21ee8df071bcbaab09ee2188b2c9d7b",
+    "originalBytes": 3267778,
+    "type": "image",
+    "src": "/midia/jakkar/educacao-de-jakkar-cce32399-1122.webp",
+    "srcSet": "/midia/jakkar/educacao-de-jakkar-cce32399-480.webp 480w, /midia/jakkar/educacao-de-jakkar-cce32399-960.webp 960w, /midia/jakkar/educacao-de-jakkar-cce32399-1122.webp 1122w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/educacao-de-jakkar-cce32399-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/educacao-de-jakkar-cce32399-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/educacao-de-jakkar-cce32399-1122.webp",
+        "width": 1122
+      }
+    ],
+    "width": 1122,
+    "height": 1402,
+    "color": "#695b59",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoNABAAA8BgJQBOgBuVpRyQAAAA/pFC2EFHFS5GciDIewWjFVbj9fgAAAA="
+  },
+  {
+    "id": "jakkar-embaixadora-ana-beatriz-chegando-em-jakkar-074594c6",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Embaixadora Ana Beatriz chegando em Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Embaixadora Ana Beatriz chegando em Jakkar.png"
+    ],
+    "sha256": "074594c669dd2555b92881df87ab3a6c7053b376359f3dc988daf904661668d6",
+    "originalBytes": 3195996,
+    "type": "image",
+    "src": "/midia/jakkar/embaixadora-ana-beatriz-chegando-em-jakkar-074594c6-1122.webp",
+    "srcSet": "/midia/jakkar/embaixadora-ana-beatriz-chegando-em-jakkar-074594c6-480.webp 480w, /midia/jakkar/embaixadora-ana-beatriz-chegando-em-jakkar-074594c6-960.webp 960w, /midia/jakkar/embaixadora-ana-beatriz-chegando-em-jakkar-074594c6-1122.webp 1122w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/embaixadora-ana-beatriz-chegando-em-jakkar-074594c6-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/embaixadora-ana-beatriz-chegando-em-jakkar-074594c6-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/embaixadora-ana-beatriz-chegando-em-jakkar-074594c6-1122.webp",
+        "width": 1122
+      }
+    ],
+    "width": 1122,
+    "height": 1402,
+    "color": "#887469",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoNABAAA8BgJYwCdAEfIWAAAP52nWeqZkB+pijnnEeKp0357IH8hyAA"
+  },
+  {
+    "id": "jakkar-embaixadora-ana-beatriz-de-jakkar-84b586b4",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Embaixadora Ana Beatriz de Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Embaixadora Ana Beatriz de Jakkar.png"
+    ],
+    "sha256": "84b586b4af3ac92c23d340a452718b0040f2ef7c18ad95143f25e47dd7250f5e",
+    "originalBytes": 2943670,
+    "type": "image",
+    "src": "/midia/jakkar/embaixadora-ana-beatriz-de-jakkar-84b586b4-1122.webp",
+    "srcSet": "/midia/jakkar/embaixadora-ana-beatriz-de-jakkar-84b586b4-480.webp 480w, /midia/jakkar/embaixadora-ana-beatriz-de-jakkar-84b586b4-960.webp 960w, /midia/jakkar/embaixadora-ana-beatriz-de-jakkar-84b586b4-1122.webp 1122w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/embaixadora-ana-beatriz-de-jakkar-84b586b4-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/embaixadora-ana-beatriz-de-jakkar-84b586b4-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/embaixadora-ana-beatriz-de-jakkar-84b586b4-1122.webp",
+        "width": 1122
+      }
+    ],
+    "width": 1122,
+    "height": 1402,
+    "color": "#877066",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoNABAAA8BgJQBOgB5vWRwAAP46kyyv/Tklec4EKNukQc9tdmpWtMrIAAA="
+  },
+  {
+    "id": "jakkar-embaixadora-de-jakkar-em-um-cafe-da-manha-em-jakkar-7365c8fe",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Embaixadora de Jakkar em um café da manhã em Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Embaixadora de Jakkar em um café da manhã em Jakkar.png"
+    ],
+    "sha256": "7365c8fe6ecbba46bdfad7e4087f7e73251031bdcda18cce21f195aee8e36380",
+    "originalBytes": 2758496,
+    "type": "image",
+    "src": "/midia/jakkar/embaixadora-de-jakkar-em-um-cafe-da-manha-em-jakkar-7365c8fe-1088.webp",
+    "srcSet": "/midia/jakkar/embaixadora-de-jakkar-em-um-cafe-da-manha-em-jakkar-7365c8fe-480.webp 480w, /midia/jakkar/embaixadora-de-jakkar-em-um-cafe-da-manha-em-jakkar-7365c8fe-960.webp 960w, /midia/jakkar/embaixadora-de-jakkar-em-um-cafe-da-manha-em-jakkar-7365c8fe-1088.webp 1088w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/embaixadora-de-jakkar-em-um-cafe-da-manha-em-jakkar-7365c8fe-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/embaixadora-de-jakkar-em-um-cafe-da-manha-em-jakkar-7365c8fe-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/embaixadora-de-jakkar-em-um-cafe-da-manha-em-jakkar-7365c8fe-1088.webp",
+        "width": 1088
+      }
+    ],
+    "width": 1088,
+    "height": 1364,
+    "color": "#776156",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoNABAAA8BgJQBOgCFFXKRe7QAA/rH28S9jejLP1HI3FlCQHGpTPKR5oAA="
+  },
+  {
+    "id": "jakkar-guardia-larissa-em-jakkar-1-1926f056",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Guardiã Larissa em Jakkar(1).jpg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Guardiã Larissa em Jakkar(1).jpg"
+    ],
+    "sha256": "1926f056a4398d32c627895619cce6e40f583be1465419aac6760bb79a1ab22c",
+    "originalBytes": 115762,
+    "type": "image",
+    "src": "/midia/jakkar/guardia-larissa-em-jakkar-1-1926f056-1021.webp",
+    "srcSet": "/midia/jakkar/guardia-larissa-em-jakkar-1-1926f056-480.webp 480w, /midia/jakkar/guardia-larissa-em-jakkar-1-1926f056-960.webp 960w, /midia/jakkar/guardia-larissa-em-jakkar-1-1926f056-1021.webp 1021w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/guardia-larissa-em-jakkar-1-1926f056-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/guardia-larissa-em-jakkar-1-1926f056-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/guardia-larissa-em-jakkar-1-1926f056-1021.webp",
+        "width": 1021
+      }
+    ],
+    "width": 1021,
+    "height": 1409,
+    "color": "#7a675a",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAAAQAgCdASoMABAAA8BgJYwCdAD0r0yPZzQgAP7n+Ylw39WDboNi5gMWlWu+IAAA"
+  },
+  {
+    "id": "jakkar-guardia-larissa-em-jakkar-0fdf6d2e",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Guardiã Larissa em Jakkar.jpg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Guardiã Larissa em Jakkar.jpg"
+    ],
+    "sha256": "0fdf6d2e2d0414ae8921a4f1c488b2b42065510383cb8d75613388eb8f05ee2e",
+    "originalBytes": 237760,
+    "type": "image",
+    "src": "/midia/jakkar/guardia-larissa-em-jakkar-0fdf6d2e-1312.webp",
+    "srcSet": "/midia/jakkar/guardia-larissa-em-jakkar-0fdf6d2e-480.webp 480w, /midia/jakkar/guardia-larissa-em-jakkar-0fdf6d2e-960.webp 960w, /midia/jakkar/guardia-larissa-em-jakkar-0fdf6d2e-1312.webp 1312w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/guardia-larissa-em-jakkar-0fdf6d2e-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/guardia-larissa-em-jakkar-0fdf6d2e-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/guardia-larissa-em-jakkar-0fdf6d2e-1312.webp",
+        "width": 1312
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "color": "#6f5f57",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAA8AA8BgJQBOgB5wXbsMAP6oXCPVKXLHm2PggZRkvnfvJVAAAA=="
+  },
+  {
+    "id": "jakkar-guardia-de-jakkar-dormindo-apos-um-dia-de-trabalho-58f6c7cf",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Guardiã de Jakkar dormindo após um dia de trabalho.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Guardiã de Jakkar dormindo após um dia de trabalho.png"
+    ],
+    "sha256": "58f6c7cf250253eb8bca79812e9dae287f06b1ad3139bbe5a594a99061b70e5e",
+    "originalBytes": 1998340,
+    "type": "image",
+    "src": "/midia/jakkar/guardia-de-jakkar-dormindo-apos-um-dia-de-trabalho-58f6c7cf-1312.webp",
+    "srcSet": "/midia/jakkar/guardia-de-jakkar-dormindo-apos-um-dia-de-trabalho-58f6c7cf-480.webp 480w, /midia/jakkar/guardia-de-jakkar-dormindo-apos-um-dia-de-trabalho-58f6c7cf-960.webp 960w, /midia/jakkar/guardia-de-jakkar-dormindo-apos-um-dia-de-trabalho-58f6c7cf-1312.webp 1312w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/guardia-de-jakkar-dormindo-apos-um-dia-de-trabalho-58f6c7cf-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/guardia-de-jakkar-dormindo-apos-um-dia-de-trabalho-58f6c7cf-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/guardia-de-jakkar-dormindo-apos-um-dia-de-trabalho-58f6c7cf-1312.webp",
+        "width": 1312
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "color": "#231817",
+    "placeholder": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoQAA8ABQBgJYwCdAEO9qOAAP70LT8JCbyu88hAAAA="
+  },
+  {
+    "id": "jakkar-guardia-no-mercado-de-jakkar-f151a4d8",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Guardiã no mercado de Jakkar.jpg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Guardiã no mercado de Jakkar.jpg"
+    ],
+    "sha256": "f151a4d85caa9319957f42c82dbec0f576b41e017f97892a912f913b5062fa00",
+    "originalBytes": 378497,
+    "type": "image",
+    "src": "/midia/jakkar/guardia-no-mercado-de-jakkar-f151a4d8-1312.webp",
+    "srcSet": "/midia/jakkar/guardia-no-mercado-de-jakkar-f151a4d8-480.webp 480w, /midia/jakkar/guardia-no-mercado-de-jakkar-f151a4d8-960.webp 960w, /midia/jakkar/guardia-no-mercado-de-jakkar-f151a4d8-1312.webp 1312w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/guardia-no-mercado-de-jakkar-f151a4d8-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/guardia-no-mercado-de-jakkar-f151a4d8-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/guardia-no-mercado-de-jakkar-f151a4d8-1312.webp",
+        "width": 1312
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "color": "#6d5c55",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAA8AA8BgJQBOgBs3AcoA/r8WA0aVafEFxD5eUwTLutV3KZomEAAA"
+  },
+  {
+    "id": "jakkar-noticia-do-incendio-que-teve-em-jakkar-cd36e78b",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Notícia do incêndio que teve em Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Notícia do incêndio que teve em Jakkar.png"
+    ],
+    "sha256": "cd36e78b8290dceec4b78f8f135e61e00d7771001833fe0601d1e09adbbf6180",
+    "originalBytes": 3263367,
+    "type": "image",
+    "src": "/midia/jakkar/noticia-do-incendio-que-teve-em-jakkar-cd36e78b-1122.webp",
+    "srcSet": "/midia/jakkar/noticia-do-incendio-que-teve-em-jakkar-cd36e78b-480.webp 480w, /midia/jakkar/noticia-do-incendio-que-teve-em-jakkar-cd36e78b-960.webp 960w, /midia/jakkar/noticia-do-incendio-que-teve-em-jakkar-cd36e78b-1122.webp 1122w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/noticia-do-incendio-que-teve-em-jakkar-cd36e78b-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/noticia-do-incendio-que-teve-em-jakkar-cd36e78b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/noticia-do-incendio-que-teve-em-jakkar-cd36e78b-1122.webp",
+        "width": 1122
+      }
+    ],
+    "width": 1122,
+    "height": 1402,
+    "color": "#828083",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoNABAAA8BgJZwAAllrgxMAANq9LPtySy6fgbyN2QPEsDHAAAA="
+  },
+  {
+    "id": "jakkar-nova-biblioteca-feita-em-jakkar-apos-o-incendio-9e4b6c0f",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Nova biblioteca feita em Jakkar após o incêndio_.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Nova biblioteca feita em Jakkar após o incêndio_.png"
+    ],
+    "sha256": "9e4b6c0f611005526dca192a4f643ed20b854d56c54fe499adc8f06066af7a7b",
+    "originalBytes": 2732993,
+    "type": "image",
+    "src": "/midia/jakkar/nova-biblioteca-feita-em-jakkar-apos-o-incendio-9e4b6c0f-1312.webp",
+    "srcSet": "/midia/jakkar/nova-biblioteca-feita-em-jakkar-apos-o-incendio-9e4b6c0f-480.webp 480w, /midia/jakkar/nova-biblioteca-feita-em-jakkar-apos-o-incendio-9e4b6c0f-960.webp 960w, /midia/jakkar/nova-biblioteca-feita-em-jakkar-apos-o-incendio-9e4b6c0f-1312.webp 1312w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/nova-biblioteca-feita-em-jakkar-apos-o-incendio-9e4b6c0f-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/nova-biblioteca-feita-em-jakkar-apos-o-incendio-9e4b6c0f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/nova-biblioteca-feita-em-jakkar-apos-o-incendio-9e4b6c0f-1312.webp",
+        "width": 1312
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "color": "#6b503f",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAA8AA8BgJQBOgBkjdgDEAAD+okn+TrHBYbNpGQheLmEkl+CDkAAA"
+  },
+  {
+    "id": "jakkar-pandemia-jakkar-c46bc048",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Pandemia Jakkar.JPG",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Pandemia Jakkar.JPG"
+    ],
+    "sha256": "c46bc048333a7b0b9d19b7af04d5ce6e2e19f94b9bc6c4775424d89367d4f157",
+    "originalBytes": 146624,
+    "type": "image",
+    "src": "/midia/jakkar/pandemia-jakkar-c46bc048-1084.webp",
+    "srcSet": "/midia/jakkar/pandemia-jakkar-c46bc048-480.webp 480w, /midia/jakkar/pandemia-jakkar-c46bc048-960.webp 960w, /midia/jakkar/pandemia-jakkar-c46bc048-1084.webp 1084w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/pandemia-jakkar-c46bc048-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/pandemia-jakkar-c46bc048-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/pandemia-jakkar-c46bc048-1084.webp",
+        "width": 1084
+      }
+    ],
+    "width": 1084,
+    "height": 992,
+    "color": "#494138",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAA8AA8BgJZQCdADaP0PAAP7ZUnTZsl5eUgM4NfJJGiWLAAA="
+  },
+  {
+    "id": "jakkar-post-sobre-educacao-de-jakkar-4954ee13",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Post sobre educação de Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Post sobre educação de Jakkar.png"
+    ],
+    "sha256": "4954ee13a301d71c754c87557920315bdaebd0abe179b8fa7576841d236f0c68",
+    "originalBytes": 2723167,
+    "type": "image",
+    "src": "/midia/jakkar/post-sobre-educacao-de-jakkar-4954ee13-1312.webp",
+    "srcSet": "/midia/jakkar/post-sobre-educacao-de-jakkar-4954ee13-480.webp 480w, /midia/jakkar/post-sobre-educacao-de-jakkar-4954ee13-960.webp 960w, /midia/jakkar/post-sobre-educacao-de-jakkar-4954ee13-1312.webp 1312w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/post-sobre-educacao-de-jakkar-4954ee13-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/post-sobre-educacao-de-jakkar-4954ee13-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/post-sobre-educacao-de-jakkar-4954ee13-1312.webp",
+        "width": 1312
+      }
+    ],
+    "width": 1312,
+    "height": 1199,
+    "color": "#8f867f",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAA8AA8BgJYwCw7DydoWgAAD+jvKwvBGfybUkS5U+56FejXKJEAAA"
+  },
+  {
+    "id": "jakkar-tripulante-alejandro-desbravando-o-pais-jakkar-ce80cc99",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Tripulante Alejandro desbravando o país Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Tripulante Alejandro desbravando o país Jakkar.png"
+    ],
+    "sha256": "ce80cc99ad2d95e2b58cb69fbe63c8f42536e5580452bd82be3476ece78b301a",
+    "originalBytes": 2625659,
+    "type": "image",
+    "src": "/midia/jakkar/tripulante-alejandro-desbravando-o-pais-jakkar-ce80cc99-1121.webp",
+    "srcSet": "/midia/jakkar/tripulante-alejandro-desbravando-o-pais-jakkar-ce80cc99-480.webp 480w, /midia/jakkar/tripulante-alejandro-desbravando-o-pais-jakkar-ce80cc99-960.webp 960w, /midia/jakkar/tripulante-alejandro-desbravando-o-pais-jakkar-ce80cc99-1121.webp 1121w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/tripulante-alejandro-desbravando-o-pais-jakkar-ce80cc99-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/tripulante-alejandro-desbravando-o-pais-jakkar-ce80cc99-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/tripulante-alejandro-desbravando-o-pais-jakkar-ce80cc99-1121.webp",
+        "width": 1121
+      }
+    ],
+    "width": 1121,
+    "height": 1403,
+    "color": "#5d4c44",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoNABAAA8BgJQBOgBjp0BUqAAD+6daBJty0phpZQno9Klb0OAAAAA=="
+  },
+  {
+    "id": "jakkar-uniao-dos-vales-de-jakkar-38b8eae3",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "União dos Vales de Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/União dos Vales de Jakkar.png"
+    ],
+    "sha256": "38b8eae35fb419ca69e664771470a233bf46cef510262e8406147f08f67c9a07",
+    "originalBytes": 3216151,
+    "type": "image",
+    "src": "/midia/jakkar/uniao-dos-vales-de-jakkar-38b8eae3-1122.webp",
+    "srcSet": "/midia/jakkar/uniao-dos-vales-de-jakkar-38b8eae3-480.webp 480w, /midia/jakkar/uniao-dos-vales-de-jakkar-38b8eae3-960.webp 960w, /midia/jakkar/uniao-dos-vales-de-jakkar-38b8eae3-1122.webp 1122w",
+    "variants": [
+      {
+        "src": "/midia/jakkar/uniao-dos-vales-de-jakkar-38b8eae3-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jakkar/uniao-dos-vales-de-jakkar-38b8eae3-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jakkar/uniao-dos-vales-de-jakkar-38b8eae3-1122.webp",
+        "width": 1122
+      }
+    ],
+    "width": 1122,
+    "height": 1402,
+    "color": "#6a5a5b",
+    "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoNABAAA8BgJQBOgApQAAD6KSKpJDe1d7zJCGgu7Wh/hwAA"
+  },
+  {
+    "id": "galixandria-visita-do-embaixador-de-galixandria-em-jakkar-e7dc280e",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Visita do Embaixador de Galixandria em Jakkar.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/Fotos de Jakkar/Visita do Embaixador de Galixandria em Jakkar.png"
+    ],
+    "sha256": "e7dc280eee7fbc8ca0ee41e90f1d7b0a03eed4aad3e0adfcde26d8b59847a8cd",
+    "originalBytes": 1794758,
+    "type": "image",
+    "src": "/midia/galixandria/visita-do-embaixador-de-galixandria-em-jakkar-e7dc280e-922.webp",
+    "srcSet": "/midia/galixandria/visita-do-embaixador-de-galixandria-em-jakkar-e7dc280e-480.webp 480w, /midia/galixandria/visita-do-embaixador-de-galixandria-em-jakkar-e7dc280e-922.webp 922w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/visita-do-embaixador-de-galixandria-em-jakkar-e7dc280e-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/visita-do-embaixador-de-galixandria-em-jakkar-e7dc280e-922.webp",
+        "width": 922
+      }
+    ],
+    "width": 922,
+    "height": 1152,
+    "color": "#8b776f",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoNABAAA8BgJYwCdAELOs74AAD+eL37MvBOW/2TuBtCdGD8hyAAAA=="
+  },
+  {
+    "id": "jakkar-manual-de-jakkar-625ccdb1",
+    "country": "jakkar",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "MANUAL DE JAKKAR.pdf",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Jakkar/Atividade 1/MANUAL DE JAKKAR.pdf"
+    ],
+    "sha256": "625ccdb1165207255f4c4147f62874af641e9f73cfd525a372399b45808fce6e",
+    "originalBytes": 144315,
+    "type": "document",
+    "src": "/documentos/jakkar/manual-de-jakkar.pdf",
+    "pages": 6,
+    "bytes": 144315
+  },
+  {
+    "id": "astalania-ana-lucia-13-setembro-1-a2f2e7a8",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Ana Lúcia 13 setembro 1.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Ana Lúcia 13 setembro 1.png"
+    ],
+    "sha256": "a2f2e7a80bdd581023a83997dfbfbfaf67f5a79058f893af1db33a40d899546d",
+    "originalBytes": 2289321,
+    "type": "image",
+    "src": "/midia/astalania/ana-lucia-13-setembro-1-a2f2e7a8-1170.webp",
+    "srcSet": "/midia/astalania/ana-lucia-13-setembro-1-a2f2e7a8-480.webp 480w, /midia/astalania/ana-lucia-13-setembro-1-a2f2e7a8-960.webp 960w, /midia/astalania/ana-lucia-13-setembro-1-a2f2e7a8-1170.webp 1170w",
+    "variants": [
+      {
+        "src": "/midia/astalania/ana-lucia-13-setembro-1-a2f2e7a8-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/ana-lucia-13-setembro-1-a2f2e7a8-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/ana-lucia-13-setembro-1-a2f2e7a8-1170.webp",
+        "width": 1170
+      }
+    ],
+    "width": 1170,
+    "height": 942,
+    "color": "#6594b0",
+    "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAA0AA8BgJbACdLoAASjAoAD9zy90Qgv2C1CgqONDb+f5QVocLZy8Pg4CztAAAAA="
+  },
+  {
+    "id": "astalania-ana-lucia-15-setembro-1-dbe81abd",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Ana Lúcia 15 setembro 1.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Ana Lúcia 15 setembro 1.png"
+    ],
+    "sha256": "dbe81abd3050de27bc00b985010a6e9fd23db0fd67f1e4a402ef934850d219f8",
+    "originalBytes": 1646327,
+    "type": "image",
+    "src": "/midia/astalania/ana-lucia-15-setembro-1-dbe81abd-829.webp",
+    "srcSet": "/midia/astalania/ana-lucia-15-setembro-1-dbe81abd-480.webp 480w, /midia/astalania/ana-lucia-15-setembro-1-dbe81abd-829.webp 829w",
+    "variants": [
+      {
+        "src": "/midia/astalania/ana-lucia-15-setembro-1-dbe81abd-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/ana-lucia-15-setembro-1-dbe81abd-829.webp",
+        "width": 829
+      }
+    ],
+    "width": 829,
+    "height": 1149,
+    "color": "#546068",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMABAAA8BgJQBOgCHXXKN0AP6Rn7+J5jmgDUi9fC1EaWtvvGpgAA=="
+  },
+  {
+    "id": "astalania-ana-lucia-23-setembro-1-b57efcf5",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Ana Lúcia 23 setembro 1.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Ana Lúcia 23 setembro 1.png"
+    ],
+    "sha256": "b57efcf54012975c37891b218a04ce8e1ddcdc94a2a3fb9918b75988a5648ff2",
+    "originalBytes": 2698379,
+    "type": "image",
+    "src": "/midia/astalania/ana-lucia-23-setembro-1-b57efcf5-1170.webp",
+    "srcSet": "/midia/astalania/ana-lucia-23-setembro-1-b57efcf5-480.webp 480w, /midia/astalania/ana-lucia-23-setembro-1-b57efcf5-960.webp 960w, /midia/astalania/ana-lucia-23-setembro-1-b57efcf5-1170.webp 1170w",
+    "variants": [
+      {
+        "src": "/midia/astalania/ana-lucia-23-setembro-1-b57efcf5-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/ana-lucia-23-setembro-1-b57efcf5-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/ana-lucia-23-setembro-1-b57efcf5-1170.webp",
+        "width": 1170
+      }
+    ],
+    "width": 1170,
+    "height": 1152,
+    "color": "#85a9b6",
+    "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQABAAA8BgJYgCdADdo3aNgAD+tihdh93lHexWUPPfNWgqv6AyxPRJk3HpXWjgAAA="
+  },
+  {
+    "id": "astalania-astalania-relatorio-67a1d568",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Astalania Relatorio.docx",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Astalania Relatorio.docx"
+    ],
+    "sha256": "67a1d5687c2cbf90b8814d704b12415401a12e02030160acd40c8a0d9131b975",
+    "originalBytes": 35695101,
+    "type": "source",
+    "note": "Texto extraído; DOCX não publicado."
+  },
+  {
+    "id": "astalania-barbara-13-setembro-2-bandeira-23b98638",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Bárbara 13 setembro 2 (BANDEIRA).png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Bárbara 13 setembro 2 (BANDEIRA).png"
+    ],
+    "sha256": "23b9863895b30ac14753516d20803a72be1332a13a20c5ce6fe407a38971b254",
+    "originalBytes": 1683252,
+    "type": "image",
+    "src": "/midia/astalania/barbara-13-setembro-2-bandeira-23b98638-1536.webp",
+    "srcSet": "/midia/astalania/barbara-13-setembro-2-bandeira-23b98638-128.webp 128w, /midia/astalania/barbara-13-setembro-2-bandeira-23b98638-480.webp 480w, /midia/astalania/barbara-13-setembro-2-bandeira-23b98638-960.webp 960w, /midia/astalania/barbara-13-setembro-2-bandeira-23b98638-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/astalania/barbara-13-setembro-2-bandeira-23b98638-128.webp",
+        "width": 128
+      },
+      {
+        "src": "/midia/astalania/barbara-13-setembro-2-bandeira-23b98638-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/barbara-13-setembro-2-bandeira-23b98638-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/barbara-13-setembro-2-bandeira-23b98638-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1024,
+    "color": "#507e8a",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsAA8BgJaACdAEOzUJ9IAD+zf4W6ecQnHhxxjcVG0wMUUtE4WbVVPb6BgAA"
+  },
+  {
+    "id": "astalania-barbara-16-setembro-2-9c898626",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Bárbara 16 setembro 2.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Bárbara 16 setembro 2.png"
+    ],
+    "sha256": "9c8986268bb6da65820b4413bef95afaa3f839f99446244c9e801861800fb697",
+    "originalBytes": 2595762,
+    "type": "image",
+    "src": "/midia/astalania/barbara-16-setembro-2-9c898626-1077.webp",
+    "srcSet": "/midia/astalania/barbara-16-setembro-2-9c898626-480.webp 480w, /midia/astalania/barbara-16-setembro-2-9c898626-960.webp 960w, /midia/astalania/barbara-16-setembro-2-9c898626-1077.webp 1077w",
+    "variants": [
+      {
+        "src": "/midia/astalania/barbara-16-setembro-2-9c898626-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/barbara-16-setembro-2-9c898626-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/barbara-16-setembro-2-9c898626-1077.webp",
+        "width": 1077
+      }
+    ],
+    "width": 1077,
+    "height": 992,
+    "color": "#6d7b74",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAA8AA8BgJQBWACIjmnrAAAD+Wy2Jm2Xz43KivHXiz4MVpQwAAA=="
+  },
+  {
+    "id": "astalania-barbara-18-setembro-1-88c49e6b",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Bárbara 18 setembro 1.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Bárbara 18 setembro 1.png"
+    ],
+    "sha256": "88c49e6b300926b96375e77bbee93179308617b34709bdf050c98ab39756caab",
+    "originalBytes": 2396856,
+    "type": "image",
+    "src": "/midia/astalania/barbara-18-setembro-1-88c49e6b-1093.webp",
+    "srcSet": "/midia/astalania/barbara-18-setembro-1-88c49e6b-480.webp 480w, /midia/astalania/barbara-18-setembro-1-88c49e6b-960.webp 960w, /midia/astalania/barbara-18-setembro-1-88c49e6b-1093.webp 1093w",
+    "variants": [
+      {
+        "src": "/midia/astalania/barbara-18-setembro-1-88c49e6b-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/barbara-18-setembro-1-88c49e6b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/barbara-18-setembro-1-88c49e6b-1093.webp",
+        "width": 1093
+      }
+    ],
+    "width": 1093,
+    "height": 960,
+    "color": "#6a7c7d",
+    "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAA4AA8BgJYwCdACkF1NgAP5L3cC/jjyOKAJ/PEgbTQNCfdWOG+ZunOJWxAAA"
+  },
+  {
+    "id": "astalania-barbara-18-setembro-2-895b7083",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Bárbara 18 setembro 2.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Bárbara 18 setembro 2.png"
+    ],
+    "sha256": "895b7083438fc9aa158095bc785803b01a73e12ab9b56860a184fc07d1515a3a",
+    "originalBytes": 2608508,
+    "type": "image",
+    "src": "/midia/astalania/barbara-18-setembro-2-895b7083-1093.webp",
+    "srcSet": "/midia/astalania/barbara-18-setembro-2-895b7083-480.webp 480w, /midia/astalania/barbara-18-setembro-2-895b7083-960.webp 960w, /midia/astalania/barbara-18-setembro-2-895b7083-1093.webp 1093w",
+    "variants": [
+      {
+        "src": "/midia/astalania/barbara-18-setembro-2-895b7083-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/barbara-18-setembro-2-895b7083-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/barbara-18-setembro-2-895b7083-1093.webp",
+        "width": 1093
+      }
+    ],
+    "width": 1093,
+    "height": 960,
+    "color": "#747870",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAA4AA8BgJQBOgB7Hdq0PgAD+gTUIarjvBCSO8RRkfyFXgAA="
+  },
+  {
+    "id": "astalania-barbara-24-setembro-1-13119780",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Bárbara 24 setembro 1.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Bárbara 24 setembro 1.png"
+    ],
+    "sha256": "1311978073094d879282f5888a4a6e0cae08c61bf01648bd66cb8516ac0f2779",
+    "originalBytes": 2666052,
+    "type": "image",
+    "src": "/midia/astalania/barbara-24-setembro-1-13119780-1170.webp",
+    "srcSet": "/midia/astalania/barbara-24-setembro-1-13119780-480.webp 480w, /midia/astalania/barbara-24-setembro-1-13119780-960.webp 960w, /midia/astalania/barbara-24-setembro-1-13119780-1170.webp 1170w",
+    "variants": [
+      {
+        "src": "/midia/astalania/barbara-24-setembro-1-13119780-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/barbara-24-setembro-1-13119780-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/barbara-24-setembro-1-13119780-1170.webp",
+        "width": 1170
+      }
+    ],
+    "width": 1170,
+    "height": 1038,
+    "color": "#a8b4b8",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoQAA4AA8BgJQBOj+ADAayWSAAA/e4QznJeHpKhouJyQAFoRVwAAA=="
+  },
+  {
+    "id": "astalania-barbara-25-setembro-1-1bb41fb9",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Bárbara 25 setembro 1.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Bárbara 25 setembro 1.png"
+    ],
+    "sha256": "1bb41fb9eefafe92622dab25223d6354b1a62c11af18a55bc3590b2f1cc05afb",
+    "originalBytes": 3299610,
+    "type": "image",
+    "src": "/midia/astalania/barbara-25-setembro-1-1bb41fb9-1170.webp",
+    "srcSet": "/midia/astalania/barbara-25-setembro-1-1bb41fb9-480.webp 480w, /midia/astalania/barbara-25-setembro-1-1bb41fb9-960.webp 960w, /midia/astalania/barbara-25-setembro-1-1bb41fb9-1170.webp 1170w",
+    "variants": [
+      {
+        "src": "/midia/astalania/barbara-25-setembro-1-1bb41fb9-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/barbara-25-setembro-1-1bb41fb9-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/barbara-25-setembro-1-1bb41fb9-1170.webp",
+        "width": 1170
+      }
+    ],
+    "width": 1170,
+    "height": 1064,
+    "color": "#8aa1a7",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAA8AA8BgJYgCdABPuZgAAP6M9LiMAkopmn19aGMg9bzu2pf7gAAA"
+  },
+  {
+    "id": "astalania-barbara-giovana-yasmim-18-setembro-3-a21b1378",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Bárbara, Giovana, Yasmim 18 setembro 3.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Bárbara, Giovana, Yasmim 18 setembro 3.png"
+    ],
+    "sha256": "a21b137850078b0c1c4b82bd16063950c7529bae5e92cfe67ba4e55a29c4ba18",
+    "originalBytes": 3650662,
+    "type": "image",
+    "src": "/midia/astalania/barbara-giovana-yasmim-18-setembro-3-a21b1378-1536.webp",
+    "srcSet": "/midia/astalania/barbara-giovana-yasmim-18-setembro-3-a21b1378-480.webp 480w, /midia/astalania/barbara-giovana-yasmim-18-setembro-3-a21b1378-960.webp 960w, /midia/astalania/barbara-giovana-yasmim-18-setembro-3-a21b1378-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/astalania/barbara-giovana-yasmim-18-setembro-3-a21b1378-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/barbara-giovana-yasmim-18-setembro-3-a21b1378-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/barbara-giovana-yasmim-18-setembro-3-a21b1378-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1024,
+    "color": "#918378",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACQAQCdASoQAAsAA8BgJYgCdADYXAAA/YW2GDQzmejWhZ37S45hzb1XDp+gAA=="
+  },
+  {
+    "id": "astalania-giovana-16-setembro-3-a852a3b9",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Giovana 16 setembro 3.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Giovana 16 setembro 3.png"
+    ],
+    "sha256": "a852a3b95d4d1748fc8860e31c535703fb0d90d3113a6e1f1d1de19cba7ccb78",
+    "originalBytes": 2671480,
+    "type": "image",
+    "src": "/midia/astalania/giovana-16-setembro-3-a852a3b9-1170.webp",
+    "srcSet": "/midia/astalania/giovana-16-setembro-3-a852a3b9-480.webp 480w, /midia/astalania/giovana-16-setembro-3-a852a3b9-960.webp 960w, /midia/astalania/giovana-16-setembro-3-a852a3b9-1170.webp 1170w",
+    "variants": [
+      {
+        "src": "/midia/astalania/giovana-16-setembro-3-a852a3b9-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/giovana-16-setembro-3-a852a3b9-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/giovana-16-setembro-3-a852a3b9-1170.webp",
+        "width": 1170
+      }
+    ],
+    "width": 1170,
+    "height": 1028,
+    "color": "#325e6c",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAA4AA8BgJZgCdAEf/qZK3gAA/s1NvN+uy8csEDD4ldmBwbJFNdgA"
+  },
+  {
+    "id": "astalania-giovana-18-setembro-4-2626578f",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Giovana 18 setembro 4.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Giovana 18 setembro 4.png"
+    ],
+    "sha256": "2626578fb7560bc9823c1783799cf4871cc2dcd3fd0f84f8c27b6e67723260f6",
+    "originalBytes": 2361425,
+    "type": "image",
+    "src": "/midia/astalania/giovana-18-setembro-4-2626578f-1170.webp",
+    "srcSet": "/midia/astalania/giovana-18-setembro-4-2626578f-480.webp 480w, /midia/astalania/giovana-18-setembro-4-2626578f-960.webp 960w, /midia/astalania/giovana-18-setembro-4-2626578f-1170.webp 1170w",
+    "variants": [
+      {
+        "src": "/midia/astalania/giovana-18-setembro-4-2626578f-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/giovana-18-setembro-4-2626578f-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/giovana-18-setembro-4-2626578f-1170.webp",
+        "width": 1170
+      }
+    ],
+    "width": 1170,
+    "height": 754,
+    "color": "#80939e",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAAoAA8BgJQBOgCHanrKewAD4v9KzCXwAKFBSTJyFB4vYAAA="
+  },
+  {
+    "id": "astalania-marcos-oraculo-16-setembro-1-fde05d27",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Marcos (Oráculo ) 16 setembro 1.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Marcos (Oráculo ) 16 setembro 1.png"
+    ],
+    "sha256": "fde05d27074b8d8026a36c3dd6de4739ee603740535ae1b9aa4ae3e362370b56",
+    "originalBytes": 2532144,
+    "type": "image",
+    "src": "/midia/astalania/marcos-oraculo-16-setembro-1-fde05d27-1280.webp",
+    "srcSet": "/midia/astalania/marcos-oraculo-16-setembro-1-fde05d27-480.webp 480w, /midia/astalania/marcos-oraculo-16-setembro-1-fde05d27-960.webp 960w, /midia/astalania/marcos-oraculo-16-setembro-1-fde05d27-1280.webp 1280w",
+    "variants": [
+      {
+        "src": "/midia/astalania/marcos-oraculo-16-setembro-1-fde05d27-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/marcos-oraculo-16-setembro-1-fde05d27-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/marcos-oraculo-16-setembro-1-fde05d27-1280.webp",
+        "width": 1280
+      }
+    ],
+    "width": 1280,
+    "height": 853,
+    "color": "#656e81",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAsAA8BgJYgCdAD0ZBWJsADclxpxeqtsJApKx9hHwPJScaLp4IAA"
+  },
+  {
+    "id": "astalania-nicolas-26-setembro-1-a9231642",
+    "country": "astalania",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Nicolas 26 setembro 1.png",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Astalânia/Nicolas 26 setembro 1.png"
+    ],
+    "sha256": "a923164272f5210f071464d37f135e28fd823babbadb5d3515a20e316401cec6",
+    "originalBytes": 2554710,
+    "type": "image",
+    "src": "/midia/astalania/nicolas-26-setembro-1-a9231642-1122.webp",
+    "srcSet": "/midia/astalania/nicolas-26-setembro-1-a9231642-480.webp 480w, /midia/astalania/nicolas-26-setembro-1-a9231642-960.webp 960w, /midia/astalania/nicolas-26-setembro-1-a9231642-1122.webp 1122w",
+    "variants": [
+      {
+        "src": "/midia/astalania/nicolas-26-setembro-1-a9231642-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/astalania/nicolas-26-setembro-1-a9231642-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/astalania/nicolas-26-setembro-1-a9231642-1122.webp",
+        "width": 1122
+      }
+    ],
+    "width": 1122,
+    "height": 1402,
+    "color": "#6e7f94",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoNABAAA8BgJaACdAC8UmoAAP6T/dtVGVHf/pMlam1o2tA0R9NcBxUngAA="
+  },
+  {
+    "id": "galixandria-code-29092026-11961d46",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "code_29092026.csv",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Galixandria/code_29092026.csv"
+    ],
+    "sha256": "11961d46c8eea39d449a68553d99cf50a48a380634affb2788cdac6d98f7ab49",
+    "originalBytes": 425,
+    "type": "briefing",
+    "src": "/documentos/galixandria/briefing-site.csv",
+    "bytes": 425
+  },
+  {
+    "id": "galixandria-brasao",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "type": "image",
+    "original": "brasao-extraido.pdf",
+    "sources": [
+      "Galixandria_Terra_Mar_Uniao-1.pdf — página 1"
+    ],
+    "extracted": true,
+    "src": "/midia/galixandria/brasao-1536.webp",
+    "srcSet": "/midia/galixandria/brasao-480.webp 480w, /midia/galixandria/brasao-960.webp 960w, /midia/galixandria/brasao-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/brasao-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/brasao-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/brasao-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1536,
+    "color": "#2d3e31",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQABAAA8BgJZQAAueKDiU3EAD+9dmQN8y1ZY8FIH1UKXpk7+nl/kAA"
+  },
+  {
+    "id": "galixandria-mapa",
+    "country": "galixandria",
+    "phase": "fase-1",
+    "activity": 1,
+    "type": "image",
+    "original": "mapa-extraido.pdf",
+    "sources": [
+      "Galixandria_Terra_Mar_Uniao-1.pdf — página 6"
+    ],
+    "extracted": true,
+    "src": "/midia/galixandria/mapa-1536.webp",
+    "srcSet": "/midia/galixandria/mapa-480.webp 480w, /midia/galixandria/mapa-960.webp 960w, /midia/galixandria/mapa-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/galixandria/mapa-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/galixandria/mapa-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/galixandria/mapa-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1404,
+    "color": "#3f584b",
+    "placeholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAA8AA8BgJaACdAEK+qsvOAAA/uMTCSRCgljT6ZZWCiV9fJzySYZiuWh88cwAAAA="
+  },
+  {
+    "id": "jambor-banner-82a5dadd",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Banner.png",
+    "sources": [
+      "País Jambor/Atividade 1/Banner.png"
+    ],
+    "sha256": "82a5dadd386bcb9e510fbf35de9234b0bcc06fb2ae0b06cab6d0ea140226f399",
+    "originalBytes": 2882772,
+    "type": "image",
+    "src": "/midia/jambor/banner-82a5dadd-1600.webp",
+    "srcSet": "/midia/jambor/banner-82a5dadd-480.webp 480w, /midia/jambor/banner-82a5dadd-960.webp 960w, /midia/jambor/banner-82a5dadd-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/jambor/banner-82a5dadd-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/banner-82a5dadd-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/banner-82a5dadd-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1679,
+    "height": 937,
+    "color": "#6d7c69",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAAkAA8BgJQBOgB6Hr2xzQADeUc9m+3zbRfaFL10Xg9oAAAA="
+  },
+  {
+    "id": "jambor-constituicao-jambor-9c7723f3",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Constituição - Jambor.pdf",
+    "sources": [
+      "País Jambor/Atividade 1/Constituição - Jambor.pdf"
+    ],
+    "sha256": "9c7723f3bc7db27f7644d12b30d14d14a15f7fd99f3d78299093f30bbbd5ebc2",
+    "originalBytes": 167584,
+    "type": "document",
+    "src": "/documentos/jambor/constituicao-jambor.pdf",
+    "pages": 16,
+    "bytes": 167584
+  },
+  {
+    "id": "jambor-geografia-jambor-6cdb0e3a",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Geografia - Jambor.pdf",
+    "sources": [
+      "País Jambor/Atividade 1/Geografia - Jambor.pdf"
+    ],
+    "sha256": "6cdb0e3a0f4dfbbf5ae16f8cc08385c53102e4ed5a57984c3c917554f9a26e0c",
+    "originalBytes": 131966,
+    "type": "document",
+    "src": "/documentos/jambor/geografia-jambor.pdf",
+    "pages": 9,
+    "bytes": 131966
+  },
+  {
+    "id": "jambor-hino-nacional-54c285fc",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Hino nacional_.docx",
+    "sources": [
+      "País Jambor/Atividade 1/Hino nacional_.docx"
+    ],
+    "sha256": "54c285fcb89ec38a168c39271c0f6921745bc915f529551268cedeb1ad4b823b",
+    "originalBytes": 7290,
+    "type": "source",
+    "note": "Texto extraído; DOCX não publicado."
+  },
+  {
+    "id": "jambor-historia-jambor-5f95351a",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "História - Jambor.pdf",
+    "sources": [
+      "País Jambor/Atividade 1/História - Jambor.pdf"
+    ],
+    "sha256": "5f95351af01115169b1431750ad260c13de2c41f8f64a714e7f5f27e503dc4e9",
+    "originalBytes": 123030,
+    "type": "document",
+    "src": "/documentos/jambor/historia-jambor.pdf",
+    "pages": 9,
+    "bytes": 123030
+  },
+  {
+    "id": "jambor-jambor-e-soberania-digital-fd269745",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Jambor_e_Soberania_Digital.mp4",
+    "sources": [
+      "País Jambor/Atividade 1/Jambor_e_Soberania_Digital.mp4"
+    ],
+    "sha256": "fd2697453e536b01a5dda229783fb762dcec4b130f0c0b4195c176b2517e41f0",
+    "originalBytes": 44355155,
+    "type": "video",
+    "src": "/midia/jambor/jambor-e-soberania-digital.mp4",
+    "poster": "/midia/jambor/jambor-e-soberania-digital-poster-1280.webp",
+    "posterSrcSet": "/midia/jambor/jambor-e-soberania-digital-poster-480.webp 480w, /midia/jambor/jambor-e-soberania-digital-poster-960.webp 960w, /midia/jambor/jambor-e-soberania-digital-poster-1280.webp 1280w",
+    "duration": 456.2,
+    "width": 1280,
+    "height": 720,
+    "bytes": 8288052
+  },
+  {
+    "id": "jambor-manual-do-pais-jambor-v2-faa2c02f",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Manual_do_Pais_Jambor_v2.pdf",
+    "sources": [
+      "País Jambor/Atividade 1/Manual_do_Pais_Jambor_v2.pdf"
+    ],
+    "sha256": "faa2c02f88fef4bc623237b6b53a4e7dee2dfdff35ecfef0d3679e526a9d8b66",
+    "originalBytes": 33300,
+    "type": "document",
+    "src": "/documentos/jambor/manual-do-pais-jambor-v2.pdf",
+    "pages": 3,
+    "bytes": 33300
+  },
+  {
+    "id": "jambor-projeto-fronteira-segura-90c4d076",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "PROJETO FRONTEIRA SEGURA.docx",
+    "sources": [
+      "País Jambor/Atividade 1/PROJETO FRONTEIRA SEGURA.docx"
+    ],
+    "sha256": "90c4d076de2f06b902a56f9cc62f99aca8c3dafe6e085b8d0944a09e1449cc60",
+    "originalBytes": 8398,
+    "type": "source",
+    "note": "Texto extraído; DOCX não publicado."
+  },
+  {
+    "id": "jambor-pinacoteca-de-jambor-oficial-0008c911",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Pinacoteca_de_Jambor_Oficial.pdf",
+    "sources": [
+      "País Jambor/Atividade 1/Pinacoteca_de_Jambor_Oficial.pdf"
+    ],
+    "sha256": "0008c911cbf6cb88314a6eece559e8ed31587ddaa8235677d7d8595d01b255c3",
+    "originalBytes": 1102314,
+    "type": "document",
+    "src": "/documentos/jambor/pinacoteca-de-jambor-oficial.pdf",
+    "pages": 3,
+    "bytes": 1102314
+  },
+  {
+    "id": "jambor-projeto-nascente-8d0a6246",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Projeto Nascente.mp4",
+    "sources": [
+      "País Jambor/Atividade 1/Projeto Nascente.mp4"
+    ],
+    "sha256": "8d0a62464dc676015f3199afd5f10c3d76e617748ebe60a345a8ee003e1941ef",
+    "originalBytes": 64856379,
+    "type": "video",
+    "src": "/midia/jambor/projeto-nascente.mp4",
+    "poster": "/midia/jambor/projeto-nascente-poster-1280.webp",
+    "posterSrcSet": "/midia/jambor/projeto-nascente-poster-480.webp 480w, /midia/jambor/projeto-nascente-poster-960.webp 960w, /midia/jambor/projeto-nascente-poster-1280.webp 1280w",
+    "duration": 530.2,
+    "width": 1280,
+    "height": 720,
+    "bytes": 9071710
+  },
+  {
+    "id": "jambor-projeto-soberania-digital-de-jambor-9c378cbf",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Projeto Soberania Digital de Jambor.pdf",
+    "sources": [
+      "País Jambor/Atividade 1/Projeto Soberania Digital de Jambor.pdf"
+    ],
+    "sha256": "9c378cbf1eb98e3042d30ec8e3f0dc159556f84a9c706890193c390d27cb2a79",
+    "originalBytes": 90329,
+    "type": "document",
+    "src": "/documentos/jambor/projeto-soberania-digital-de-jambor.pdf",
+    "pages": 9,
+    "bytes": 90329
+  },
+  {
+    "id": "jambor-projeto-escola-jambor-0326a091",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Projeto_Escola_Jambor.pdf",
+    "sources": [
+      "País Jambor/Atividade 1/Projeto_Escola_Jambor.pdf"
+    ],
+    "sha256": "0326a0913c61f6b1da39af886589e1c34e887c311e4da92b19a3e304181a3041",
+    "originalBytes": 4838830,
+    "type": "document",
+    "src": "/documentos/jambor/projeto-escola-jambor.pdf",
+    "pages": 5,
+    "bytes": 4838830
+  },
+  {
+    "id": "jambor-soberania-digital-jambor-0461feb9",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Soberania Digital Jambor.pdf",
+    "sources": [
+      "País Jambor/Atividade 1/Soberania Digital Jambor.pdf"
+    ],
+    "sha256": "0461feb9c43b346a6b0134df8b14282b23781f339b02e7e21c693d2ee16be48a",
+    "originalBytes": 14205522,
+    "type": "document",
+    "src": "/documentos/jambor/soberania-digital-jambor.pdf",
+    "pages": 11,
+    "bytes": 1627021
+  },
+  {
+    "id": "jambor-solberania-digital-de-pais-jambor-2ee4438c",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "Solberania digital de Pais jambor.mp4",
+    "sources": [
+      "País Jambor/Atividade 1/Solberania digital de Pais jambor.mp4"
+    ],
+    "sha256": "2ee4438cb68823aba60ddd165e706b299d3f4e53c8b073eecfdb342e49fdf4d5",
+    "originalBytes": 53055262,
+    "type": "video",
+    "src": "/midia/jambor/solberania-digital-de-pais-jambor.mp4",
+    "poster": "/midia/jambor/solberania-digital-de-pais-jambor-poster-1280.webp",
+    "posterSrcSet": "/midia/jambor/solberania-digital-de-pais-jambor-poster-480.webp 480w, /midia/jambor/solberania-digital-de-pais-jambor-poster-960.webp 960w, /midia/jambor/solberania-digital-de-pais-jambor-poster-1280.webp 1280w",
+    "duration": 529.3,
+    "width": 1280,
+    "height": 720,
+    "bytes": 8810469
+  },
+  {
+    "id": "jambor-bandeira-de-jambor-872097c8",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "bandeira de Jambor.jpeg",
+    "sources": [
+      "País Jambor/Atividade 1/bandeira de Jambor.jpeg"
+    ],
+    "sha256": "872097c85fa2015fb225c4e073eaec46cf65c6d072ed7a28e866afc98e0a4c7e",
+    "originalBytes": 104246,
+    "type": "image",
+    "src": "/midia/jambor/bandeira-de-jambor-872097c8-1170.webp",
+    "srcSet": "/midia/jambor/bandeira-de-jambor-872097c8-128.webp 128w, /midia/jambor/bandeira-de-jambor-872097c8-480.webp 480w, /midia/jambor/bandeira-de-jambor-872097c8-960.webp 960w, /midia/jambor/bandeira-de-jambor-872097c8-1170.webp 1170w",
+    "variants": [
+      {
+        "src": "/midia/jambor/bandeira-de-jambor-872097c8-128.webp",
+        "width": 128
+      },
+      {
+        "src": "/midia/jambor/bandeira-de-jambor-872097c8-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/bandeira-de-jambor-872097c8-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/bandeira-de-jambor-872097c8-1170.webp",
+        "width": 1170
+      }
+    ],
+    "width": 1170,
+    "height": 785,
+    "color": "#2f7970",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAsAA8BgJbACdAEO+/dwAAD9a8wdYFWO7drCLP6sh7cHijWOmAAA"
+  },
+  {
+    "id": "jambor-bandeira-8eeb4573",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "bandeira.png",
+    "sources": [
+      "País Jambor/Atividade 1/bandeira.png"
+    ],
+    "sha256": "8eeb4573535e704f2253c828cc8b2df7d9423bfa7b6574e740d49943d130fa05",
+    "originalBytes": 2617969,
+    "type": "image",
+    "src": "/midia/jambor/bandeira-8eeb4573-1536.webp",
+    "srcSet": "/midia/jambor/bandeira-8eeb4573-480.webp 480w, /midia/jambor/bandeira-8eeb4573-960.webp 960w, /midia/jambor/bandeira-8eeb4573-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/jambor/bandeira-8eeb4573-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/bandeira-8eeb4573-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/bandeira-8eeb4573-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1024,
+    "color": "#485432",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAsAA8BgJQBOgBqxPQAA/ulA9VZjBcvQNE0tni0v5ctwrm72grGAAAA="
+  },
+  {
+    "id": "jambor-brasao-4984274a",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "brasão.jpeg",
+    "sources": [
+      "País Jambor/Atividade 1/brasão.jpeg"
+    ],
+    "sha256": "4984274afff634e5b3c659b443996822457b1a30051a89f5b5cdb946cca129e8",
+    "originalBytes": 99443,
+    "type": "image",
+    "src": "/midia/jambor/brasao-4984274a-467.webp",
+    "srcSet": "/midia/jambor/brasao-4984274a-467.webp 467w",
+    "variants": [
+      {
+        "src": "/midia/jambor/brasao-4984274a-467.webp",
+        "width": 467
+      }
+    ],
+    "width": 467,
+    "height": 444,
+    "color": "#93af97",
+    "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAA8AA8BgJQBOgBjFE3qQAP7rrRR2npXEo6OKN6AEe4H1DvNHHU+2P0AAAA=="
+  },
+  {
+    "id": "jambor-caracteristicas-culturais-d51e00d2",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "características culturais.png",
+    "sources": [
+      "País Jambor/Atividade 1/características culturais.png"
+    ],
+    "sha256": "d51e00d2d8ab5fd12300b419ce187be5451a6630b5bcd4ccebdd7427d5692365",
+    "originalBytes": 3358478,
+    "type": "image",
+    "src": "/midia/jambor/caracteristicas-culturais-d51e00d2-1536.webp",
+    "srcSet": "/midia/jambor/caracteristicas-culturais-d51e00d2-480.webp 480w, /midia/jambor/caracteristicas-culturais-d51e00d2-960.webp 960w, /midia/jambor/caracteristicas-culturais-d51e00d2-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/jambor/caracteristicas-culturais-d51e00d2-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/caracteristicas-culturais-d51e00d2-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/caracteristicas-culturais-d51e00d2-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1024,
+    "color": "#514a41",
+    "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADwAQCdASoQAAsAA8BgJZQCw7D2PQknqgAA/unUZgcRV2SkbHz5OgAA"
+  },
+  {
+    "id": "jambor-cooperativa-7e4b8150",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "cooperativa.png",
+    "sources": [
+      "País Jambor/Atividade 1/cooperativa.png"
+    ],
+    "sha256": "7e4b8150e3fc65727d9c9d3d4d3082abd74408a6258186b20b08d17d3a835bab",
+    "originalBytes": 2673329,
+    "type": "image",
+    "src": "/midia/jambor/cooperativa-7e4b8150-1027.webp",
+    "srcSet": "/midia/jambor/cooperativa-7e4b8150-480.webp 480w, /midia/jambor/cooperativa-7e4b8150-960.webp 960w, /midia/jambor/cooperativa-7e4b8150-1027.webp 1027w",
+    "variants": [
+      {
+        "src": "/midia/jambor/cooperativa-7e4b8150-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/cooperativa-7e4b8150-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/cooperativa-7e4b8150-1027.webp",
+        "width": 1027
+      }
+    ],
+    "width": 1027,
+    "height": 1532,
+    "color": "#838879",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAAAQAgCdASoLABAAA8BgJYgCsH8AGZ+dI2cAAPedMMIEA8Ck16x63rzaWutucjwA"
+  },
+  {
+    "id": "jambor-dinheiro-194a60bc",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "dinheiro.jpeg",
+    "sources": [
+      "País Jambor/Atividade 1/dinheiro.jpeg"
+    ],
+    "sha256": "194a60bcd3aa5fd724f20d4f2fc4ff617d9f79334605430b65e858ff4655f4fd",
+    "originalBytes": 211923,
+    "type": "image",
+    "src": "/midia/jambor/dinheiro-194a60bc-1536.webp",
+    "srcSet": "/midia/jambor/dinheiro-194a60bc-480.webp 480w, /midia/jambor/dinheiro-194a60bc-960.webp 960w, /midia/jambor/dinheiro-194a60bc-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/jambor/dinheiro-194a60bc-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/dinheiro-194a60bc-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/dinheiro-194a60bc-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 811,
+    "color": "#72625d",
+    "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoQAAgAA8BgJZQCdAEOJGqJwAD+wCZd7/g3yhf/CToFwAAA"
+  },
+  {
+    "id": "jambor-imagem-1-feeaacfd",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "imagem 1.png",
+    "sources": [
+      "País Jambor/Atividade 1/imagem 1.png"
+    ],
+    "sha256": "feeaacfddc494d16540de07ba40383e986f18ddf7629ba948dd04ea013292b49",
+    "originalBytes": 2814054,
+    "type": "image",
+    "src": "/midia/jambor/imagem-1-feeaacfd-1536.webp",
+    "srcSet": "/midia/jambor/imagem-1-feeaacfd-480.webp 480w, /midia/jambor/imagem-1-feeaacfd-960.webp 960w, /midia/jambor/imagem-1-feeaacfd-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/jambor/imagem-1-feeaacfd-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/imagem-1-feeaacfd-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/imagem-1-feeaacfd-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1024,
+    "color": "#756146",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAsAA8BgJZACdAEMRauAAP67l/XDwwmuahnyh3WkulzM4M5dAAAA"
+  },
+  {
+    "id": "jambor-imagem-2-74c0420d",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "imagem 2.png",
+    "sources": [
+      "País Jambor/Atividade 1/imagem 2.png"
+    ],
+    "sha256": "74c0420d05b246d6b5ce5e25fa71d351c51815f3ffd1a8762cb85c91f1a18f65",
+    "originalBytes": 2788998,
+    "type": "image",
+    "src": "/midia/jambor/imagem-2-74c0420d-1536.webp",
+    "srcSet": "/midia/jambor/imagem-2-74c0420d-480.webp 480w, /midia/jambor/imagem-2-74c0420d-960.webp 960w, /midia/jambor/imagem-2-74c0420d-1536.webp 1536w",
+    "variants": [
+      {
+        "src": "/midia/jambor/imagem-2-74c0420d-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/imagem-2-74c0420d-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/imagem-2-74c0420d-1536.webp",
+        "width": 1536
+      }
+    ],
+    "width": 1536,
+    "height": 1024,
+    "color": "#745838",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAQAgCdASoQAAsAA8BgJZACdAEO/1Ws2Q0AAP7czqmhZhdXXk+97lqkyNstUtwAAAA="
+  },
+  {
+    "id": "jambor-imagem3-e71e5497",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "imagem3.jpeg",
+    "sources": [
+      "País Jambor/Atividade 1/imagem3.jpeg"
+    ],
+    "sha256": "e71e54970bf4bdffc17b7d05a005d6715add10ed9be7901dcc5e6a1e08dad451",
+    "originalBytes": 971174,
+    "type": "image",
+    "src": "/midia/jambor/imagem3-e71e5497-1408.webp",
+    "srcSet": "/midia/jambor/imagem3-e71e5497-480.webp 480w, /midia/jambor/imagem3-e71e5497-960.webp 960w, /midia/jambor/imagem3-e71e5497-1408.webp 1408w",
+    "variants": [
+      {
+        "src": "/midia/jambor/imagem3-e71e5497-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/imagem3-e71e5497-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/imagem3-e71e5497-1408.webp",
+        "width": 1408
+      }
+    ],
+    "width": 1408,
+    "height": 768,
+    "color": "#72664c",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAAkAA8BgJQBOgBefRSTZQAD+cU9diZho0ON2z1osgkY4AAA="
+  },
+  {
+    "id": "jambor-venham-conhecer-nosso-pais-6985a4e7",
+    "country": "jambor",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "venham conhecer nosso pais.jpg",
+    "sources": [
+      "País Jambor/Atividade 1/venham conhecer nosso pais.jpg"
+    ],
+    "sha256": "6985a4e7b43eea506a07c7f37e1db7bafbdd0647d6898f265f004f19d26f500a",
+    "originalBytes": 278688,
+    "type": "image",
+    "src": "/midia/jambor/venham-conhecer-nosso-pais-6985a4e7-1024.webp",
+    "srcSet": "/midia/jambor/venham-conhecer-nosso-pais-6985a4e7-480.webp 480w, /midia/jambor/venham-conhecer-nosso-pais-6985a4e7-960.webp 960w, /midia/jambor/venham-conhecer-nosso-pais-6985a4e7-1024.webp 1024w",
+    "variants": [
+      {
+        "src": "/midia/jambor/venham-conhecer-nosso-pais-6985a4e7-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/jambor/venham-conhecer-nosso-pais-6985a4e7-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/jambor/venham-conhecer-nosso-pais-6985a4e7-1024.webp",
+        "width": 1024
+      }
+    ],
+    "width": 1024,
+    "height": 1536,
+    "color": "#918367",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAAAQAgCdASoLABAAA8BgJZACdADbrOhFiEQAAPcnk96bdVJ3fCLhVRgRkUswrdwA"
+  },
+  {
+    "id": "lervuria-apresentacao",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-apresentacao.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.02.58  .jpeg"
+    ],
+    "sha256": "3b0028e68bd2ab42cf89c0f75021f8f5af284d2f91d72aa2cd8a8bb7f73c94cc",
+    "originalBytes": 610887,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-apresentacao-1600.webp",
+    "srcSet": "/midia/lervuria/lervuria-apresentacao-480.webp 480w, /midia/lervuria/lervuria-apresentacao-960.webp 960w, /midia/lervuria/lervuria-apresentacao-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-apresentacao-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-apresentacao-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-apresentacao-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1600,
+    "height": 872,
+    "color": "#81745d",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAkAA8BgJQBOgB58IRqgAPoxO1zrAOm42Anfcn6x6WrCAAA="
+  },
+  {
+    "id": "lervuria-pinacoteca-chaveiro",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-pinacoteca-chaveiro.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.02.58 (1).jpeg"
+    ],
+    "sha256": "55910a90b0399d8f9a405b7d28dc6bb912262466f86652d72d355d1b0ae40bd4",
+    "originalBytes": 107979,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-pinacoteca-chaveiro-1264.webp",
+    "srcSet": "/midia/lervuria/lervuria-pinacoteca-chaveiro-480.webp 480w, /midia/lervuria/lervuria-pinacoteca-chaveiro-960.webp 960w, /midia/lervuria/lervuria-pinacoteca-chaveiro-1264.webp 1264w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-chaveiro-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-chaveiro-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-chaveiro-1264.webp",
+        "width": 1264
+      }
+    ],
+    "width": 1264,
+    "height": 843,
+    "color": "#908678",
+    "placeholder": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACQAQCdASoQAAsAA8BgJYwCdADNzqAA/ZfGYqg/iRSlGw+cAAA="
+  },
+  {
+    "id": "lervuria-pinacoteca-ala-oeste",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-pinacoteca-ala-oeste.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.02.58 (2).jpeg"
+    ],
+    "sha256": "903d317eccb67562b15dba6f95e91e28160276b18b6b19da25cf6b005223df7e",
+    "originalBytes": 224379,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-pinacoteca-ala-oeste-1264.webp",
+    "srcSet": "/midia/lervuria/lervuria-pinacoteca-ala-oeste-480.webp 480w, /midia/lervuria/lervuria-pinacoteca-ala-oeste-960.webp 960w, /midia/lervuria/lervuria-pinacoteca-ala-oeste-1264.webp 1264w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-oeste-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-oeste-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-oeste-1264.webp",
+        "width": 1264
+      }
+    ],
+    "width": 1264,
+    "height": 843,
+    "color": "#6c5c50",
+    "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoQAAsAA8BgJYwCdAEOTYFQAPJS3lYJMZ9nipVabCeXQAAA"
+  },
+  {
+    "id": "lervuria-pinacoteca-ala-leste",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-pinacoteca-ala-leste.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.02.58 (3).jpeg"
+    ],
+    "sha256": "6eaf8bb287046a6e1db85ada9dadddde39d4b36afe6dcf8a2a60f50d1fe97b25",
+    "originalBytes": 238918,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-pinacoteca-ala-leste-1264.webp",
+    "srcSet": "/midia/lervuria/lervuria-pinacoteca-ala-leste-480.webp 480w, /midia/lervuria/lervuria-pinacoteca-ala-leste-960.webp 960w, /midia/lervuria/lervuria-pinacoteca-ala-leste-1264.webp 1264w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-leste-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-leste-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-leste-1264.webp",
+        "width": 1264
+      }
+    ],
+    "width": 1264,
+    "height": 843,
+    "color": "#9b7040",
+    "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAsAA8BgJagCdAC3ZnR/QAD+hjkZNjdwOkcVt8Lv2qWb30J8CSscYgAAAA=="
+  },
+  {
+    "id": "lervuria-pinacoteca-ala-norte",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-pinacoteca-ala-norte.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.02.58 (4).jpeg"
+    ],
+    "sha256": "d1ab048db44767760100450c80b521912b9391fba6736f407772e607ac89085b",
+    "originalBytes": 149853,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-pinacoteca-ala-norte-1264.webp",
+    "srcSet": "/midia/lervuria/lervuria-pinacoteca-ala-norte-480.webp 480w, /midia/lervuria/lervuria-pinacoteca-ala-norte-960.webp 960w, /midia/lervuria/lervuria-pinacoteca-ala-norte-1264.webp 1264w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-norte-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-norte-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-norte-1264.webp",
+        "width": 1264
+      }
+    ],
+    "width": 1264,
+    "height": 843,
+    "color": "#8e8276",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAAsAA8BgJQBOgBQVhh4AAPHbplsw1vgNMwQHRiorlheXAAA="
+  },
+  {
+    "id": "lervuria-pinacoteca-ala-sul",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-pinacoteca-ala-sul.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.02.58 (5).jpeg"
+    ],
+    "sha256": "8fd820088e1551611319fcc14461f04333f91334cbbeea2dc0952cc2c9f56156",
+    "originalBytes": 207823,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-pinacoteca-ala-sul-1264.webp",
+    "srcSet": "/midia/lervuria/lervuria-pinacoteca-ala-sul-480.webp 480w, /midia/lervuria/lervuria-pinacoteca-ala-sul-960.webp 960w, /midia/lervuria/lervuria-pinacoteca-ala-sul-1264.webp 1264w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-sul-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-sul-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-ala-sul-1264.webp",
+        "width": 1264
+      }
+    ],
+    "width": 1264,
+    "height": 843,
+    "color": "#7b5032",
+    "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAsAA8BgJZACdADBHiAA/r8WF6PBpmP68vLZ+26euLmfy/3Sfoa18AA="
+  },
+  {
+    "id": "lervuria-guardioes-criativos",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-guardioes-criativos.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.02.58 .jpeg"
+    ],
+    "sha256": "9aa11469cb902b34efcc395cf080fda72dcd60093425356fe484b83d837280c1",
+    "originalBytes": 602756,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-guardioes-criativos-1600.webp",
+    "srcSet": "/midia/lervuria/lervuria-guardioes-criativos-480.webp 480w, /midia/lervuria/lervuria-guardioes-criativos-960.webp 960w, /midia/lervuria/lervuria-guardioes-criativos-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-guardioes-criativos-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-guardioes-criativos-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-guardioes-criativos-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1600,
+    "height": 1066,
+    "color": "#988c7a",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAsAA8BgJQBOgB6LRsK74AD+WyyKybdfZlRdC8foPizdaIAAAA=="
+  },
+  {
+    "id": "lervuria-pinacoteca-miniatura",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-pinacoteca-miniatura.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.02.58.jpeg"
+    ],
+    "sha256": "ad103831647563141096fb3769fd15e07c6a66a493f26aec24dbb297c9f6f796",
+    "originalBytes": 160248,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-pinacoteca-miniatura-1264.webp",
+    "srcSet": "/midia/lervuria/lervuria-pinacoteca-miniatura-480.webp 480w, /midia/lervuria/lervuria-pinacoteca-miniatura-960.webp 960w, /midia/lervuria/lervuria-pinacoteca-miniatura-1264.webp 1264w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-miniatura-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-miniatura-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-miniatura-1264.webp",
+        "width": 1264
+      }
+    ],
+    "width": 1264,
+    "height": 843,
+    "color": "#624a3a",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAsAA8BgJYgCdADOH6YQAAD63czcN5jVs8/WhpG9xNakarJiSAAA"
+  },
+  {
+    "id": "lervuria-construcao-virtual",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-construcao-virtual.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.06.11.jpeg"
+    ],
+    "sha256": "1f4c121dc183fc254029c0ad9d889abad00b980036eab9c7b041b4e00f5589e6",
+    "originalBytes": 320981,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-construcao-virtual-1600.webp",
+    "srcSet": "/midia/lervuria/lervuria-construcao-virtual-480.webp 480w, /midia/lervuria/lervuria-construcao-virtual-960.webp 960w, /midia/lervuria/lervuria-construcao-virtual-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-construcao-virtual-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-construcao-virtual-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-construcao-virtual-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1600,
+    "height": 720,
+    "color": "#707a71",
+    "placeholder": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAcAA8BgJQBOgCHXgjX4AN5RZ0lVK8oAdXinNOTAAA=="
+  },
+  {
+    "id": "lervuria-divulgacao-ganhadores",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-divulgacao-ganhadores.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.06.16.jpeg"
+    ],
+    "sha256": "a61b9a989356ab1beb6b2dfc25dd5a23a6e47e1a78ff876ac63b391a51e41d45",
+    "originalBytes": 514935,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-divulgacao-ganhadores-1145.webp",
+    "srcSet": "/midia/lervuria/lervuria-divulgacao-ganhadores-480.webp 480w, /midia/lervuria/lervuria-divulgacao-ganhadores-960.webp 960w, /midia/lervuria/lervuria-divulgacao-ganhadores-1145.webp 1145w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-divulgacao-ganhadores-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-divulgacao-ganhadores-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-divulgacao-ganhadores-1145.webp",
+        "width": 1145
+      }
+    ],
+    "width": 1145,
+    "height": 1374,
+    "color": "#8a9585",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoNABAAA8BgJQBOj+ABKICpAADKiQ/9z0wlyH4FAdv/r98OrdIsAA=="
+  },
+  {
+    "id": "lervuria-pinacoteca-convite",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-pinacoteca-convite.jpeg",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/WhatsApp Image 2026-10-08 at 14.06.51.jpeg"
+    ],
+    "sha256": "d4ea20650f1e852a47377cbe13feac7a09fce649b80bc588bb17a2f01797ea1b",
+    "originalBytes": 587685,
+    "type": "image",
+    "src": "/midia/lervuria/lervuria-pinacoteca-convite-1024.webp",
+    "srcSet": "/midia/lervuria/lervuria-pinacoteca-convite-480.webp 480w, /midia/lervuria/lervuria-pinacoteca-convite-960.webp 960w, /midia/lervuria/lervuria-pinacoteca-convite-1024.webp 1024w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-convite-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-convite-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-pinacoteca-convite-1024.webp",
+        "width": 1024
+      }
+    ],
+    "width": 1024,
+    "height": 1536,
+    "color": "#949885",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoLABAAA8BgJZACdADLry6gAAD8T2ONtmcjsGiMoM/S5ypymacjNQAA"
+  },
+  {
+    "id": "lervuria-bandeira",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-bandeira.png",
+    "sources": [
+      "Símbolo da bandeira de Lervúria (1).pdf — página 1, imagem incorporada"
+    ],
+    "sha256": "cab3e254ba30c0c907f45e3bd27fad847df659007324eeaddd31e72615f61d02",
+    "originalBytes": 200066,
+    "type": "image",
+    "extracted": true,
+    "src": "/midia/lervuria/lervuria-bandeira-642.webp",
+    "srcSet": "/midia/lervuria/lervuria-bandeira-128.webp 128w, /midia/lervuria/lervuria-bandeira-480.webp 480w, /midia/lervuria/lervuria-bandeira-642.webp 642w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-bandeira-128.webp",
+        "width": 128
+      },
+      {
+        "src": "/midia/lervuria/lervuria-bandeira-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-bandeira-642.webp",
+        "width": 642
+      }
+    ],
+    "width": 642,
+    "height": 361,
+    "color": "#6b9857",
+    "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkAA8BgJbACdADjbnvSQAD+YJuO3U97LEe8E0wTonOSPOqZf7NZb+4CBWGE8FgknsAA"
+  },
+  {
+    "id": "lervuria-brasao",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-brasao.png",
+    "sources": [
+      "Símbolo da bandeira de Lervúria (1).pdf — página 3, imagem incorporada"
+    ],
+    "sha256": "a18af89a51df535e56e1c14851466f91d47625f7a04abd08de758d97d3d90e81",
+    "originalBytes": 1583654,
+    "type": "image",
+    "extracted": true,
+    "src": "/midia/lervuria/lervuria-brasao-1364.webp",
+    "srcSet": "/midia/lervuria/lervuria-brasao-480.webp 480w, /midia/lervuria/lervuria-brasao-960.webp 960w, /midia/lervuria/lervuria-brasao-1364.webp 1364w",
+    "variants": [
+      {
+        "src": "/midia/lervuria/lervuria-brasao-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/lervuria/lervuria-brasao-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/lervuria/lervuria-brasao-1364.webp",
+        "width": 1364
+      }
+    ],
+    "width": 1364,
+    "height": 768,
+    "color": "#b8b298",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAkAA8BgJQBOgB4Z896wAP7t3Qp90uopZHl1FxcJx7NauAAAAA=="
+  },
+  {
+    "id": "lervuria-material-institucional",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "lervuria-material-institucional.pdf",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/Símbolo da bandeira de Lervúria (1).pdf"
+    ],
+    "sha256": "eda0b761b886faebdceb1cd7603e7d11157c3d171aabeaaaadd63afd464fadc3",
+    "originalBytes": 2981024,
+    "type": "document",
+    "src": "/documentos/lervuria/lervuria-material-institucional.pdf",
+    "pages": 19,
+    "bytes": 2981024
+  },
+  {
+    "id": "PAÍS LERVÚRIA",
+    "country": "lervuria",
+    "phase": "fase-1",
+    "activity": 1,
+    "original": "PAÍS LERVÚRIA.docx",
+    "sources": [
+      "FASE 1 - Entregas Básicas/País Lervúria /Atividade 1/PAÍS LERVÚRIA.docx"
+    ],
+    "sha256": "32350e01e64d3ea69d1229e6155296cfcedd2d8f0791650a88966d396b9736a1",
+    "originalBytes": 24020,
+    "type": "source",
+    "note": "Fonte textual; DOCX não publicado."
+  }
+]

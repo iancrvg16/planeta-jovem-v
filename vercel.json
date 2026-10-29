@@ -1,0 +1,154 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/projeto",
+      "destination": "/projeto/index.html"
+    },
+    {
+      "source": "/paises",
+      "destination": "/paises/index.html"
+    },
+    {
+      "source": "/atividades",
+      "destination": "/atividades/index.html"
+    },
+    {
+      "source": "/galeria",
+      "destination": "/galeria/index.html"
+    },
+    {
+      "source": "/parceiros",
+      "destination": "/parceiros/index.html"
+    },
+    {
+      "source": "/contato",
+      "destination": "/contato/index.html"
+    },
+    {
+      "source": "/documentos",
+      "destination": "/documentos/index.html"
+    },
+    {
+      "source": "/noticias",
+      "destination": "/noticias/index.html"
+    },
+    {
+      "source": "/memoria",
+      "destination": "/memoria/index.html"
+    },
+    {
+      "source": "/paises/galixandria",
+      "destination": "/paises/galixandria/index.html"
+    },
+    {
+      "source": "/paises/astalania",
+      "destination": "/paises/astalania/index.html"
+    },
+    {
+      "source": "/paises/jakkar",
+      "destination": "/paises/jakkar/index.html"
+    },
+    {
+      "source": "/paises/jambor",
+      "destination": "/paises/jambor/index.html"
+    },
+    {
+      "source": "/paises/lervuria",
+      "destination": "/paises/lervuria/index.html"
+    },
+    {
+      "source": "/noticias/manual-intergalactico-disponivel",
+      "destination": "/noticias/manual-intergalactico-disponivel/index.html"
+    },
+    {
+      "source": "/noticias/marco-zero-encontro-no-olimpo",
+      "destination": "/noticias/marco-zero-encontro-no-olimpo/index.html"
+    },
+    {
+      "source": "/noticias/semana-zero-inicio-das-transmissoes",
+      "destination": "/noticias/semana-zero-inicio-das-transmissoes/index.html"
+    },
+    {
+      "source": "/noticias/plano-diretor-construir-o-futuro",
+      "destination": "/noticias/plano-diretor-construir-o-futuro/index.html"
+    },
+    {
+      "source": "/memoria/paises/jakkar",
+      "destination": "/memoria/paises/jakkar/index.html"
+    },
+    {
+      "source": "/memoria/paises/galixandria",
+      "destination": "/memoria/paises/galixandria/index.html"
+    },
+    {
+      "source": "/memoria/paises/midoria",
+      "destination": "/memoria/paises/midoria/index.html"
+    },
+    {
+      "source": "/memoria/paises/lervuria",
+      "destination": "/memoria/paises/lervuria/index.html"
+    },
+    {
+      "source": "/memoria/paises/astalania",
+      "destination": "/memoria/paises/astalania/index.html"
+    },
+    {
+      "source": "/memoria/paises/dolminn",
+      "destination": "/memoria/paises/dolminn/index.html"
+    },
+    {
+      "source": "/memoria/paises/jambor",
+      "destination": "/memoria/paises/jambor/index.html"
+    },
+    {
+      "source": "/memoria/paises/olimpia",
+      "destination": "/memoria/paises/olimpia/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/sobre",
+      "destination": "/projeto",
+      "permanent": true
+    },
+    {
+      "source": "/paises/midoria",
+      "destination": "/memoria/paises/midoria",
+      "permanent": true
+    },
+    {
+      "source": "/paises/dolminn",
+      "destination": "/memoria/paises/dolminn",
+      "permanent": true
+    },
+    {
+      "source": "/paises/olimpia",
+      "destination": "/memoria/paises/olimpia",
+      "permanent": true
+    }
+  ],
+  "trailingSlash": false
+}

@@ -1,0 +1,29 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+integration/
+public/
+package-lock.json
+_entregas/
+_referencias/
+_processamento/
+
+# Generated JSON and audit evidence: preserve recorded bytes; do not mass-format.
+src/data/generated/
+docs/validacao/
+docs/inventario-anterior.json
+# Historical documents are immutable evidence, not maintained source.
+docs/README-anterior.md
+docs/auditoria-site-atual.md
+docs/entrega-jambor.md
+docs/relatorio-lervuria-auditoria-producao-2026-10-10.md
+
+# Original audit is immutable evidence.
+RELATORIO_TECNICO.md
+docs/ENTREGA.md
+# Existing documentation is historical delivery evidence.
+docs/**
+!docs/PUBLICACAO.md
+!docs/PROCESSAMENTO.md
+!docs/publication-status.json

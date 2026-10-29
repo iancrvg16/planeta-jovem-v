@@ -1,0 +1,20 @@
+{
+  "src": "/midia/hero-913.webp",
+  "srcSet": "/midia/hero-480.webp 480w, /midia/hero-913.webp 913w",
+  "variants": [
+    {
+      "src": "/midia/hero-480.webp",
+      "width": 480
+    },
+    {
+      "src": "/midia/hero-913.webp",
+      "width": 913
+    }
+  ],
+  "width": 913,
+  "height": 627,
+  "color": "#66656a",
+  "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAsAA8BgJQBOgBItgAAA/p7WC6zejksYn7PgiuYJiNGxJUedDVYYAAA=",
+  "avifSrc": "/midia/hero-913.avif",
+  "avifSrcSet": "/midia/hero-480.avif 480w, /midia/hero-913.avif 913w"
+}

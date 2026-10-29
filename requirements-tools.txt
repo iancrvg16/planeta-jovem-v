@@ -1,0 +1,2 @@
+# Only required for media tooling and synthetic Python tests; not for npm build.
+Pillow==12.3.0

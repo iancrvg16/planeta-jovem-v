@@ -1,0 +1,65 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+.vercel/
+
+# Entradas brutas e cache de processamento
+_entregas/
+_referencias/
+_processamento/
+docs/validacao/*.html
+
+# Python/tooling and private publication evidence
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.tsbuildinfo
+.agents/
+.codex/
+.aws/
+_privado/
+.media-processing.lock
+.media-transaction.*
+.media-stage-*/
+# Preserve historical evidence locally; review separately before public release.
+docs/validacao/
+docs/screenshots/
+integration/
+# Historical reports contain local paths/editorial details; keep outside public Git.
+RELATORIO_TECNICO.md
+docs/**
+!docs/inventario-anterior.json
+!docs/PUBLICACAO.md
+!docs/PROCESSAMENTO.md
+!docs/publication-status.json
