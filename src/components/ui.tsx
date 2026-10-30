@@ -25,11 +25,13 @@ export function Badge({
   return <span className={`badge badge-${tone}`}>{children}</span>
 }
 export function SectionHeading({
+  id,
   eyebrow,
   title,
   link,
   linkText,
 }: {
+  id?: string
   eyebrow?: string
   title: string
   link?: string
@@ -39,7 +41,7 @@ export function SectionHeading({
     <div className="section-heading">
       <div>
         {eyebrow && <p className="eyebrow">{eyebrow}</p>}
-        <h2>{title}</h2>
+        <h2 id={id}>{title}</h2>
       </div>
       {link && (
         <Link className="text-link" to={link}>

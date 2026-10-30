@@ -1658,9 +1658,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "code_29092026.csv",
-    "sources": [
-      "FASE 1 - Entregas Básicas/País Galixandria/code_29092026.csv"
-    ],
+    "sources": ["FASE 1 - Entregas Básicas/País Galixandria/code_29092026.csv"],
     "sha256": "11961d46c8eea39d449a68553d99cf50a48a380634affb2788cdac6d98f7ab49",
     "originalBytes": 425,
     "type": "briefing",
@@ -1674,9 +1672,7 @@
     "activity": 1,
     "type": "image",
     "original": "brasao-extraido.pdf",
-    "sources": [
-      "Galixandria_Terra_Mar_Uniao-1.pdf — página 1"
-    ],
+    "sources": ["Galixandria_Terra_Mar_Uniao-1.pdf — página 1"],
     "extracted": true,
     "src": "/midia/galixandria/brasao-1536.webp",
     "srcSet": "/midia/galixandria/brasao-480.webp 480w, /midia/galixandria/brasao-960.webp 960w, /midia/galixandria/brasao-1536.webp 1536w",
@@ -1706,9 +1702,7 @@
     "activity": 1,
     "type": "image",
     "original": "mapa-extraido.pdf",
-    "sources": [
-      "Galixandria_Terra_Mar_Uniao-1.pdf — página 6"
-    ],
+    "sources": ["Galixandria_Terra_Mar_Uniao-1.pdf — página 6"],
     "extracted": true,
     "src": "/midia/galixandria/mapa-1536.webp",
     "srcSet": "/midia/galixandria/mapa-480.webp 480w, /midia/galixandria/mapa-960.webp 960w, /midia/galixandria/mapa-1536.webp 1536w",
@@ -1737,9 +1731,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Banner.png",
-    "sources": [
-      "País Jambor/Atividade 1/Banner.png"
-    ],
+    "sources": ["País Jambor/Atividade 1/Banner.png"],
     "sha256": "82a5dadd386bcb9e510fbf35de9234b0bcc06fb2ae0b06cab6d0ea140226f399",
     "originalBytes": 2882772,
     "type": "image",
@@ -1770,9 +1762,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Constituição - Jambor.pdf",
-    "sources": [
-      "País Jambor/Atividade 1/Constituição - Jambor.pdf"
-    ],
+    "sources": ["País Jambor/Atividade 1/Constituição - Jambor.pdf"],
     "sha256": "9c7723f3bc7db27f7644d12b30d14d14a15f7fd99f3d78299093f30bbbd5ebc2",
     "originalBytes": 167584,
     "type": "document",
@@ -1786,9 +1776,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Geografia - Jambor.pdf",
-    "sources": [
-      "País Jambor/Atividade 1/Geografia - Jambor.pdf"
-    ],
+    "sources": ["País Jambor/Atividade 1/Geografia - Jambor.pdf"],
     "sha256": "6cdb0e3a0f4dfbbf5ae16f8cc08385c53102e4ed5a57984c3c917554f9a26e0c",
     "originalBytes": 131966,
     "type": "document",
@@ -1802,9 +1790,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Hino nacional_.docx",
-    "sources": [
-      "País Jambor/Atividade 1/Hino nacional_.docx"
-    ],
+    "sources": ["País Jambor/Atividade 1/Hino nacional_.docx"],
     "sha256": "54c285fcb89ec38a168c39271c0f6921745bc915f529551268cedeb1ad4b823b",
     "originalBytes": 7290,
     "type": "source",
@@ -1816,9 +1802,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "História - Jambor.pdf",
-    "sources": [
-      "País Jambor/Atividade 1/História - Jambor.pdf"
-    ],
+    "sources": ["País Jambor/Atividade 1/História - Jambor.pdf"],
     "sha256": "5f95351af01115169b1431750ad260c13de2c41f8f64a714e7f5f27e503dc4e9",
     "originalBytes": 123030,
     "type": "document",
@@ -1832,9 +1816,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Jambor_e_Soberania_Digital.mp4",
-    "sources": [
-      "País Jambor/Atividade 1/Jambor_e_Soberania_Digital.mp4"
-    ],
+    "sources": ["País Jambor/Atividade 1/Jambor_e_Soberania_Digital.mp4"],
     "sha256": "fd2697453e536b01a5dda229783fb762dcec4b130f0c0b4195c176b2517e41f0",
     "originalBytes": 44355155,
     "type": "video",
@@ -1852,9 +1834,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Manual_do_Pais_Jambor_v2.pdf",
-    "sources": [
-      "País Jambor/Atividade 1/Manual_do_Pais_Jambor_v2.pdf"
-    ],
+    "sources": ["País Jambor/Atividade 1/Manual_do_Pais_Jambor_v2.pdf"],
     "sha256": "faa2c02f88fef4bc623237b6b53a4e7dee2dfdff35ecfef0d3679e526a9d8b66",
     "originalBytes": 33300,
     "type": "document",
@@ -1868,9 +1848,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "PROJETO FRONTEIRA SEGURA.docx",
-    "sources": [
-      "País Jambor/Atividade 1/PROJETO FRONTEIRA SEGURA.docx"
-    ],
+    "sources": ["País Jambor/Atividade 1/PROJETO FRONTEIRA SEGURA.docx"],
     "sha256": "90c4d076de2f06b902a56f9cc62f99aca8c3dafe6e085b8d0944a09e1449cc60",
     "originalBytes": 8398,
     "type": "source",
@@ -1882,9 +1860,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Pinacoteca_de_Jambor_Oficial.pdf",
-    "sources": [
-      "País Jambor/Atividade 1/Pinacoteca_de_Jambor_Oficial.pdf"
-    ],
+    "sources": ["País Jambor/Atividade 1/Pinacoteca_de_Jambor_Oficial.pdf"],
     "sha256": "0008c911cbf6cb88314a6eece559e8ed31587ddaa8235677d7d8595d01b255c3",
     "originalBytes": 1102314,
     "type": "document",
@@ -1898,9 +1874,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Projeto Nascente.mp4",
-    "sources": [
-      "País Jambor/Atividade 1/Projeto Nascente.mp4"
-    ],
+    "sources": ["País Jambor/Atividade 1/Projeto Nascente.mp4"],
     "sha256": "8d0a62464dc676015f3199afd5f10c3d76e617748ebe60a345a8ee003e1941ef",
     "originalBytes": 64856379,
     "type": "video",
@@ -1934,9 +1908,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Projeto_Escola_Jambor.pdf",
-    "sources": [
-      "País Jambor/Atividade 1/Projeto_Escola_Jambor.pdf"
-    ],
+    "sources": ["País Jambor/Atividade 1/Projeto_Escola_Jambor.pdf"],
     "sha256": "0326a0913c61f6b1da39af886589e1c34e887c311e4da92b19a3e304181a3041",
     "originalBytes": 4838830,
     "type": "document",
@@ -1950,9 +1922,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "Soberania Digital Jambor.pdf",
-    "sources": [
-      "País Jambor/Atividade 1/Soberania Digital Jambor.pdf"
-    ],
+    "sources": ["País Jambor/Atividade 1/Soberania Digital Jambor.pdf"],
     "sha256": "0461feb9c43b346a6b0134df8b14282b23781f339b02e7e21c693d2ee16be48a",
     "originalBytes": 14205522,
     "type": "document",
@@ -1986,9 +1956,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "bandeira de Jambor.jpeg",
-    "sources": [
-      "País Jambor/Atividade 1/bandeira de Jambor.jpeg"
-    ],
+    "sources": ["País Jambor/Atividade 1/bandeira de Jambor.jpeg"],
     "sha256": "872097c85fa2015fb225c4e073eaec46cf65c6d072ed7a28e866afc98e0a4c7e",
     "originalBytes": 104246,
     "type": "image",
@@ -2023,9 +1991,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "bandeira.png",
-    "sources": [
-      "País Jambor/Atividade 1/bandeira.png"
-    ],
+    "sources": ["País Jambor/Atividade 1/bandeira.png"],
     "sha256": "8eeb4573535e704f2253c828cc8b2df7d9423bfa7b6574e740d49943d130fa05",
     "originalBytes": 2617969,
     "type": "image",
@@ -2056,9 +2022,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "brasão.jpeg",
-    "sources": [
-      "País Jambor/Atividade 1/brasão.jpeg"
-    ],
+    "sources": ["País Jambor/Atividade 1/brasão.jpeg"],
     "sha256": "4984274afff634e5b3c659b443996822457b1a30051a89f5b5cdb946cca129e8",
     "originalBytes": 99443,
     "type": "image",
@@ -2081,9 +2045,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "características culturais.png",
-    "sources": [
-      "País Jambor/Atividade 1/características culturais.png"
-    ],
+    "sources": ["País Jambor/Atividade 1/características culturais.png"],
     "sha256": "d51e00d2d8ab5fd12300b419ce187be5451a6630b5bcd4ccebdd7427d5692365",
     "originalBytes": 3358478,
     "type": "image",
@@ -2114,9 +2076,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "cooperativa.png",
-    "sources": [
-      "País Jambor/Atividade 1/cooperativa.png"
-    ],
+    "sources": ["País Jambor/Atividade 1/cooperativa.png"],
     "sha256": "7e4b8150e3fc65727d9c9d3d4d3082abd74408a6258186b20b08d17d3a835bab",
     "originalBytes": 2673329,
     "type": "image",
@@ -2147,9 +2107,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "dinheiro.jpeg",
-    "sources": [
-      "País Jambor/Atividade 1/dinheiro.jpeg"
-    ],
+    "sources": ["País Jambor/Atividade 1/dinheiro.jpeg"],
     "sha256": "194a60bcd3aa5fd724f20d4f2fc4ff617d9f79334605430b65e858ff4655f4fd",
     "originalBytes": 211923,
     "type": "image",
@@ -2180,9 +2138,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "imagem 1.png",
-    "sources": [
-      "País Jambor/Atividade 1/imagem 1.png"
-    ],
+    "sources": ["País Jambor/Atividade 1/imagem 1.png"],
     "sha256": "feeaacfddc494d16540de07ba40383e986f18ddf7629ba948dd04ea013292b49",
     "originalBytes": 2814054,
     "type": "image",
@@ -2213,9 +2169,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "imagem 2.png",
-    "sources": [
-      "País Jambor/Atividade 1/imagem 2.png"
-    ],
+    "sources": ["País Jambor/Atividade 1/imagem 2.png"],
     "sha256": "74c0420d05b246d6b5ce5e25fa71d351c51815f3ffd1a8762cb85c91f1a18f65",
     "originalBytes": 2788998,
     "type": "image",
@@ -2246,9 +2200,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "imagem3.jpeg",
-    "sources": [
-      "País Jambor/Atividade 1/imagem3.jpeg"
-    ],
+    "sources": ["País Jambor/Atividade 1/imagem3.jpeg"],
     "sha256": "e71e54970bf4bdffc17b7d05a005d6715add10ed9be7901dcc5e6a1e08dad451",
     "originalBytes": 971174,
     "type": "image",
@@ -2279,9 +2231,7 @@
     "phase": "fase-1",
     "activity": 1,
     "original": "venham conhecer nosso pais.jpg",
-    "sources": [
-      "País Jambor/Atividade 1/venham conhecer nosso pais.jpg"
-    ],
+    "sources": ["País Jambor/Atividade 1/venham conhecer nosso pais.jpg"],
     "sha256": "6985a4e7b43eea506a07c7f37e1db7bafbdd0647d6898f265f004f19d26f500a",
     "originalBytes": 278688,
     "type": "image",
@@ -2766,5 +2716,482 @@
     "originalBytes": 24020,
     "type": "source",
     "note": "Fonte textual; DOCX não publicado."
+  },
+  {
+    "original": "IMG-20241123-WA0000.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 1",
+    "description": "Participantes reunidos diante de monitores em um estande com a marca Pirambu Innovation.",
+    "alt": "Participantes reunidos diante de monitores em um estande com a marca Pirambu Innovation.",
+    "id": "memoria-registro-01-463f5b81",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "463f5b818706146c19d4b712889d522a4188c6204b34fe182e83656d9a6e2f04",
+    "originalBytes": 183091,
+    "sources": ["atualizacao-2026-10-30/IMG-20241123-WA0000.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-01-463f5b81-1600.webp",
+    "srcSet": "/midia/memoria/registro-01-463f5b81-480.webp 480w, /midia/memoria/registro-01-463f5b81-960.webp 960w, /midia/memoria/registro-01-463f5b81-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-01-463f5b81-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-01-463f5b81-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-01-463f5b81-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1600,
+    "height": 1197,
+    "color": "#737471",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAwAA8BgJYgCw7DwQ2dQAAD3rQjPFv4EXduY1Hx99B6VFAAAAA=="
+  },
+  {
+    "original": "IMG-20241124-WA0009.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 2",
+    "description": "Grupo posando junto ao balcão de um estande em um pavilhão de exposição.",
+    "alt": "Grupo posando junto ao balcão de um estande em um pavilhão de exposição.",
+    "id": "memoria-registro-02-1a60762a",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "1a60762af0951b9d18458023a4d0e447012ce020df21af0b37a3d71a2482ea81",
+    "originalBytes": 131959,
+    "sources": ["atualizacao-2026-10-30/IMG-20241124-WA0009.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-02-1a60762a-1079.webp",
+    "srcSet": "/midia/memoria/registro-02-1a60762a-480.webp 480w, /midia/memoria/registro-02-1a60762a-960.webp 960w, /midia/memoria/registro-02-1a60762a-1079.webp 1079w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-02-1a60762a-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-02-1a60762a-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-02-1a60762a-1079.webp",
+        "width": 1079
+      }
+    ],
+    "width": 1079,
+    "height": 806,
+    "color": "#7b7984",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACQAQCdASoQAAwAA8BgJagC7ABfuAAA/HCpmPAgYUwJem0G/WB3aspLSSAAAA=="
+  },
+  {
+    "original": "IMG-20260211-WA0067.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 3",
+    "description": "Participantes sentados em cadeiras verdes ao redor de uma mesa com papéis.",
+    "alt": "Participantes sentados em cadeiras verdes ao redor de uma mesa com papéis.",
+    "id": "memoria-registro-03-e084c87b",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "e084c87b77df026f2bb5139a74d18a87b647bca95acd9bffb7430e814f6ed1ca",
+    "originalBytes": 212579,
+    "sources": ["atualizacao-2026-10-30/IMG-20260211-WA0067.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-03-e084c87b-1200.webp",
+    "srcSet": "/midia/memoria/registro-03-e084c87b-480.webp 480w, /midia/memoria/registro-03-e084c87b-960.webp 960w, /midia/memoria/registro-03-e084c87b-1200.webp 1200w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-03-e084c87b-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-03-e084c87b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-03-e084c87b-1200.webp",
+        "width": 1200
+      }
+    ],
+    "width": 1200,
+    "height": 1600,
+    "color": "#928f85",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoMABAAA8BgJZQC7ADcV9OCiAAA/o0ywI/1kJYViip4XjC8RKKLQAAA"
+  },
+  {
+    "original": "IMG-20260312-WA0022.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 4",
+    "description": "Grupo ao ar livre segurando letras coloridas que formam Planeta Jovem.",
+    "alt": "Grupo ao ar livre segurando letras coloridas que formam Planeta Jovem.",
+    "id": "memoria-registro-04-46246a54",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "46246a54d7a41d988a72fa06f78aa3c46e252d71e3e69c65d43506ffacdfb363",
+    "originalBytes": 278518,
+    "sources": ["atualizacao-2026-10-30/IMG-20260312-WA0022.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-04-46246a54-1280.webp",
+    "srcSet": "/midia/memoria/registro-04-46246a54-480.webp 480w, /midia/memoria/registro-04-46246a54-960.webp 960w, /midia/memoria/registro-04-46246a54-1280.webp 1280w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-04-46246a54-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-04-46246a54-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-04-46246a54-1280.webp",
+        "width": 1280
+      }
+    ],
+    "width": 1280,
+    "height": 960,
+    "color": "#827374",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAwAA8BgJQBdgCKSGrHAAADeUWdN2R/T7DGN3+I8oNkzaKOAAA=="
+  },
+  {
+    "original": "IMG-20260312-WA0045.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 5",
+    "description": "Grupo ao ar livre reunido atrás de sacos de materiais, diante de uma cerca com uma ilustração marinha.",
+    "alt": "Grupo ao ar livre reunido atrás de sacos de materiais, diante de uma cerca com uma ilustração marinha.",
+    "id": "memoria-registro-05-f98b2e2d",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "f98b2e2d89542c79a4a01151f2a508513ba6a48134f93dcfaecdd0e7cfdba19f",
+    "originalBytes": 136598,
+    "sources": ["atualizacao-2026-10-30/IMG-20260312-WA0045.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-05-f98b2e2d-1280.webp",
+    "srcSet": "/midia/memoria/registro-05-f98b2e2d-480.webp 480w, /midia/memoria/registro-05-f98b2e2d-960.webp 960w, /midia/memoria/registro-05-f98b2e2d-1280.webp 1280w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-05-f98b2e2d-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-05-f98b2e2d-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-05-f98b2e2d-1280.webp",
+        "width": 1280
+      }
+    ],
+    "width": 1280,
+    "height": 720,
+    "color": "#787976",
+    "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACQAQCdASoQAAkAA8BgJZQAAYgaowAA/tATEPE5Wn+PPTBY2OwF2HqQHgA="
+  },
+  {
+    "original": "20251118_141937_mfnr.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 6",
+    "description": "Pessoa apresentando uma cena de jogo projetada na parede, diante de participantes sentados.",
+    "alt": "Pessoa apresentando uma cena de jogo projetada na parede, diante de participantes sentados.",
+    "id": "memoria-registro-06-10728f6d",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "10728f6d27131e3bda8db75a47f67c27a63f639292bb0158f6396ad0fdf0aee5",
+    "originalBytes": 1835591,
+    "sources": ["atualizacao-2026-10-30/20251118_141937_mfnr.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-06-10728f6d-1600.webp",
+    "srcSet": "/midia/memoria/registro-06-10728f6d-480.webp 480w, /midia/memoria/registro-06-10728f6d-960.webp 960w, /midia/memoria/registro-06-10728f6d-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-06-10728f6d-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-06-10728f6d-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-06-10728f6d-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 4160,
+    "height": 3120,
+    "color": "#4e545c",
+    "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAwAA8BgJYwC7AEOyA/3CwAA/iaZ2zAf6zdrjy1l6YLMVaMfAAAA"
+  },
+  {
+    "original": "20251118_142352_mfnr.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 7",
+    "description": "Participantes em cadeiras verdes acompanhando uma atividade em uma sala.",
+    "alt": "Participantes em cadeiras verdes acompanhando uma atividade em uma sala.",
+    "id": "memoria-registro-07-7a584a4b",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "7a584a4b90536d916d4158146f213f4eb5ab3f845230ecfb930dfb747fcac854",
+    "originalBytes": 1533412,
+    "sources": ["atualizacao-2026-10-30/20251118_142352_mfnr.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-07-7a584a4b-1600.webp",
+    "srcSet": "/midia/memoria/registro-07-7a584a4b-480.webp 480w, /midia/memoria/registro-07-7a584a4b-960.webp 960w, /midia/memoria/registro-07-7a584a4b-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-07-7a584a4b-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-07-7a584a4b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-07-7a584a4b-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 4160,
+    "height": 3120,
+    "color": "#464343",
+    "placeholder": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoQAAwAA8BgJaQAAeiCGlAAAP7o7cqwzbegjnLAUAAAAA=="
+  },
+  {
+    "original": "20251118_143359_mfnr.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 8",
+    "description": "Pessoa ao lado de uma projeção amarela com a programação de uma palestra.",
+    "alt": "Pessoa ao lado de uma projeção amarela com a programação de uma palestra.",
+    "id": "memoria-registro-08-08ad8a06",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "08ad8a0698ec910b72a2ebfebbc04c9725978eae2ac568dfab07521539c15e04",
+    "originalBytes": 1550740,
+    "sources": ["atualizacao-2026-10-30/20251118_143359_mfnr.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-08-08ad8a06-1600.webp",
+    "srcSet": "/midia/memoria/registro-08-08ad8a06-480.webp 480w, /midia/memoria/registro-08-08ad8a06-960.webp 960w, /midia/memoria/registro-08-08ad8a06-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-08-08ad8a06-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-08-08ad8a06-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-08-08ad8a06-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 4160,
+    "height": 3120,
+    "color": "#585a54",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAwAA8BgJZwAAuG75LamIAD+g8zAt+v9pH+2cHU0eWAhE0oQAA=="
+  },
+  {
+    "original": "20251118_143413_mfnr.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 9",
+    "description": "Duas pessoas diante de uma apresentação projetada na parede, com o público à frente.",
+    "alt": "Duas pessoas diante de uma apresentação projetada na parede, com o público à frente.",
+    "id": "memoria-registro-09-43d5d5fa",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "43d5d5fab85eb7119b674128151dc2ed23a11951b3ab6c876eccdfa7bf3d28d0",
+    "originalBytes": 1479764,
+    "sources": ["atualizacao-2026-10-30/20251118_143413_mfnr.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-09-43d5d5fa-1600.webp",
+    "srcSet": "/midia/memoria/registro-09-43d5d5fa-480.webp 480w, /midia/memoria/registro-09-43d5d5fa-960.webp 960w, /midia/memoria/registro-09-43d5d5fa-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-09-43d5d5fa-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-09-43d5d5fa-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-09-43d5d5fa-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 4160,
+    "height": 3120,
+    "color": "#4e4c49",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAwAA8BgJZwAAlwvYc3AAP7R1FlTF+B+CUPSJfsv6ULasMoEAA=="
+  },
+  {
+    "original": "20251118_143454_mfnr.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 10",
+    "description": "Participantes usando computadores em uma bancada, com um ambiente virtual na tela mais próxima.",
+    "alt": "Participantes usando computadores em uma bancada, com um ambiente virtual na tela mais próxima.",
+    "id": "memoria-registro-10-d4ec995b",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "d4ec995bee5ad593a0ea0d9f7f61d3e83b5fdd4050abb7abf2ae374c63d850ed",
+    "originalBytes": 1955578,
+    "sources": ["atualizacao-2026-10-30/20251118_143454_mfnr.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-10-d4ec995b-1600.webp",
+    "srcSet": "/midia/memoria/registro-10-d4ec995b-480.webp 480w, /midia/memoria/registro-10-d4ec995b-960.webp 960w, /midia/memoria/registro-10-d4ec995b-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-10-d4ec995b-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-10-d4ec995b-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-10-d4ec995b-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 4160,
+    "height": 3120,
+    "color": "#7e7873",
+    "placeholder": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAwAA8BgJZwAAuTl+fAO4AD+kURLUzz88HRRkujJJBcK12QAAA=="
+  },
+  {
+    "original": "20251118_143540_mfnr.jpg",
+    "country": "memoria",
+    "collection": "outras-edicoes",
+    "title": "Registro de outras edições 11",
+    "description": "Grupo acompanhando uma atividade junto a computadores em um laboratório.",
+    "alt": "Grupo acompanhando uma atividade junto a computadores em um laboratório.",
+    "id": "memoria-registro-11-d36eed62",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "d36eed62195560c7ba6acd5f1687b32f217ec5adb2d959e808c478ebec6d5dd8",
+    "originalBytes": 1708470,
+    "sources": ["atualizacao-2026-10-30/20251118_143540_mfnr.jpg"],
+    "type": "image",
+    "src": "/midia/memoria/registro-11-d36eed62-1600.webp",
+    "srcSet": "/midia/memoria/registro-11-d36eed62-480.webp 480w, /midia/memoria/registro-11-d36eed62-960.webp 960w, /midia/memoria/registro-11-d36eed62-1600.webp 1600w",
+    "variants": [
+      {
+        "src": "/midia/memoria/registro-11-d36eed62-480.webp",
+        "width": 480
+      },
+      {
+        "src": "/midia/memoria/registro-11-d36eed62-960.webp",
+        "width": 960
+      },
+      {
+        "src": "/midia/memoria/registro-11-d36eed62-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 4160,
+    "height": 3120,
+    "color": "#9c9593",
+    "placeholder": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACQAQCdASoQAAwAA8BgJZwAAuN12PAA/u4XdEjC6UI1chtUDwAAAA=="
+  },
+  {
+    "original": "Astalania_Gibi_2026_Final.pdf",
+    "country": "astalania",
+    "collection": "materiais-pais",
+    "title": "Gibi de Astalania",
+    "description": "Uma história em quadrinhos sobre o reino de Astalânia, a soberania digital e a Copa Global da União.",
+    "id": "astalania-gibi-de-astalania-14a45171",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "14a45171a0ba43b5888b907e77df24afa09354e3a1baf089e5c6e93405caf22d",
+    "originalBytes": 56443981,
+    "sources": ["atualizacao-2026-10-30/Astalania_Gibi_2026_Final.pdf"],
+    "type": "document",
+    "src": "/documentos/astalania/gibi-de-astalania.pdf",
+    "bytes": 56443981,
+    "pages": 12,
+    "preserveOriginal": true,
+    "publicSHA256": "14a45171a0ba43b5888b907e77df24afa09354e3a1baf089e5c6e93405caf22d",
+    "poster": "/midia/astalania/gibi-de-astalania-capa-679.webp",
+    "posterSrcSet": "/midia/astalania/gibi-de-astalania-capa-480.webp 480w, /midia/astalania/gibi-de-astalania-capa-679.webp 679w",
+    "width": 679,
+    "height": 960
+  },
+  {
+    "original": "PROJETO_JAMBOR_FINAL_CORRIGIDO.pdf",
+    "country": "jambor",
+    "collection": "materiais-pais",
+    "title": "Projeto de Jambor",
+    "description": "Apresentação ilustrada da história de Jambor, com natureza, cultura, soberania digital e iniciativas comunitárias.",
+    "id": "jambor-projeto-de-jambor-a866a147",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "a866a147fc91640c7e1b5b1b6ddf225b4afe1717bb243691b282421939f1fdcb",
+    "originalBytes": 8127658,
+    "sources": ["atualizacao-2026-10-30/PROJETO_JAMBOR_FINAL_CORRIGIDO.pdf"],
+    "type": "document",
+    "src": "/documentos/jambor/projeto-de-jambor.pdf",
+    "bytes": 8127658,
+    "pages": 8,
+    "preserveOriginal": true,
+    "publicSHA256": "a866a147fc91640c7e1b5b1b6ddf225b4afe1717bb243691b282421939f1fdcb",
+    "poster": "/midia/jambor/projeto-de-jambor-capa-960.webp",
+    "posterSrcSet": "/midia/jambor/projeto-de-jambor-capa-480.webp 480w, /midia/jambor/projeto-de-jambor-capa-960.webp 960w",
+    "width": 960,
+    "height": 540
+  },
+  {
+    "original": "Revista_Jakkar_Rediagramada.pdf",
+    "country": "jakkar",
+    "collection": "materiais-pais",
+    "title": "Revista de Jakkar",
+    "description": "História, governo, leis e educação de Jakkar, com as Escolas de Fronteira e a reconstrução da Biblioteca Ancestral.",
+    "id": "jakkar-revista-de-jakkar-b376bcf2",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "b376bcf25ef361c246e4aa99bd85bcbff9ee0376b09dc62f2a9a92b6ef61f082",
+    "originalBytes": 13586930,
+    "sources": ["atualizacao-2026-10-30/Revista_Jakkar_Rediagramada.pdf"],
+    "type": "document",
+    "src": "/documentos/jakkar/revista-de-jakkar.pdf",
+    "bytes": 13586930,
+    "pages": 4,
+    "preserveOriginal": true,
+    "publicSHA256": "b376bcf25ef361c246e4aa99bd85bcbff9ee0376b09dc62f2a9a92b6ef61f082",
+    "poster": "/midia/jakkar/revista-de-jakkar-capa-679.webp",
+    "posterSrcSet": "/midia/jakkar/revista-de-jakkar-capa-480.webp 480w, /midia/jakkar/revista-de-jakkar-capa-679.webp 679w",
+    "width": 679,
+    "height": 960
+  },
+  {
+    "original": "WhatsApp Video 2026-10-30 at 12.55.32.mp4",
+    "country": "astalania",
+    "collection": "materiais-pais",
+    "title": "Vídeo de Astalania",
+    "description": "Apresentação ilustrada de Astalânia sobre o mar, a soberania digital, o meio ambiente e a união dos povos.",
+    "id": "astalania-video-de-astalania-1d1220c6",
+    "phase": "nao-informada",
+    "activity": 0,
+    "sha256": "1d1220c6e78d79adf81ef23eafb1d65c7aa6d648342f8b7c353451255d32d8ee",
+    "originalBytes": 11918662,
+    "sources": [
+      "atualizacao-2026-10-30/WhatsApp Video 2026-10-30 at 12.55.32.mp4"
+    ],
+    "type": "video",
+    "src": "/midia/astalania/video-de-astalania.mp4",
+    "bytes": 8287143,
+    "duration": 98.266667,
+    "width": 576,
+    "height": 720,
+    "poster": "/midia/astalania/video-de-astalania-poster-576.webp",
+    "posterSrcSet": "/midia/astalania/video-de-astalania-poster-480.webp 480w, /midia/astalania/video-de-astalania-poster-576.webp 576w"
   }
 ]

@@ -8,6 +8,7 @@ import { Icon } from './Icon'
 import { AssetImage } from './AssetImage'
 
 export type GalleryEntry = (typeof galeria)[number]
+type MemoryEntry = { midia: Media; title: string; description: string }
 export function ResponsiveImage({
   media,
   alt,
@@ -43,22 +44,27 @@ export function MediaLightbox({
   initialIndex = 0,
   onClose,
 }: {
-  items: GalleryEntry[]
+  items: (GalleryEntry | MemoryEntry)[]
   initialIndex?: number
   onClose: () => void
 }) {
   const [index, setIndex] = useState(initialIndex)
   const [zoom, setZoom] = useState(false)
   const touch = useRef<number | null>(null)
-  const { midia, entrega } = items[index]
-  const country = paises.find((c) => c.slug === entrega.paisSlug)!
+  const current = items[index]
+  const { midia } = current
+  const entrega = 'entrega' in current ? current.entrega : undefined
+  const title = entrega?.titulo ?? ('title' in current ? current.title : '')
+  const description =
+    entrega?.descricao ?? ('description' in current ? current.description : '')
+  const country = paises.find((c) => c.slug === entrega?.paisSlug)
   const move = (delta: number) => {
     setIndex((i) => (i + delta + items.length) % items.length)
     setZoom(false)
   }
   return (
     <Dialog
-      title={entrega.titulo}
+      title={title}
       onClose={onClose}
       className="media-dialog"
       onKeyDown={(e) => {
@@ -86,7 +92,7 @@ export function MediaLightbox({
         }}
       >
         {midia.type === 'video' ? (
-          <VideoPlayer key={midia.id} media={midia} title={entrega.titulo} />
+          <VideoPlayer key={midia.id} media={midia} title={title} />
         ) : midia.type === 'document' ? (
           <div className="document-preview">
             <Icon name="file" size={60} />
@@ -105,7 +111,7 @@ export function MediaLightbox({
         ) : (
           <ResponsiveImage
             media={midia}
-            alt={`${entrega.titulo}. ${entrega.descricao}`}
+            alt={midia.alt ?? `${title}. ${description}`}
             eager
             sizes="(max-width: 900px) 100vw, 1100px"
           />
@@ -114,11 +120,13 @@ export function MediaLightbox({
       <div className="lightbox-info">
         <div>
           <p className="eyebrow">
-            {country.nome} · {dateLabel(entrega)}
+            {country && entrega
+              ? `${country.nome} · ${dateLabel(entrega)}`
+              : 'Outras edições'}
           </p>
-          <h2>{entrega.titulo}</h2>
-          <p>{entrega.descricao}</p>
-          {entrega.responsaveis.length > 0 && (
+          <h2>{title}</h2>
+          <p>{description}</p>
+          {entrega && entrega.responsaveis.length > 0 && (
             <p className="credit">por {entrega.responsaveis.join(', ')}</p>
           )}
         </div>

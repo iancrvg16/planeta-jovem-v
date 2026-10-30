@@ -105,7 +105,9 @@ def generate(args):
         if item.get('sha256') and not item.get('extracted'):
             old.setdefault(VERSION + '-' + item['id'], {'result':{k:v for k,v in item.items() if k not in identity_keys}, 'outputs':asset_outputs(item)})
     cache = {}; manifest = []; duplicates = []; ignored = []; seen = {}
-    sources = sorted((p for p in RAW.rglob('*') if p.is_file()), key=lambda p: ('Atividade 1' not in str(p), str(p)))
+    # This named delivery has explicit associations and byte-preserving PDF policy.
+    # Only importar-atualizacao.py imports it; the general processor preserves its records.
+    sources = sorted((p for p in RAW.rglob('*') if p.is_file() and 'atualizacao-2026-10-30' not in p.parts), key=lambda p: ('Atividade 1' not in str(p), str(p)))
     if not sources: raise RuntimeError('Adicione os arquivos em _entregas/ antes de processar.')
     for path in sources:
         if 'Screenshot_20260929_190842_Drive' in path.name:
@@ -248,7 +250,7 @@ def generate(args):
     manifest_temp = manifest_path.with_suffix('.json.tmp')
     manifest_temp.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     # O navegador recebe só campos de exibição; hashes, origens e cache ficam no inventário.
-    runtime_keys = {'id','country','phase','activity','type','original','src','srcSet','width','height','color','poster','posterSrcSet','duration','bytes','pages','extracted'}
+    runtime_keys = {'id','country','phase','activity','type','original','src','srcSet','width','height','color','poster','posterSrcSet','duration','bytes','pages','extracted','collection','title','description','alt'}
     public_path = ROOT/'src/data/generated/midias-publicas.json'
     public_temp = public_path.with_suffix('.json.tmp')
     public_temp.write_text(json.dumps([{k:v for k,v in item.items() if k in runtime_keys} for item in manifest],ensure_ascii=False,indent=2)+'\n')
@@ -280,7 +282,7 @@ def generate(args):
     print(json.dumps(report,ensure_ascii=False,indent=2))
 
 def preflight(args):
-    sources = [p for p in RAW.rglob('*') if p.is_file()]
+    sources = [p for p in RAW.rglob('*') if p.is_file() and 'atualizacao-2026-10-30' not in p.parts]
     if not sources:
         raise RuntimeError('Adicione fontes em _entregas/ antes de processar; acervo anterior preservado.')
     if args.hero != '_referencias/hero-alta.jpg' and not (ROOT/args.hero).is_file():

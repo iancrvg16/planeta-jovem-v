@@ -96,6 +96,22 @@ const g = (
 // Datas vêm dos relatórios, nunca do mtime do ZIP. Ausência de data é explícita.
 // TODO: confirmar datas e autorias ausentes de Galixandria e dos registros avulsos de Jakkar.
 export const entregas: Delivery[] = [
+  ...midias
+    .filter((m) => m.collection === 'materiais-pais')
+    .map((m) =>
+      entry(
+        m.id,
+        m.country as CountrySlug,
+        m.title!,
+        m.description!,
+        [m.original],
+        [],
+        undefined,
+        undefined,
+        [],
+        { fase: m.phase, atividade: m.activity },
+      ),
+    ),
   a(
     'a-marco',
     '13',
@@ -892,6 +908,7 @@ export function impactNumbers(now = new Date()) {
 }
 export function mediaTitle(m: Media) {
   return (
+    m.title ??
     entregas.find((e) => e.midias.some((i) => i.id === m.id))?.titulo ??
     m.original
   )
@@ -905,5 +922,11 @@ export function dateLabel(e: Delivery) {
         timeZone: 'UTC',
       }).format(new Date(`${e.dataISO}T12:00:00Z`)) +
         (e.hora ? ` · ${e.hora}` : '')
-    : `Fase ${e.fase.replace('fase-', '')} · data não informada`
+    : e.fase === 'nao-informada'
+      ? 'Data não informada'
+      : `Fase ${e.fase.replace('fase-', '')} · data não informada`
 }
+
+export const outrasEdicoes = midias.filter(
+  (m) => m.collection === 'outras-edicoes',
+)

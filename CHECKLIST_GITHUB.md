@@ -4,8 +4,8 @@ Este arquivo descreve ações futuras. Nenhum commit, push, remoto ou deploy foi
 
 ## Antes de versionar
 
-- [ ] Na cópia original, verificar `git rev-parse --show-toplevel`, `git status`, branch, HEAD e `git remote -v`. Preservar histórico e alterações existentes. Neste workspace, `.git` é protegido e não constitui repositório acessível.
-- [ ] Resolver o acesso aos metadados com o responsável pelo ambiente. Não apagar, substituir ou mover `.git` para contornar o problema.
+- [ ] Na cópia original, verificar `git rev-parse --show-toplevel`, `git status`, branch, HEAD e `git remote -v`. Preservar histórico e alterações existentes. A leitura do Git foi confirmada em 30/10/2026; o estado inicial estava limpo.
+- [x] Confirmar acesso de leitura ao repositório e preservar seus metadados, histórico e remotos.
 - [ ] Somente se for confirmado que é uma pasta independente sem histórico, inicializar localmente com `git init -b main`. Se houver repositório válido, manter branch, histórico e remotes; não reinicializar por rotina.
 - [ ] Conferir `.gitignore` e `git ls-files`: os ignores não retiram arquivos já rastreados. Revisar segredos no histórico acessível com ferramenta adequada; não reescrever histórico sem autorização.
 - [ ] Executar `npm ci`, `npm run lint`, `npm run format:check`, `npm run typecheck`, `npm run build`, `npm run test:conteudo`, `npm run test:docs`, `npm run test:python`, `npm test`, `npm run test:links` com preview e as duas modalidades de `npm audit`.
@@ -17,9 +17,9 @@ Este arquivo descreve ações futuras. Nenhum commit, push, remoto ou deploy foi
 - [ ] Obter decisões dos titulares sobre código/licença. Nenhuma licença foi presumida nesta entrega.
 - [ ] Conferir cada material, seus créditos e nomes de arquivos contra o escopo de redistribuição no GitHub. Registrar decisões por ID/hash em `docs/publication-status.json`, com referência não pessoal; manter os comprovantes fora do Git.
 - [ ] Confirmar também os nomes e créditos nos dados/manifestos, fontes e licenças de terceiros. Uma licença do código não cobre automaticamente o acervo.
-- [ ] Executar `npm run check:github -- --public`: atualmente deve bloquear por pendências editoriais. Resolver os motivos antes de declarar pronto para repositório público.
+- [ ] Executar `npm run check:github -- --public`: deve confirmar a cobertura dos arquivos públicos e as declarações de 29 e 30/10/2026, mantendo os registros restritos.
 - [ ] Escolher acesso/visibilidade apropriados. Um repositório privado também exige política de acesso e autorização adequadas; não usar essa opção como aprovação automática.
-- [ ] Revisar limites de tamanho caso haja novas mídias. Atualmente não é necessário LFS; maior arquivo público abaixo de 9 MiB. Não migrar histórico nem configurar LFS sem necessidade.
+- [ ] Revisar limites de tamanho caso haja novas mídias. O gibi de Astalania tem 56.443.981 bytes, acima do aviso de 50 MiB e abaixo do limite de 100 MiB do Git normal; seus bytes foram preservados. Não migrar histórico nem configurar LFS sem necessidade.
 
 ## Primeiro envio, após resolver os bloqueios
 
@@ -33,7 +33,7 @@ Este arquivo descreve ações futuras. Nenhum commit, push, remoto ou deploy foi
 
 ## Produção, em fluxo separado
 
-- [ ] Revisar alternativas acessíveis dos seis vídeos e publicar somente legendas/transcrições revisadas.
+- [ ] Revisar alternativas acessíveis dos sete vídeos e publicar somente legendas/transcrições revisadas.
 - [ ] Recuperar uma fonte íntegra da apresentação de Galixandria antes de voltar a destacá-la; a mitigação estática já está implementada e os vídeos foram preservados.
 - [ ] Validar conteúdo, PDFs e experiência assistiva manualmente; confirmar canais externos sem presumir envio.
 - [ ] Validar headers, canonical, redirects, 404, downloads e range de vídeo no ambiente real da hospedagem.

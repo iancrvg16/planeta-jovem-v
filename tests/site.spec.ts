@@ -1,6 +1,12 @@
 import { test, expect } from '@playwright/test'
 import AxeBuilder from '@axe-core/playwright'
-import { entregas, midias, galeria, impactNumbers } from '../src/data/acervo'
+import {
+  entregas,
+  midias,
+  galeria,
+  impactNumbers,
+  outrasEdicoes,
+} from '../src/data/acervo'
 import { paises } from '../src/data/paises'
 import { contactUrl, siteConfig } from '../src/config/site'
 import { existsSync, readFileSync } from 'node:fs'
@@ -74,13 +80,14 @@ test('dados publicados completos, arquivos originais e contagens verificáveis',
     ['image', 'video', 'document', 'briefing'].includes(m.type),
   )) {
     expect(
-      entregas.some((e) => e.midias.some((asset) => asset.id === m.id)),
+      entregas.some((e) => e.midias.some((asset) => asset.id === m.id)) ||
+        outrasEdicoes.some((asset) => asset.id === m.id),
       m.original,
     ).toBe(true)
     expect(existsSync(`public${m.src}`), m.src).toBe(true)
     if (m.type === 'image') expect(m.width! > 0 && m.height! > 0).toBe(true)
   }
-  expect(galeria.filter((g) => g.midia.type === 'video')).toHaveLength(6)
+  expect(galeria.filter((g) => g.midia.type === 'video')).toHaveLength(7)
   expect(impactNumbers(new Date('2026-09-30T15:00:00Z')).at(-1)?.value).toBe(18)
   const manual = await request.get(siteConfig.manualUrl)
   expect(manual.ok()).toBe(true)
@@ -107,6 +114,9 @@ test('filtros de galeria e atividades persistem e tratam seleção vazia', async
   await expect(
     page.getByRole('combobox', { name: 'País', exact: true }),
   ).toHaveValue('astalania')
+  await page
+    .getByRole('combobox', { name: 'País', exact: true })
+    .selectOption('lervuria')
   await page.getByRole('button', { name: 'Vídeos', exact: true }).click()
   await expect(
     page.getByRole('heading', { name: 'Esse álbum ainda está sendo criado.' }),
@@ -115,13 +125,13 @@ test('filtros de galeria e atividades persistem e tratam seleção vazia', async
     .getByRole('button', { name: 'Limpar filtros', exact: true })
     .click()
   await page.getByRole('button', { name: 'Documentos', exact: true }).click()
-  await expect(page.locator('.gallery-card')).toHaveCount(14)
+  await expect(page.locator('.gallery-card')).toHaveCount(17)
   await page.goto('/atividades')
   await page
     .getByRole('combobox', { name: 'País', exact: true })
     .selectOption('jambor')
   await expect(page.locator('.delivery-timeline .delivery-card')).toHaveCount(
-    20,
+    21,
   )
   await page.getByRole('button', { name: 'Limpar filtros' }).click()
   await page

@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { usePageMeta } from '../lib/usePageMeta'
+import { OtherEditions } from '../components/OtherEditions'
 import { homeContent, journey } from '../data/editorial'
 import { entregasOrdenadas, galeria, mediaFile } from '../data/acervo'
 import hero from '../data/generated/hero.json' with { type: 'json' }
@@ -358,6 +359,7 @@ export default function Home() {
             mosaic
           />
         </section>
+        <OtherEditions />
         <PartnerBanner />
         <PartnerStrip />
         <div className="closing-line">

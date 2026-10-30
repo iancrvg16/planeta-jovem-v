@@ -28,7 +28,7 @@ test('Jambor pelo card, documentos, galeria e vídeos sob demanda', async ({
       name: 'Ampliar imagem: Brasão oficial de Jambor',
     }),
   ).toBeVisible()
-  await expect(page.locator('#documentos-pais .download-card')).toHaveCount(8)
+  await expect(page.locator('#documentos-pais .download-card')).toHaveCount(9)
   expect(videoRequests).toEqual([])
 
   const assets = midias.filter((m) => m.country === 'jambor')
@@ -66,7 +66,11 @@ test('Jambor pelo card, documentos, galeria e vídeos sob demanda', async ({
   }
   expect(
     entregas
-      .filter((e) => e.paisSlug === 'jambor')
+      .filter(
+        (e) =>
+          e.paisSlug === 'jambor' &&
+          !e.midias.some((m) => m.collection === 'materiais-pais'),
+      )
       .every(
         (e) =>
           e.atividade === 1 &&

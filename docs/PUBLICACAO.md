@@ -1,3 +1,17 @@
+# Inclusão pública solicitada em 30/10/2026
+
+Referência: `autorizacao-responsavel-2026-10-30`.
+
+O responsável solicitou explicitamente a inclusão pública das 11 fotografias, dos três PDFs e do vídeo de Astalania e reiterou possuir autorização total para disponibilizar código e acervo. Os 15 novos registros foram aprovados por essa declaração, com hashes dos derivados públicos. Não foram inventados comprovantes externos, licenças ou revisão de acessibilidade. As decisões de 29/10/2026 e os quatro registros restritos foram preservados. O controle contém agora 149 registros, incluindo 111 mídias do manifesto e os 38 grupos anteriores.
+
+A home mantém “Outras edições” separada dos países atuais. Os documentos aparecem nos países confirmados, no catálogo, nos filtros e na busca, sem duplicação de registros. Os PDFs preservam integralmente os bytes de origem; o gibi de Astalania tem 56.443.981 bytes e gera aviso de tamanho no GitHub. Não há novo bloqueio editorial para esses materiais; executar também `npm run check:github -- --public` para verificar a cobertura por hashes.
+
+O novo vídeo `astalania-video-de-astalania-1d1220c6` está pendente de legendas/transcrição revisadas. Nenhuma foi fornecida no lote. Os sete vídeos do acervo permanecem com pendências de alternativas acessíveis. Os novos PDFs não têm marcação estrutural (Tagged: no); sua acessibilidade assistiva também não foi declarada revisada. A decodificação integral da fonte e a detecção de preto não indicaram trechos pretos no vídeo de Astalania; o problema histórico de Galixandria permanece independente.
+
+Os trechos abaixo preservam o diagnóstico anterior e seus números históricos; não representam novo bloqueio sobre os materiais autorizados.
+
+---
+
 # Atualização da autorização de publicação
 
 Referência: `autorizacao-responsavel-2026-10-29`.

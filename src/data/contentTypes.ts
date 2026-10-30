@@ -20,6 +20,10 @@ export type Media = {
   bytes?: number
   pages?: number
   extracted?: boolean
+  collection?: 'outras-edicoes' | 'materiais-pais'
+  title?: string
+  description?: string
+  alt?: string
 }
 export type Delivery = {
   id: string

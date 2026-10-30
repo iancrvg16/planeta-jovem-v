@@ -4,11 +4,38 @@ import { createHash } from 'node:crypto'
 import assert from 'node:assert/strict'
 const media = JSON.parse(readFileSync('src/data/generated/midias.json'))
 const files = new Set()
+const update = JSON.parse(readFileSync('scripts/atualizacao-2026-10-30.json'))
+for (const expected of update) {
+  const matching = media.filter((m) => m.original === expected.original)
+  assert.equal(
+    matching.length,
+    1,
+    `Registro da atualização ausente ou duplicado: ${expected.original}`,
+  )
+  const actual = matching[0]
+  for (const key of ['country', 'collection', 'title', 'description', 'alt'])
+    assert.equal(
+      actual[key],
+      expected[key],
+      `Associação editorial incorreta: ${key}`,
+    )
+  assert.equal(actual.activity, 0, 'Não inferir atividade dos novos materiais')
+  assert.equal(
+    actual.phase,
+    'nao-informada',
+    'Não inferir fase dos novos materiais',
+  )
+}
+assert.equal(media.filter((m) => m.collection === 'outras-edicoes').length, 11)
 for (const m of media) {
   for (const path of [
     m.src,
     m.poster,
     ...(m.variants ?? []).map((v) => v.src),
+    ...(m.posterSrcSet ?? '')
+      .split(',')
+      .filter(Boolean)
+      .map((v) => v.trim().split(' ')[0]),
   ].filter(Boolean)) {
     assert(existsSync(`public${path}`), `Arquivo ausente: ${path}`)
     assert(/^[a-z0-9/.-]+$/.test(path), `Nome não normalizado: ${path}`)
@@ -20,7 +47,30 @@ for (const m of media) {
     assert(m.variants.every((v) => statSync(`public${v.src}`).size <= 350000))
   }
   if (m.type === 'video') assert(m.bytes <= 10 * 1024 * 1024)
-  if (m.type === 'document') assert(m.bytes <= 5 * 1024 * 1024)
+  if (m.type === 'document') {
+    if (m.preserveOriginal) {
+      assert.equal(m.collection, 'materiais-pais')
+      assert(
+        update.some(
+          (entry) =>
+            entry.original === m.original &&
+            entry.country === m.country &&
+            entry.original.endsWith('.pdf'),
+        ),
+        'Preservação integral permitida somente para os três PDFs desta entrega',
+      )
+      assert(m.bytes <= 100 * 1024 * 1024, 'PDF excede o limite do Git normal')
+      assert.equal(m.bytes, m.originalBytes, 'Tamanho original do PDF alterado')
+      assert.equal(statSync(`public${m.src}`).size, m.bytes)
+      assert.equal(m.publicSHA256, m.sha256, 'PDF original alterado')
+      assert.equal(
+        createHash('sha256')
+          .update(readFileSync(`public${m.src}`))
+          .digest('hex'),
+        m.sha256,
+      )
+    } else assert(m.bytes <= 5 * 1024 * 1024)
+  }
   assert(!m.original.startsWith('Screenshot_'))
 }
 const old = JSON.parse(readFileSync('docs/inventario-anterior.json'))

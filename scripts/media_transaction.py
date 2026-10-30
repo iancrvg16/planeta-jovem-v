@@ -13,7 +13,7 @@ import shutil
 import tempfile
 
 OUTPUTS = ('public', 'src/data/generated')
-DOCUMENTS = ('cores-amostradas.json', 'relatorio-midias.json')
+DOCUMENTS = ('cores-amostradas.json', 'relatorio-midias.json', 'publication-status.json')
 
 
 def digest(path):

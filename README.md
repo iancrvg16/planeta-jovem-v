@@ -101,11 +101,11 @@ O pipeline tem trava POSIX, staging, rollback e recuperação no próximo proces
 
 ## Acessibilidade e publicação
 
-O player suporta WebVTT com idioma/rótulo e transcrição. Somente material revisado com referência de decisão pode entrar em `src/data/mediaAccessibility.ts`. **Os seis vídeos continuam pendentes de revisão de alternativas acessíveis.** As fixtures usam texto sintético, não transcrevem falas reais e não entram no build público.
+O player suporta WebVTT com idioma/rótulo e transcrição. Somente material revisado com referência de decisão pode entrar em `src/data/mediaAccessibility.ts`. **Os sete vídeos continuam pendentes de revisão de alternativas acessíveis.** As fixtures usam texto sintético, não transcrevem falas reais e não entram no build público.
 
 A fonte disponível da apresentação de Galixandria também contém o trecho preto. O destaque da home foi substituído pela bandeira e acesso ao país; arquivos originais/derivados foram preservados. A recuperação do vídeo permanece editorialmente pendente.
 
-Leia [situação de publicação e direitos](docs/PUBLICACAO.md), [relatório das correções](RELATORIO_CORRECOES.md) e [checklist GitHub](CHECKLIST_GITHUB.md). Não foi escolhida licença de código ou de mídia: essa decisão pertence aos titulares. **A publicação em repositório público depende de confirmação do acervo, créditos e direitos.** Um site público existente não comprova permissão para redistribuir seus materiais no GitHub.
+Leia [situação de publicação e direitos](docs/PUBLICACAO.md), [relatório das correções](RELATORIO_CORRECOES.md) e [checklist GitHub](CHECKLIST_GITHUB.md). Não foi escolhida licença de código ou de mídia: essa decisão pertence aos titulares. **O responsável declarou autorização de publicação em 29/10/2026 e reiterou-a para a nova entrega em 30/10/2026; os registros restritos permanecem restritos.** Um site público existente não comprova permissão para redistribuir seus materiais no GitHub.
 
 O relatório técnico original e evidências históricas permanecem locais, ignorados no conjunto público por conterem caminhos e detalhes internos. O relatório de correções documenta esta entrega; não existe relatório retroativo de remediação recuperado. O link anterior foi substituído por documentação existente.
 
@@ -115,4 +115,18 @@ Abra a raiz como projeto. Selecione Node compatível e npm em `package.json`; ex
 
 O GitHub Actions instala Node, Python/Pillow e Chromium com bibliotecas do sistema; executa lint, formato, tipos/build, conteúdo, documentação, Python, Playwright, links, auditorias npm e revisão de candidatos. As falhas guardam relatórios/traces por sete dias. O workflow ainda precisa de sua primeira execução real no GitHub. Não há secrets exigidos nem deploy configurado.
 
-Neste workspace, `.git` está inacessível como repositório válido e protegido contra escrita. Nenhum histórico foi substituído, nenhum commit/remoto foi criado. Siga o checklist para resolver esse ponto na cópia original antes do primeiro envio.
+Em 30/10/2026, o repositório Git foi lido normalmente e estava limpo antes da atualização. Histórico e remotos foram preservados; esta entrega não inclui commit, push ou deploy.
+
+## Materiais incorporados em 30/10/2026
+
+A home contém as 11 fotografias em “Outras edições”, com descrições visuais e lightbox, sem associação a países ou números de edição. Os países Astalania, Jambor e Jakkar recebem respectivamente o gibi, o projeto e a revista, com capas reais, abertura e download. O vídeo de Astalania aparece junto aos materiais do país e no acervo; suas legendas estão pendentes. Os novos materiais não têm fase, atividade, data de produção ou autoria presumidas.
+
+A importação dedicada usa a mesma transação e conversão responsiva do pipeline:
+
+```bash
+python3 scripts/importar-atualizacao.py
+```
+
+O mapeamento editorial fica em `scripts/atualizacao-2026-10-30.json`; o frontend lê os manifestos gerados como fonte única para destaque, catálogo, filtros e busca. Fontes ficam em `_entregas/atualizacao-2026-10-30/`, ignoradas. Ausências são informadas individualmente; itens independentes são processados e o acervo anterior é preservado. O processador geral preserva esta entrega e delega sua importação ao comando dedicado.
+
+Os três PDFs públicos preservam os bytes recebidos. O gibi ocupa 56.443.981 bytes: supera o aviso de 50 MiB do GitHub, mas está abaixo do limite de 100 MiB do Git normal. Usar Git para o futuro envio; nenhum LFS ou histórico foi alterado. O vídeo foi otimizado para o orçamento existente de 10 MiB, mantendo dimensões, duração e áudio original. O build continua independente das fontes privadas.

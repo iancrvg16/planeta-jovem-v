@@ -1,4 +1,5 @@
 import { Link, useParams } from 'react-router-dom'
+import { CountryMaterials } from '../components/CountryMaterials'
 import type { CSSProperties } from 'react'
 import { paises } from '../data/paises'
 import {
@@ -158,6 +159,7 @@ export function Pais() {
             <CountryEmblem country={country} />
           </div>
         </section>
+        <CountryMaterials country={country.slug} />
         {country.status === 'em-breve' ? (
           <section className="section">
             <SectionHeading
